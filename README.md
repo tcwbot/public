@@ -4,6 +4,8 @@ __Python:__
  
 __create_flask_app__ : Flask Templating engine to create apps
 
+__cidr calculator__ : FlaskApp cidr | subnet calculator.
+
 __interrupt_driven__ : tool for managing priorities
 
 __Java:__
