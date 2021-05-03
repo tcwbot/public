@@ -1,7 +1,7 @@
 # Projects
-
+ 
 __Python:__
-
+ 
 __create_flask_app__ : Flask Templating engine to create apps
 
 __interrupt_driven__ : tool for managing priorities
