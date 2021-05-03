@@ -1,0 +1,31 @@
+'''
+Creates a skeleton flask project
+'''
+import os 
+import sys
+
+def create_project(project):
+    mode = 0o766
+    pwd = os.getcwd()
+    path = os.path.join(pwd, project)
+    path_templates=os.path.join(path,"templates")
+    path_static=os.path.join(path,"static")
+    os.mkdir(path, mode)
+    os.mkdir(path_templates,mode)
+    os.mkdir(path_static,mode)
+    f = open(os.path.join(path_static,"index.html"),"w+")
+    f = open(os.path.join(path,"app.py"),"w+")
+    f = open(os.path.join(path,".gitignore"),"w+")
+    f = open(os.path.join(path,".readme.md"),"w+")
+    f = open(os.path.join(path,"requirements.txt"),"w+")
+    f.close
+    
+if len(sys.argv) > 1:
+    project_name=str(sys.argv[1])
+    create_project(project_name)
+    print( "Flask Project Created: ", str(sys.argv[1]) )
+else:
+    print("error: no project name.")
+
+
+
