@@ -1,5 +1,7 @@
+###
 # removes everything between the delimiter strings
-
+# written : tcwbot
+###
 import sys, re
 
 # Error condition
@@ -7,6 +9,8 @@ if len(sys.argv)<=2:
     print("Usage: (help)\n\t$ python delimit.py \'delimitingString\' exactFilename")
     exit()  # early exit
 
+# Finds all indices that match delimiter, only use first and last indices 
+# to remove unwanted data in between.
 def parsefile(): 
     try:
         f = open(sys.argv[2], "r")
