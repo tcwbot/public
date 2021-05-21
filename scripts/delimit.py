@@ -27,4 +27,6 @@ def parsefile():
             print("No such file or directory:",sys.argv[2])
     finally:
         f.close()
-parsefile()
+
+if __name__=='__main__':
+    parsefile()
