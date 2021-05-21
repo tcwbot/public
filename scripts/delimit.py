@@ -1,25 +1,24 @@
 # removes everything between the delimiter strings
 
-import sys
+import sys, re
 
 # Error condition
-if len(sys.argv)<=1:
-    print("`Usage: (help)\n\t$ python delimit.py \'delimitingString\' exactFilename")
+if len(sys.argv)<=2:
+    print("Usage: (help)\n\t$ python delimit.py \'delimitingString\' exactFilename")
     exit()  # early exit
 
 def parsefile(): 
     try:
         f = open(sys.argv[2], "r")
-        content = f.read()
-        content_list = content.splitlines()
+        content_list = f.read().splitlines()
         f.close()
         arr=[]
         j=0
         for i in content_list:
-            if i==sys.argv[1]:
+            #if i==sys.argv[1]:
+            if bool(re.search(sys.argv[1],i)):
                 arr.append(j)
             j+=1
-
         j=0
         while(j<len(content_list)):
             if not (j in range(arr[0],arr[-1]+1)):
