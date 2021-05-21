@@ -11,7 +11,6 @@ def parsefile():
     try:
         f = open(sys.argv[2], "r")
         content_list = f.read().splitlines()
-        f.close()
         arr=[]
         j=0
         for i in content_list:
@@ -26,5 +25,6 @@ def parsefile():
             j+=1
     except IOError: 
             print("No such file or directory:",sys.argv[2])
-
+    finally:
+        f.close()
 parsefile()
