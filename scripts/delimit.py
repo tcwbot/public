@@ -1,4 +1,4 @@
-# delimites and removes everything in between.. only
+# removes everything between the delimiter strings
 
 import sys
 
