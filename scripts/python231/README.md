@@ -1,3 +1,5 @@
+There are two version of gets_certs.py. One is single threaded and the other is multi-threaded, which is faster.
+
 # Output
 ```
 231cs-python $ grep "Active" certs.txt | grep "Certificate" | sort -f | head -3
