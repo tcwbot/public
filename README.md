@@ -3,7 +3,7 @@
 __Python:__
 
 
-__probcr__ : contributor to library. 
+__probcr__ : contributor to OCR library. https://github.com/aaronbrick/probcr
 
 __create_flask_app__ : Flask Templating engine to create apps
 
