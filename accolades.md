@@ -8,7 +8,7 @@
 [CCSF] Academic Project
 Experiment with adding probabilistic judgments based on a linguistic corpus to an OCR system.
 
-[Computer Programming: Java Certificate of Achievement] (https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
+[Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
 
 ## University of California, Davis
 [BA - Physics](https://physics.ucdavis.edu/)
