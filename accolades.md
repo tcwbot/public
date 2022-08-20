@@ -11,5 +11,5 @@ Experiment with adding probabilistic judgments based on a linguistic corpus to a
 [Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
 
 ## University of California, Davis
-[BA - Physics](https://physics.ucdavis.edu/)
+[Bachelor of Arts - AB, Physics](https://physics.ucdavis.edu/)
 
