@@ -8,6 +8,6 @@
 [CCSF] Academic Project
 Experiment with adding probabilistic judgments based on a linguistic corpus to an OCR system.
 
-
-
+## University of California, Davis
+[BA - Physics](https://physics.ucdavis.edu/)
 
