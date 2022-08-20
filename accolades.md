@@ -1,7 +1,13 @@
 
+## CU Boulder
+[Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK)
 
-[[CU Boulder] Algorithms for Searching, Sorting, and Indexing](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fcoursera.org%2Fshare%2F4b25d8ca3c8049ce8ee36bfb1ad4f95c)
+[The Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/verify/NQAH68QLKJ5G?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
 
+## CCSF
 [CCSF] Academic Project
 Experiment with adding probabilistic judgments based on a linguistic corpus to an OCR system.
+
+
+
 
