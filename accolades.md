@@ -25,13 +25,14 @@ DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
 EMEA 5031 Foundations and Initiation<br/>
 
 ## City College of San Francisco
+[Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
+
 Academic Project, Led by [Pr. Aaron Brick](https://github.com/aaronbrick)
 Experiment with adding probabilistic judgments based on a linguistic corpus to an OCR system.
 
-[Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
-
 ## University of California, Davis
 [Bachelor of Arts - AB, Physics](https://physics.ucdavis.edu/)
+
 Projects: 
 - Solid State Physics (experimental): Developed techniques synthesyzing 14-1-11 Zenthil Crystals.
 - Solid State Physics (theroetical):  Developed a Molecular Dynamic Simulations using Leanard Jones and Monte Carlo Simulations
