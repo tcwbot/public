@@ -6,7 +6,7 @@
 graph LR
 A[First Phase]
 -->B[Second Phase]
--->C[Thrid Phase]
+-->C[Third Phase]
 ```
 __First Phase - Subject to change__
 - [x] - [DTSA 5501 Algorithms for Searching Sorting and Indexing](https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK)
