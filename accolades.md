@@ -1,5 +1,6 @@
 
-## [CU Boulder - Master of Science - Data Science](https://www.colorado.edu/program/data-science/coursera-overview)
+## University of Colorado, Boulder
+[Master of Science - Data Science](https://www.colorado.edu/program/data-science/coursera-overview)
 
 ```mermaid
 graph LR
