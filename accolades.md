@@ -27,8 +27,8 @@ EMEA 5031 Foundations and Initiation<br/>
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
 
-Academic Project, Led by [Pr. Aaron Brick](https://github.com/aaronbrick)
-Experiment with adding probabilistic judgments based on a linguistic corpus to an OCR system.
+Academic Project, Led by [Pr. Aaron Brick](https://github.com/aaronbrick)<br/>
+Experimented with adding probabilistic judgments based on a linguistic corpus to an OCR system.
 
 ## University of California, Davis
 [Bachelor of Arts - AB, Physics](https://physics.ucdavis.edu/)
