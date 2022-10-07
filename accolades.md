@@ -35,7 +35,7 @@ Experimented with adding probabilistic judgments based on a linguistic corpus to
 
 Projects: 
 - Solid State Physics (experimental): Developed techniques synthesyzing 14-1-11 Zenithil Crystals (single-domain).
-- Solid State Physics (theroetical):  Developed Molecular Dynamic Simulations using Leanard Jones and Monte Carlo models.
+- Solid State Physics (heoretical):  Developed Molecular Dynamic Simulations using Leanard Jones and Monte Carlo models.
 - Geology : Developed a Data Visualization Tool for veiwing First-Order Reversal Curves and their multidimensional Transormations on Ice Core Datasets.
 
 ---
