@@ -2,7 +2,7 @@
  
 __Python:__
 
-
+__logger4py__ : A LoggerManager similar to log4j a python implementation.
 __probcr__ : contributor to OCR library. https://github.com/aaronbrick/probcr
 
 __create_flask_app__ : Flask Templating engine to create apps
