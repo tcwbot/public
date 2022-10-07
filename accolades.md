@@ -24,6 +24,29 @@ DTSA 5511 Introduction to Deep Learning<br/>
 DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
 EMEA 5031 Foundations and Initiation<br/>
 
+=== Second Phase<br/>
+DTSA 5510 Unsupervised Algorithms in Machine Learning (1 credit)<br/>
+DTSA 5301 Data Science as a Field (1 credit)<br/>
+DTSA 5302 Cybersecurity for Data Science (1 credit)<br/>
+DTSA 5303 Ethical Issues in Data Science (1 credit)<br/>
+DTSA 5707 Deep Learning Applications for Computer Vision (1 credit)<br/>
+DTSA 5020 Regression and Classification (1 credit)<br/>
+DTSA 5507 Fundamentals of Software Architecture for Big Data (1 credit)<br/>
+EMEA 5032 Project Planning and Execution (1 credit)<br/>
+EMEA 5033 Agile Project Management (1 credit)<br/>
+DTSA 5842 Effective Communication: Writing Design and Presentation (1 credit)<br/>
+
+=== Third Phase<br/>
+DTSA 5504 Data Mining Pipeline (1 credit)<br/>
+DTSA 5505 Data Mining Methods (1 credit)<br/>
+DTSA 5506 Data Mining Project (1 credit)<br/>
+DTSA 5001 Probability Theory - Foundation for Data Science (1 credit)<br/>
+DTSA 5002 Statistical Inference for Estimation in Data Science (1 credit)<br/>
+DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
+DTSA 5011 Modern Regression Analysis in R (1 credit)<br/>
+DTSA 5012 ANOVA and Experimental Design (1 credit)<br/>
+DTSA 5013 Generalized Linear Models and Nonparametric Regression (1 credit)<br/>
+
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
 
