@@ -10,12 +10,12 @@ A[First Phase]
 __First Phase - Subject to change__
 - [x] - [DTSA 5501 Algorithms for Searching Sorting and Indexing](https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK)
 - [x] - [DTSA 5734 The Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK)
-- [x] - DTSA 5735 Advanced Topics and Future Trends in Database Technologies - Elective (1 credit)
+- [x] - DTSA 5735 Advanced Topics and Future Trends in Database Technologies
 <br/>
 
-- [ ]  - DTSA 5733 Relational Database Design (1 credit)
-- [ ]  - DTSA 5502 Trees and Graphs - Basics (1 credit)
-- [ ]  - DTSA 5304 Fundamentals of Data Visualization (1 credit)
+- [ ]  - DTSA 5733 Relational Database Design
+- [ ]  - DTSA 5502 Trees and Graphs - Basics 
+- [ ]  - DTSA 5304 Fundamentals of Data Visualization
 
 DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
 DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
