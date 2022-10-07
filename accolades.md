@@ -32,6 +32,10 @@ Experiment with adding probabilistic judgments based on a linguistic corpus to a
 
 ## University of California, Davis
 [Bachelor of Arts - AB, Physics](https://physics.ucdavis.edu/)
+Projects: 
+- Solid State Physics (experimental): Developed techniques synthesyzing 14-1-11 Zenthil Crystals.
+- Solid State Physics (theroetical):  Developed a Molecular Dynamic Simulations using Leanard Jones and Monte Carlo Simulations
+- Geology : Developed Data Visualizations Tool for veiwing Reversal Curves and it's multidemensional Transormations on Ice Core Datasets.
 
 ---
 
