@@ -28,7 +28,7 @@ EMEA 5031 Foundations and Initiation<br/>
 [Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
 
 Academic Project, Led by [Pr. Aaron Brick](https://github.com/aaronbrick)<br/>
-Experimented with adding probabilistic judgments based on a linguistic corpus to an OCR system.
+Experimented with adding probabilistic judgments based on a linguistic corpus to an OCR system(Tesseract-OCR).
 
 ## University of California, Davis
 [Bachelor of Arts - AB, Physics](https://physics.ucdavis.edu/)
