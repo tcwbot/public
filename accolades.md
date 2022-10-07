@@ -10,7 +10,7 @@ A[First Phase]
 ```
 __First Phase - Subject to change__
 - [x] - [DTSA 5501 Algorithms for Searching Sorting and Indexing](https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK)
-- [x] - [DTSA 5734 The Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK)
+- [x] - [DTSA 5734 The Structured Query Language (SQL)](https://www.coursera.org/learn/the-structured-query-language-sql)
 - [x] - DTSA 5735 Advanced Topics and Future Trends in Database Technologies
 <br/>
 
