@@ -10,7 +10,7 @@ A[First Phase]
 ```
 __First Phase - Subject to change__
 
-Focus
+Focus - Fall Session 2
 - [ ]  - [DTSA 5733 Relational Database Design](https://www.coursera.org/learn/relational-database-design/home/welcome)<br/>
 - [ ]  - [DTSA 5304 Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization/home/welcome)<br/>
 - [ ]  - DTSA 5502 Trees and Graphs - Basics <br/>
@@ -23,14 +23,6 @@ DTSA 5511 Introduction to Deep Learning<br/>
 DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
 EMEA 5031 Foundations and Initiation<br/>
 </details>
-  
-<details>
-  <summary>Completed:</summary>
-  - <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
-  - <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
-  - <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies (SQL)</a><br/>
-</details>
-
 
 <details>
   <summary>Second Phase:</summary>
@@ -57,6 +49,13 @@ EMEA 5031 Foundations and Initiation<br/>
 - DTSA 5011 Modern Regression Analysis in R (1 credit)<br/>
 - DTSA 5012 ANOVA and Experimental Design (1 credit)<br/>
 - DTSA 5013 Generalized Linear Models and Nonparametric Regression (1 credit)<br/>
+</details>
+
+<details open>
+  <summary>Completed:</summary>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies (SQL)</a><br/>
 </details>
   
 ## City College of San Francisco
