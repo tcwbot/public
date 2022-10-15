@@ -15,15 +15,17 @@ Focus
 - [ ]  - DTSA 5502 Trees and Graphs - Basics <br/>
 - [ ]  - DTSA 5304 Fundamentals of Data Visualization<br/>
 
-TODO<br/>
+<details>
+  <summary>To Do:</summary>
 DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
 DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 DTSA 5511 Introduction to Deep Learning<br/>
 DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
 EMEA 5031 Foundations and Initiation<br/>
-
+</details>
+  
 <details>
-  <summary>Completed</summary>
+  <summary>Completed:</summary>
   - <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
   - <a href="https://www.coursera.org/learn/the-structured-query-language-sql)">DTSA 5734 The Structured Query Language (SQL)</a><br/>
   - DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
@@ -31,7 +33,7 @@ EMEA 5031 Foundations and Initiation<br/>
 
 
 <details>
-  <summary>Second Phase</summary>
+  <summary>Second Phase:</summary>
 - DTSA 5510 Unsupervised Algorithms in Machine Learning (1 credit)<br/>
 - DTSA 5301 Data Science as a Field (1 credit)<br/>
 - DTSA 5302 Cybersecurity for Data Science (1 credit)<br/>
@@ -45,7 +47,7 @@ EMEA 5031 Foundations and Initiation<br/>
 
 </details>
 <details>
-  <summary>Third Phase</summary>
+  <summary>Third Phase:</summary>
 - DTSA 5504 Data Mining Pipeline (1 credit)<br/>
 - DTSA 5505 Data Mining Methods (1 credit)<br/>
 - DTSA 5506 Data Mining Project (1 credit)<br/>
