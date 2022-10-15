@@ -11,9 +11,9 @@ A[First Phase]
 __First Phase - Subject to change__
 
 Focus
-- [ ]  - DTSA 5733 Relational Database Design<br/>
+- [ ]  - [DTSA 5733 Relational Database Design](https://www.coursera.org/learn/relational-database-design/home/welcome)<br/>
+- [ ]  - [DTSA 5304 Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization/home/welcome)<br/>
 - [ ]  - DTSA 5502 Trees and Graphs - Basics <br/>
-- [ ]  - DTSA 5304 Fundamentals of Data Visualization<br/>
 
 <details>
   <summary>To Do:</summary>
@@ -27,8 +27,8 @@ EMEA 5031 Foundations and Initiation<br/>
 <details>
   <summary>Completed:</summary>
   - <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
-  - <a href="https://www.coursera.org/learn/the-structured-query-language-sql)">DTSA 5734 The Structured Query Language (SQL)</a><br/>
-  - DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies (SQL)</a><br/>
 </details>
 
 
