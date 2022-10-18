@@ -56,7 +56,7 @@ DTSA 5001 Probability Theory - Foundation for Data Science (1 credit)<br/>
   <summary>Completed: 10% Done (3/30)</summary>
   - <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
   - <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
-  - <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies (SQL)</a><br/>
+  - <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies</a><br/>
 </details>
   
 ## City College of San Francisco
