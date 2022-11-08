@@ -14,13 +14,13 @@ Focus - Fall Session 2<br/>
 (C) [DTSA 5733 Relational Database Design](https://www.coursera.org/learn/relational-database-design/home/welcome)<br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization/home/welcome)<br/>
 (C) DTSA 5502 Trees and Graphs - Basics <br/>
+(C) DTSA 5001 Probability Theory - Foundation for Data Science (1 credit)<br/>
 
 <details>
   <summary>To Do:</summary>
 (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
 (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (E) EMEA 5031 Foundations and Initiation<br/>
-(C) DTSA 5001 Probability Theory - Foundation for Data Science (1 credit)<br/>
 </details>
 
 <details>
