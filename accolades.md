@@ -7,7 +7,7 @@ graph LR
 A[First Phase]
 -->B[Second Phase]
 -->C[Third Phase]
-style A fill:grey,stroke:#333,stroke-width:px
+style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 ```
 __First Phase - Subject to change__
 
