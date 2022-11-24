@@ -11,7 +11,7 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 ```
 __First Phase - Subject to change__
 
-Focus - Fall Session 2<br/>
+Focus <br/>
 (C) [DTSA 5733 Relational Database Design](https://www.coursera.org/learn/relational-database-design/home/welcome)<br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://www.coursera.org/learn/fundamentals-of-data-visualization/home/welcome)<br/>
 (C) DTSA 5001 Probability Theory<br/>
@@ -78,4 +78,7 @@ Projects:
 
 ## Other Certifications
 [Oracle Weblogic Server 11g: System Administration I](https://education.oracle.com/oracle-weblogic-server-12c-administration-i/pexam_1Z0-133)
+
+## Certificate Summaries
+[Databases for Data Scientists Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YAA5BMC2BKL3)
 
