@@ -79,6 +79,7 @@ Projects:
   - Quantum Mechanics<br/>
   - Atomic Physics<br/>
   - Nuclear Physics<br/>
+  - Astrophysics Physics<br/>
 </details>
 
 
