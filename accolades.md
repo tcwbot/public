@@ -1,6 +1,6 @@
 <details>
   <summary>Abstract</summary>
-  About me: I currently hold over 20 years of Support Engineering experiences. My background in Physics and first principle's have given me perspectives on approaching issues critically and developing the interesting questions toward problem solving and solution hacking. Computer science has given me processes in engineering systems, automation, and tooling enablement. I have had extensive exposure to Enterprise Solutions. Additionally, I have worked   6 years in the InfoSec Industry aquiring understanding with security threat landscape.  My current pursuits are Data Science, DataOps, MLOps, Docker and Kubernetes Operations.
+  About me: I currently hold over 20 years of Support Engineering experiences. My background in Physics and first principle's have given me perspectives on approaching issues critically and developing the interesting questions toward problem solving and solution hacking. Computer science has given me processes in engineering systems, automation, and tooling enablement. I have had extensive exposure to Enterprise Solutions. Additionally, I have worked   6 years in the InfoSec Industry aquiring understanding with the security threat landscape.  My current pursuits are Data Science, DataOps, MLOps, Docker and Kubernetes Operations.
 </details>
 
 ## University of Colorado, Boulder
