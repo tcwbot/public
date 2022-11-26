@@ -1,7 +1,3 @@
-<details>
-  <summary>Abstract</summary>
-  About me: I currently hold over 20 years of Support Engineering experiences. My background in Physics and first principle's have given me perspectives on approaching issues critically and developing the interesting questions toward problem solving and solution hacking. Computer science has given me processes in engineering systems, automation, and tooling enablement. I have had extensive exposure to Enterprise Software & Solutions. Additionally, I have worked   6 years in the InfoSec Industry aquiring understanding with the security threat landscape.  My current pursuits are Data Science, DataOps, MLOps, Docker and Kubernetes Operations.
-</details>
 
 ## University of Colorado, Boulder
 [Master of Science - Data Science](https://www.colorado.edu/program/data-science/coursera-overview)
@@ -88,7 +84,7 @@ Projects:
 
 
 Projects: 
-- Solid State Physics (experimental): Developed techniques synthesyzing 14-1-11 Zenithil Crystals (single-domain).
+- Solid State Physics (experimental): Developed techniques synthesizing 14-1-11 Zenithil Crystals (single-domain).
 - Solid State Physics (theoretical):  Developed Molecular Dynamic Simulations using Leonard Jones and Monte Carlo models.
 - Geology : Developed a Data Visualization Tool for analyzing First-Order Reversal Curves and their multidimensional Transformations on Ice Core Datasets. The Transformations produced contour plots where reseachers could slice and drill into the data two-dimensionally.
 
@@ -99,5 +95,10 @@ Projects:
 
 ## Certificate Summaries
 [Databases for Data Scientists Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YAA5BMC2BKL3)
+
+<details>
+  <summary>Abstract</summary>
+__about me__: I currently hold over 20 years of Support Engineering experiences. My background in Physics and first principle's have given me perspectives on approaching issues critically and developing the interesting questions toward problem solving and solution hacking. Computer science has given me processes in engineering systems, automation, and tooling enablement. I have had extensive exposure to Enterprise Software & Solutions. Additionally, I have worked   6 years in the InfoSec Industry aquiring understanding with the security threat landscape.  My current pursuits are Data Science, DataOps, MLOps, Docker and Kubernetes Operations.
+</details>
 
 
