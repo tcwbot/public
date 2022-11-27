@@ -14,7 +14,7 @@ __First Phase - Subject to change__
 Focus <br/>
 (C) [DTSA 5733 Relational Database Design](https://www.coursera.org/learn/relational-database-design/home/welcome)<br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
-(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning
+(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (C) DTSA 5001 Probability Theory<br/>
 
 <details>
