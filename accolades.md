@@ -14,36 +14,36 @@ __First Phase - Subject to change__
 Focus <br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
 (C) DTSA 5001 Probability Theory<br/>
+(C) DTSA 5504 Data Mining Pipeline <br/>
 
 <details>
-  <summary>To Do:</summary>
-(E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
+  <summary>To Do (Phase 1):</summary>
 (E) EMEA 5031 Foundations and Initiation<br/>
-(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
+(C) DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
 (C) DTSA 5502 Trees and Graphs - Basics <br/>
 </details>
 
 <details>
   <summary>Second Phase:</summary>
-  (C) DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
+  (C) DTSA 5505 Data Mining Methods <br/>
+  (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
-  (C) DTSA 5511 Introduction to Deep Learning<br/>
+  (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
   (C) DTSA 5301 Data Science as a Field <br/>
   (C) DTSA 5302 Cybersecurity for Data Science <br/>
   (C) DTSA 5303 Ethical Issues in Data Science <br/>
   (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
-  (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
   (E) EMEA 5032 Project Planning and Execution <br/>
 
 </details>
 <details>
   <summary>Third Phase:</summary>
+  (C) DTSA 5506 Data Mining Project <br/>
+  (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
   (E) DTSA 5842 Effective Communication: Writing Design and Presentation <br/>
   (E) EMEA 5033 Agile Project Management <br/>
-  (C) DTSA 5504 Data Mining Pipeline <br/>
-  (C) DTSA 5505 Data Mining Methods <br/>
-  (C) DTSA 5506 Data Mining Project <br/>
+  (C) DTSA 5511 Introduction to Deep Learning<br/>
   (E) DTSA 5020 Regression and Classification <br/>
   (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
   (C) DTSA 5011 Modern Regression Analysis in R <br/>
@@ -52,11 +52,11 @@ Focus <br/>
 </details>
 
 <details open>
-  <summary>Completed: 10% Done (3/30)</summary>
+  <summary>Completed: 13% Done (4/30)</summary>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
    (E) <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies</a><br/>
-   (C) <a href="https://www.coursera.org/learn/relational-database-design/home/welcome">DTSA 5733 Relational Database Desig</a><br/>
+   (C) <a href="https://www.coursera.org/learn/relational-database-design/home/welcome">DTSA 5733 Relational Database Design</a><br/>
 </details>
   
 ## City College of San Francisco
