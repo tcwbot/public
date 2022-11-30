@@ -21,8 +21,8 @@
 
 # Focus
 ```
--- submit begining of spring 1
-(R,L) DTSA 5304 Fundamentals of Data Visualization
+-- spring 1
+(R,L) DTSA 5304 Fundamentals of Data Visualization (submit in begining of session)
 (L) DTSA 5503 Dynamic Programming and Greedy Algorithms
 (L) DTSA 5734 The Structured Query Language (SQL)
 -- spring 1 and sprint 2
