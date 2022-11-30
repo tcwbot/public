@@ -31,4 +31,4 @@
 (R) DTSA 5502 Trees and Graphs - Basics
 (L) DTSA 5735 Advanced Topics and Future Trends in Database Technologies
 (R,L) DTSA 5002 Statistical Inference for Estimation in Data Science (Stretch Goal)
-```
+``` 
