@@ -21,14 +21,20 @@
 
 # Focus
 ```
--- spring 1
+-- Fall 2 to Spring 1
 (R,L) DTSA 5304 Fundamentals of Data Visualization (submit in begining of session)
-(L) DTSA 5503 Dynamic Programming and Greedy Algorithms
+
+-- spring 1
+(R,L) DTSA 5503 Dynamic Programming and Greedy Algorithms
 (L) DTSA 5734 The Structured Query Language (SQL)
--- spring 1 and sprint 2
+(R) DTSA 5504 Data Mining Pipeline (Stretch Goal)
+
+-- spring 1 to sprint 2
 (R,L) DTSA 5001 Probability Theory
+
 -- spring 2
 (R) DTSA 5502 Trees and Graphs - Basics
 (L) DTSA 5735 Advanced Topics and Future Trends in Database Technologies
 (R,L) DTSA 5002 Statistical Inference for Estimation in Data Science (Stretch Goal)
+(R) DTSA 5505 Data Mining Methods (Stretch Goal)
 ``` 
