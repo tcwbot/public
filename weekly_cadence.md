@@ -1,21 +1,23 @@
 
 # Meeting Minutes - Structure
+```
 1) Quick Check - In.
-
 2) Presentations 3-5 Minutes
-
 3) Project Design Q & A
 - Blockers for Project Advancements
-
 4. Topics to Discuss Next Meeting:
 - List
 - New Directions:
   - Next class. Next Pivot, If action items changes.
-
 5. Questions on Homework
-
 6. End it....
+```
 
+# Homework for next meeting
+```
+(L) Math Pre-courses
+(R,L) Lecture 2 and 3 for 5001 stats
+```
 
 # Focus
 ```
@@ -29,10 +31,4 @@
 (R) DTSA 5502 Trees and Graphs - Basics
 (L) DTSA 5735 Advanced Topics and Future Trends in Database Technologies
 (R,L) DTSA 5002 Statistical Inference for Estimation in Data Science (Stretch Goal)
-```
-
-# Homework for next meeting
-```
-(L) Math Pre-courses
-(R,L) Lecture 2 and 3 for 5001 stats
 ```
