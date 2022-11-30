@@ -12,15 +12,14 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 __First Phase - Subject to change__
 
 Focus <br/>
-(C) [DTSA 5733 Relational Database Design](https://www.coursera.org/learn/relational-database-design/home/welcome)<br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
-(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (C) DTSA 5001 Probability Theory<br/>
 
 <details>
   <summary>To Do:</summary>
 (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
 (E) EMEA 5031 Foundations and Initiation<br/>
+(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (C) DTSA 5502 Trees and Graphs - Basics <br/>
 </details>
 
@@ -57,6 +56,7 @@ Focus <br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
    (E) <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies</a><br/>
+   (C) <a href="https://www.coursera.org/learn/relational-database-design/home/welcome">DTSA 5733 Relational Database Desig</a><br/>
 </details>
   
 ## City College of San Francisco
