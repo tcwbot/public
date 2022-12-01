@@ -14,7 +14,7 @@ __First Phase - Subject to change__
 Focus <br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
 (C) DTSA 5001 Probability Theory<br/>
-(C) DTSA 5504 Data Mining Pipeline <br/>
+(C) DTSA 5301 Data Science as a Field <br/>
 
 <details>
   <summary>To Do (Phase 1):</summary>
@@ -25,12 +25,12 @@ Focus <br/>
 
 <details>
   <summary>Second Phase:</summary>
+  (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
   (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
-  (C) DTSA 5301 Data Science as a Field <br/>
   (C) DTSA 5302 Cybersecurity for Data Science <br/>
   (C) DTSA 5303 Ethical Issues in Data Science <br/>
   (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
