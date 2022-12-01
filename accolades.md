@@ -25,14 +25,14 @@ Focus <br/>
 
 <details>
   <summary>Second Phase:</summary>
-  (E) DTSA 5842 Effective Communication: Writing Design and Presentation <br/>
+  (E) DTSA 5842 Effective Communication: Writing Design and Presentation <br>
+  (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (E) EMEA 5032 Project Planning and Execution <br/>
   (E) EMEA 5033 Agile Project Management <br/>
   (C) DTSA 5302 Cybersecurity for Data Science <br/>
   (C) DTSA 5303 Ethical Issues in Data Science <br/>
   (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
-  (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
   (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
 </details>
