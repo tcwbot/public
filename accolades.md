@@ -85,7 +85,7 @@ Projects:
 Projects: 
 - Solid State Physics (experimental): Developed techniques synthesizing 14-1-11 Zenithil Crystals (single-domain).
 - Solid State Physics (theoretical):  Developed Molecular Dynamic Simulations using Leonard Jones and Monte Carlo models.
-- Geology : Developed a Data Visualization Tool for analyzing First-Order Reversal Curves and their multidimensional Transformations on Ice Core Datasets. The Transformations produced contour plots where reseachers could slice and drill into the data two-dimensionally.
+- Geology : Developed a Data Visualization Tool for analyzing First-Order Reversal Curves and their multidimensional Transformations on polar ice core Datasets. The Transformations produced contour plots where reseachers could slice and drill into the data two-dimensionally.
 
 ---
 
