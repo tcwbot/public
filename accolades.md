@@ -13,8 +13,8 @@ __First Phase - Subject to change__
 
 Focus <br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
-(C) DTSA 5001 Probability Theory<br/>
-(C) DTSA 5301 Data Science as a Field <br/>
+(C) [DTSA 5301 Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field/home/week/3) <br/>
+(C) [DTSA 5001 Probability Theory](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1)<br/>
 
 <details>
   <summary>To Do (Phase 1):</summary>
