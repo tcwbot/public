@@ -1,6 +1,6 @@
 # Projects
  
-__Python:__
+## Python:
 
 __logger4py__ : A LoggerManager similar to log4j a python implementation. https://github.com/tcwbot/logger4
 
@@ -12,9 +12,14 @@ __cidr calculator__ : FlaskApp cidr | subnet calculator.
 
 __interrupt_driven__ : tool for managing priorities
 
-__Java:__
+## Java:
 
 __Pixels__: graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX.
 
 <img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
+
+## Video Projects:
+- [vim and command tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
+- [VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
+- [Relation Database Design -  Final Project](https://www.youtube.com/watch?v=QxE2QbB2YTM)
