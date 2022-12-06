@@ -1,5 +1,5 @@
 ###
-# removes everything between the delimiter strings
+# removes everything, but the in-between text using delimiter strings
 # written : tcwbot
 ###
 import sys, re
@@ -10,7 +10,7 @@ if len(sys.argv)<=2:
     exit()  # early exit
 
 # Finds all indices that match delimiter, only use first and last indices 
-# to remove unwanted data in between.
+# to remove unwanted data and keeping the in between.
 def parsefile(): 
     try:
         f = open(sys.argv[2], "r")
