@@ -12,6 +12,18 @@ __cidr calculator__ : FlaskApp cidr | subnet calculator.
 
 __interrupt_driven__ : tool for managing priorities
 
+__ML Study__ : An attempt on understanding the Perception
+<table>
+ <tr>
+  <td>
+<img src="https://raw.githubusercontent.com/tcwbot/public/main/images/simple_classification_01.png" width="150"/>
+  </td>
+  <td>
+<img src="https://raw.githubusercontent.com/tcwbot/public/main/images/simple_classification_02.png" width="150"/>
+  </td>
+ </tr>
+</table>
+   
 ## Java:
 
 __Pixels__: graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX.
