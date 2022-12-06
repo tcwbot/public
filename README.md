@@ -2,7 +2,7 @@
  
 ## Python:
 
-__logger4py__ : A LoggerManager similar to log4j a python implementation. https://github.com/tcwbot/logger4
+[logger4py](https://github.com/tcwbot/logger4) : is just another python Logger Implementation. Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
 
 __probcr__ : contributor to OCR library. https://github.com/aaronbrick/probcr
 
