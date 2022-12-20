@@ -2,17 +2,24 @@
  
 ## Python:
 
-[logger4py](https://github.com/tcwbot/logger4) : is just another python Logger Implementation. Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
+[logger4py](https://github.com/tcwbot/logger4) : <br/>
+is just another python Logger Implementation. Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
 
-__probcr__ : contributor to OCR library. https://github.com/aaronbrick/probcr
+__probcr__ : <br/>
+Experimented with adding probabilistic judgments based on a linguistic corpus to the OCR system.<br/>
+Contributor to OCR library. https://github.com/aaronbrick/probcr
 
-__create_flask_app__ : Flask Templating engine to create apps
+__create_flask_app__ :  <br/>
+Flask Templating engine to create apps
 
-__cidr calculator__ : FlaskApp cidr | subnet calculator.
+__cidr calculator__ : <br/>
+FlaskApp cidr | subnet calculator.
 
-__interrupt_driven__ : tool for managing priorities
+__interrupt_driven__ :  <br/>
+tool for managing priorities
 
-__ML Study__ : An attempt on understanding the Perception
+__ML Study__ :  <br/>
+An attempt on understanding the Perception
 <table>
  <tr>
   <td>
