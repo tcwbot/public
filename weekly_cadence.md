@@ -15,8 +15,15 @@
 
 # Homework for next meeting
 ```
-(L) Math Pre-courses
-(R,L) Lecture 2 and 3 for 5001 stats
+-- Stat 2 - week 1
+	- R Tutorial - look for cheatsheet.
+	- watch all 3 videos and take notes.
+	- Peak at Lab week 1. no commitments...
+	- Talk about week 1 lab.
+-- Data Viz
+	- Watch all week 1 Videos.
+-- DS as a field.
+	- outline my final project.
 ```
 
 # Focus
