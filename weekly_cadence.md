@@ -15,7 +15,7 @@
 
 # Homework for next meeting
 ```
--- Stat 2 
+-- Stat 
 	- Lab week 1. Work on Problem #1 (Lab).
 	- Research what we don't know. Research any (how-to's)
 -- Data Viz
