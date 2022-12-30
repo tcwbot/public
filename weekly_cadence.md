@@ -15,15 +15,18 @@
 
 # Homework for next meeting
 ```
--- Stat 2 - week 1
-	- R Tutorial - look for cheatsheet.
-	- watch all 3 videos and take notes.
-	- Peak at Lab week 1. no commitments...
-	- Talk about week 1 lab.
+-- Stat 2 
+	- Lab week 1. Work on Problem #1 (Lab).
+	- Research what we don't know. Research any (how-to's)
 -- Data Viz
-	- Watch all week 1 Videos.
+	- Do Altair Lab. 
+	- Do/review Week #1 Assignment.
 -- DS as a field.
 	- outline my final project.
+
+Ref:
+- R Tutorial - look for cheatsheet.
+https://bookdown.org/probability/beta/r.html#getting-started-in-r
 ```
 
 # Focus
