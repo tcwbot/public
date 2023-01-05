@@ -25,10 +25,10 @@ Focus <br/>
 
 <details>
   <summary>Second Phase:</summary>
-  (E) DTSA 5842 Effective Communication: Writing Design and Presentation <br>
+  (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
+  (E) DTSA 5508 Software Architecture Patterns for Big Data (1 credit)
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (E) EMEA 5032 Project Planning and Execution <br/>
-  (E) EMEA 5033 Agile Project Management <br/>
   (C) DTSA 5302 Cybersecurity for Data Science <br/>
   (C) DTSA 5303 Ethical Issues in Data Science <br/>
   (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
@@ -38,10 +38,10 @@ Focus <br/>
 </details>
 <details>
   <summary>Third Phase:</summary>
+  (E) DTSA 5714 Applications of Software Architecture for Big Data (1 credit)
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
   (C) DTSA 5506 Data Mining Project <br/>
-  (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
   (C) DTSA 5511 Introduction to Deep Learning<br/>
   (E) DTSA 5020 Regression and Classification <br/>
   (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
