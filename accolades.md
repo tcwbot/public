@@ -26,7 +26,7 @@ Focus <br/>
 <details>
   <summary>Second Phase:</summary>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
-  (E) DTSA 5508 Software Architecture Patterns for Big Data (1 credit)
+  (E) DTSA 5508 Software Architecture Patterns for Big Data (1 credit)<br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (E) EMEA 5032 Project Planning and Execution <br/>
   (C) DTSA 5302 Cybersecurity for Data Science <br/>
