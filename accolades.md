@@ -38,7 +38,7 @@ Focus <br/>
 </details>
 <details>
   <summary>Third Phase:</summary>
-  (E) DTSA 5714 Applications of Software Architecture for Big Data (1 credit)
+  (E) DTSA 5714 Applications of Software Architecture for Big Data (1 credit)<br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
   (C) DTSA 5506 Data Mining Project <br/>
