@@ -3,13 +3,12 @@
 ```
 1) Quick Check - In.
 2) Presentations 3-5 Minutes
-3) Project Design Q & A
-- Blockers for Project Advancements
-4. Topics to Discuss Next Meeting:
-- List
-- New Directions:
-  - Next class. Next Pivot, If action items changes.
-5. Questions on Homework
+3) Project Design Q & A	
+	- Blockers for Project Advancements
+4 New Directions:
+	- Next class. Next Pivot, If action items changes.
+5. Questions on Homework (Should be documented, but separate time should be alotted, if any time is need to press on this.)
+4. Topics to Discuss Next Meeting.
 6. End it....
 ```
 
