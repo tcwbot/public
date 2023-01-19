@@ -31,18 +31,14 @@ https://bookdown.org/probability/beta/r.html#getting-started-in-r
 
 # Focus
 ```
--- Fall 2 to Spring 1
+-- Spring 1
 (R,L) DTSA 5304 Fundamentals of Data Visualization (submit in begining of session)
 
--- spring 1
+-- PUSH FORWARD (Not Acountable for Spring 1, yet)
 (R,L) DTSA 5503 Dynamic Programming and Greedy Algorithms
 (L) DTSA 5734 The Structured Query Language (SQL)
 (R) DTSA 5301 Data Science as a Field
-
--- spring 1 to sprint 2
 (R,L) DTSA 5001 Probability Theory
-
--- spring 2
 (R) DTSA 5502 Trees and Graphs - Basics
 (L) DTSA 5735 Advanced Topics and Future Trends in Database Technologies
 (R,L) DTSA 5002 Statistical Inference for Estimation in Data Science (Stretch Goal)
