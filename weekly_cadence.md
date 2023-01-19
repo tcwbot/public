@@ -15,10 +15,10 @@
 
 # Homework for next meeting
 ```
-
 -- Data Viz
 	- Do Altair Lab. 
 	- Do/review Week #1 Assignment.
+	- Start Week 2 - Videos.
 	
 --
 
