@@ -5,11 +5,11 @@
 2) Presentations 3-5 Minutes
 3) Project Design Q & A	
 	- Blockers for Project Advancements
-4 New Directions:
+4) New Directions:
 	- Next class. Next Pivot, If action items changes.
-5. Questions on Homework (Should be documented, but separate time should be alotted, if any time is need to press on this.)
-4. Topics to Discuss Next Meeting.
-6. End it....
+5) Questions on Homework (Should be documented, but separate time should be alotted, if any time is need to press on this.)
+6) Topics to Discuss Next Meeting.
+7) End it! =)
 ```
 
 # Homework for next meeting
