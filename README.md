@@ -39,6 +39,7 @@ __Pixels__: graphics framework for front end visualizations. Custom API [Style |
 
 
 ## Video Projects:
+- [Relational Database Design -  Final Project](https://www.youtube.com/watch?v=QxE2QbB2YTM)
 - [vim and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
 - [VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
-- [Relational Database Design -  Final Project](https://www.youtube.com/watch?v=QxE2QbB2YTM)
+
