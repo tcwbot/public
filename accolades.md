@@ -12,8 +12,8 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 __First Phase - Subject to change__
 
 Focus <br/>
-(C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
 (C) [DTSA 5301 Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field/home/week/3) <br/>
+(C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
 (C) [DTSA 5001 Probability Theory](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1)<br/>
 
 <details>
@@ -26,7 +26,7 @@ Focus <br/>
 <details>
   <summary>Second Phase:</summary>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
-  (E) DTSA 5508 Software Architecture Patterns for Big Data (1 credit)<br/>
+  (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (E) EMEA 5032 Project Planning and Execution <br/>
   (C) DTSA 5302 Cybersecurity for Data Science <br/>
@@ -38,7 +38,7 @@ Focus <br/>
 </details>
 <details>
   <summary>Third Phase:</summary>
-  (E) DTSA 5714 Applications of Software Architecture for Big Data (1 credit)<br/>
+  (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
   (C) DTSA 5506 Data Mining Project <br/>
