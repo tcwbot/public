@@ -55,7 +55,7 @@ Focus <br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
    (E) <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies</a><br/>
-   (C) <a href="https://www.coursera.org/learn/relational-database-design/home/welcome">DTSA 5733 Relational Database Design</a><br/>
+   (C) <a href="https://www.coursera.org/account/accomplishments/verify/RUVERWWHHVWR">DTSA 5733 Relational Database Design</a><br/>
 </details>
   
 ## City College of San Francisco
