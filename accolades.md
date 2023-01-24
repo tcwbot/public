@@ -9,7 +9,7 @@ A[First Phase]
 -->C[Third Phase]
 style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 ```
-__First Phase - Subject to change__
+__First Phase__
 
 Focus <br/>
 (C) [DTSA 5301 Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field/home/week/3) <br/>
@@ -24,7 +24,7 @@ Focus <br/>
 </details>
 
 <details>
-  <summary>Second Phase:</summary>
+  <summary>Second Phase: - Subject to change</summary>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
   (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
@@ -37,7 +37,7 @@ Focus <br/>
   (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
 </details>
 <details>
-  <summary>Third Phase:</summary>
+  <summary>Third Phase: - Subject to change</summary>
   (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
