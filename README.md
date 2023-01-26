@@ -38,6 +38,18 @@ __Pixels__: graphics framework for front end visualizations. Custom API [Style |
 <img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
 
+## Data Visualization Projects
+<table>
+ <tr>
+  <td>
+<img src="https://github.com/tcwbot/public/blob/main/images/visual-analysis1.jpg" width="150"/>
+  </td>
+  <td>
+<img src="https://github.com/tcwbot/public/blob/main/images/visual-analysis2.jpg" width="150"/>
+  </td>
+ </tr>
+</table>
+
 ## Video Projects:
 - [Relational Database Design -  Final Project](https://www.youtube.com/watch?v=QxE2QbB2YTM)
 - [vim and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
