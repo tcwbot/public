@@ -22,7 +22,7 @@
 ## Python:
 
 [logger4py](https://github.com/tcwbot/logger4) : <br/>
-is just another python Logger Implementation. Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
+logger4py is just another python Logger Implementation.  Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
 
 __probcr__ : <br/>
 Experimented with adding probabilistic judgments based on a linguistic corpus to the OCR system.<br/>
