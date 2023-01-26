@@ -1,7 +1,7 @@
 # Projects
  
 
-## Data Visualization Projects
+## Data Visualization
 <table>
  <tr>
   <td>
@@ -13,8 +13,8 @@
  </tr>
 </table>
 
-## Video Projects:
-- [Relational Database Design -  Final Project](https://www.youtube.com/watch?v=QxE2QbB2YTM)
+## Video:
+- [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM)
 - [VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
 - [vim and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
 
