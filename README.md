@@ -5,10 +5,10 @@
 <table>
  <tr>
   <td>
-<img src="https://github.com/tcwbot/public/blob/main/images/visual-analysis1.jpg" width="150"/>
+<img src="https://github.com/tcwbot/public/blob/main/images/visual-analysis1.png" width="150"/>
   </td>
   <td>
-<img src="https://github.com/tcwbot/public/blob/main/images/visual-analysis2.jpg" width="150"/>
+<img src="https://github.com/tcwbot/public/blob/main/images/visual-analysis2.png" width="150"/>
   </td>
  </tr>
 </table>
