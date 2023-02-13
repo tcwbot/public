@@ -18,13 +18,14 @@ Focus <br/>
 
 <details>
   <summary>To Do (Phase 1):</summary>
-(E) EMEA 5031 Foundations and Initiation<br/>
+(E) DTSA 5704 Managing Describing and Analyzing Data
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
 (C) DTSA 5502 Trees and Graphs - Basics <br/>
 </details>
 
 <details>
   <summary>Second Phase: - Subject to change</summary>
+  (E) EMEA 5031 Foundations and Initiation<br/>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
   (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
@@ -33,12 +34,11 @@ Focus <br/>
   (C) DTSA 5303 Ethical Issues in Data Science <br/>
   (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
-  (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
   (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
 </details>
 <details>
   <summary>Third Phase: - Subject to change</summary>
-  (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
+  (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
   (C) DTSA 5506 Data Mining Project <br/>
