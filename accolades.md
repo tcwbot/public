@@ -26,11 +26,11 @@ Focus <br/>
 <details>
   <summary>Second Phase: - Subject to change</summary>
   (E) EMEA 5031 Foundations and Initiation<br/>
+  (E) DTSA 5798 Supervised Text Classification for Marketing Analytics <br/>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
-  (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (E) EMEA 5032 Project Planning and Execution <br/>
-  (C) DTSA 5302 Cybersecurity for Data Science <br/>
+  (C) DTSA 5302 Cybersecurity for Data Science 
   (C) DTSA 5303 Ethical Issues in Data Science <br/>
   (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
