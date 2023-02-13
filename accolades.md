@@ -18,7 +18,7 @@ Focus <br/>
 
 <details>
   <summary>To Do (Phase 1):</summary>
-(E) DTSA 5704 Managing Describing and Analyzing Data
+(E) DTSA 5704 Managing Describing and Analyzing Data<br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
 (C) DTSA 5502 Trees and Graphs - Basics <br/>
 </details>
