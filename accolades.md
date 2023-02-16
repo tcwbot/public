@@ -12,21 +12,21 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 __First Phase__
 
 Focus <br/>
-(C) [DTSA 5301 Data Science as a Field](https://www.coursera.org/learn/data-science-as-a-field/home/week/3) <br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
 (C) [DTSA 5001 Probability Theory](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1)<br/>
+(E) DTSA 5704 Managing Describing and Analyzing Data<br/>
 
 <details>
   <summary>To Do (Phase 1):</summary>
-(E) DTSA 5704 Managing Describing and Analyzing Data<br/>
+(C) DTSA 5502 Trees and Graphs - Basics* <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
-(C) DTSA 5502 Trees and Graphs - Basics <br/>
+  --
 </details>
 
 <details>
   <summary>Second Phase: - Subject to change</summary>
-  (E) EMEA 5031 Foundations and Initiation<br/>
-  (E) DTSA 5798 Supervised Text Classification for Marketing Analytics <br/>
+  (E) DTSA 5798 Supervised Text Classification for Marketing Analytics*<br/>
+  (E) EMEA 5031 Foundations and Initiation*<br/>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (E) EMEA 5032 Project Planning and Execution <br/>
@@ -56,6 +56,8 @@ Focus <br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
    (E) <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies</a><br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/RUVERWWHHVWR">DTSA 5733 Relational Database Design</a><br/>
+   (C) <a href="https://css-tricks.com/thispagedoesntexist">DTSA 5301 Data Science as a Field/a><br/>
+
 </details>
   
 ## City College of San Francisco
