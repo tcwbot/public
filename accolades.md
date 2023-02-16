@@ -16,7 +16,7 @@ Focus <br/>
 (C) [DTSA 5001 Probability Theory](https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1)<br/>
 (E) DTSA 5704 Managing Describing and Analyzing Data<br/>
 
-<details>
+<details open>
   <summary>To Do (Phase 1):</summary>
 (C) DTSA 5502 Trees and Graphs - Basics* <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms<br/>
@@ -50,7 +50,7 @@ Focus <br/>
   (C) DTSA 5013 Generalized Linear Models and Nonparametric Regression <br/>
 </details>
 
-<details open>
+<details>
   <summary>Completed: 17% Done (5/30)</summary>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
