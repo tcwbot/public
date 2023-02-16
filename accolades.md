@@ -51,7 +51,7 @@ Focus <br/>
 </details>
 
 <details open>
-  <summary>Completed: 13% Done (4/30)</summary>
+  <summary>Completed: 17% Done (5/30)</summary>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/R9FKFC5Y4GLK">DTSA 5501 Algorithms for Searching Sorting and Indexing</a><br/>
    (C) <a href="https://www.coursera.org/account/accomplishments/verify/CXJVCC2BXBXL">DTSA 5734 The Structured Query Language (SQL)</a><br/>
    (E) <a href="https://www.coursera.org/account/accomplishments/verify/CJKVCNM9VYCF">DTSA 5735 Advanced Topics and Future Trends in Database Technologies</a><br/>
