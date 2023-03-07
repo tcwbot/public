@@ -12,9 +12,9 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 __First Phase__
 
 Focus <br/>
-(C) DTSA 5502 Trees and Graphs - Basics* <br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization*](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics*<br/>
+(C) DTSA 5502 Trees and Graphs - Basics* <br/>
 
 <details open>
   <summary>To Do (Phase 1):</summary>
