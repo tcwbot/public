@@ -15,6 +15,7 @@
 
 ## Video:
 - [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM)
+- [DS as Field - Presentation](https://www.youtube.com/watch?v=uiD9XutppVQ)
 - [VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
 - [vim and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
 
