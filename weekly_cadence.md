@@ -16,6 +16,7 @@
 ```
 (r) Week 2 - 5503 videos
 (l) Week 1 - 5503 homework problems
+(l) week 1-2 - 5734 SQL
 ```
 
 # Focus
