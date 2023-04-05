@@ -13,11 +13,11 @@ __First Phase__
 
 Focus <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
+(E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
 (C) [DTSA 5304 Fundamentals of Data Visualization*](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
 
 <details open>
   <summary>To Do (Phase 1):</summary>
-(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (C) DTSA 5502 Trees and Graphs - Basics* <br/>
 
  ---<br/>
@@ -26,7 +26,7 @@ Focus <br/>
 <details>
   <summary>Second Phase: - Subject to change</summary>
   (C) <a href="https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1">DTSA 5001 Probability Theory*</a><br/>
-  (E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
+  (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (E) EMEA 5031 Foundations and Initiation*<br/>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
