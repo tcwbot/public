@@ -15,6 +15,8 @@
 # Homework for next meeting
 ```
 (r) Week 2 - 5503 videos
+(r) Week 2 - 5503 notebooks review
+(r) Week 2 - 5503 ProblemSet
 (l) Week 1 - 5503 homework problems
 (l) week 1-2 - 5734 SQL
 ```
