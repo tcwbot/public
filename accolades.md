@@ -26,6 +26,8 @@ Focus <br/>
 <details>
   <summary>Second Phase: - Subject to change</summary>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
+  (E) DTSA 5508 Big Data Architecture in Production <br/>
+  (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
   (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
@@ -33,8 +35,6 @@ Focus <br/>
   (C) DTSA 5511 Introduction to Deep Learning<br/>
   (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
-  (E) DTSA 5508 Big Data Architecture in Production <br/>
-  (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
 </details>
 <details>
   <summary>Third Phase: - Subject to change</summary>
