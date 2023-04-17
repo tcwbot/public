@@ -25,25 +25,25 @@ Focus <br/>
 
 <details>
   <summary>Second Phase: - Subject to change</summary>
-  (C) <a href="https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1">DTSA 5001 Probability Theory*</a><br/>
-  (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
-  (E) EMEA 5031 Foundations and Initiation*<br/>
   (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
-  (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
-  (C) DTSA 5302 Cybersecurity for Data Science <br/> 
-  (C) DTSA 5303 Ethical Issues in Data Science <br/>
-  (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
-  (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
-  (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
-</details>
-<details>
-  <summary>Third Phase: - Subject to change</summary>
-  (E) EMEA 5032 Project Planning and Execution <br/>
-  (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
+  (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
   (C) DTSA 5506 Data Mining Project <br/>
   (C) DTSA 5511 Introduction to Deep Learning<br/>
+  (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
+  (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
+  (E) DTSA 5508 Big Data Architecture in Production <br/>
+  (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
+</details>
+<details>
+  <summary>Third Phase: - Subject to change</summary>
+  (C) <a href="https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1">DTSA 5001 Probability Theory*</a><br/>
+  (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
+  (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
+  (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
+  (C) DTSA 5302 Cybersecurity for Data Science <br/> 
+  (C) DTSA 5303 Ethical Issues in Data Science <br/>
   (E) DTSA 5020 Regression and Classification <br/>
   (C) DTSA 5011 Modern Regression Analysis in R <br/>
   (C) DTSA 5012 ANOVA and Experimental Design <br/>
