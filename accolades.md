@@ -12,20 +12,20 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 __First Phase__
 
 Focus <br/>
+(E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
-(E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
-(C) [DTSA 5304 Fundamentals of Data Visualization*](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
+
 
 <details open>
   <summary>To Do (Phase 1):</summary>
-(C) DTSA 5502 Trees and Graphs - Basics* <br/>
-
+(E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
+(C) [DTSA 5304 Fundamentals of Data Visualization*](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
  ---<br/>
 </details>
 
 <details>
   <summary>Second Phase: - Subject to change</summary>
-  (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
+  (C) DTSA 5502 Trees and Graphs - Basics* <br/>
   (E) DTSA 5508 Big Data Architecture in Production <br/>
   (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
   (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
