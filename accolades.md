@@ -16,10 +16,10 @@ Focus <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
 
 
-<details open>
+<details>
   <summary>To Do (Phase 1):</summary>
 (E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
-(C) [DTSA 5304 Fundamentals of Data Visualization*](https://coursera.org/share/7602589b20f9c2310b2a9cc5796bcd52)<br/>
+(C) DTSA 5304 Fundamentals of Data Visualization * <br/>
  ---<br/>
 </details>
 
@@ -50,7 +50,7 @@ Focus <br/>
   (C) DTSA 5013 Generalized Linear Models and Nonparametric Regression <br/>
 </details>
 
-<details>
+<details open>
   <summary>Completed: 20% Done (6/30)</summary>
 (C) DTSA 5501 Algorithms for Searching Sorting and Indexing<br/>
 (C) DTSA 5734 The Structured Query Language (SQL)<br/>
