@@ -12,12 +12,14 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 __First Phase__
 
 Focus <br/>
-(E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
-(C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
+(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
+(E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
+
 
 
 <details>
-  <summary>To Do (Phase 1):</summary>
+  <summary>To Do (Tabled):</summary>
+(C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
 (E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
 (C) DTSA 5304 Fundamentals of Data Visualization * <br/>
  ---<br/>
@@ -25,10 +27,9 @@ Focus <br/>
 
 <details>
   <summary>Second Phase: - Subject to change</summary>
-  (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
   (C) DTSA 5511 Introduction to Deep Learning<br/>
-  (E) DTSA 5508 Big Data Architecture in Production <br/>
+
   (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
@@ -51,13 +52,14 @@ Focus <br/>
 </details>
 
 <details open>
-  <summary>Completed: 20% Done (6/30)</summary>
+  <summary>Completed: 23% Done (7/30)</summary>
 (C) DTSA 5501 Algorithms for Searching Sorting and Indexing<br/>
 (C) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
 (C) DTSA 5733 Relational Database Design<br/>
 (C) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
+(E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
 
 </details>
   
