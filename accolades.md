@@ -12,6 +12,7 @@ style A fill:grey,stroke:white,stroke-width:1px,color:#fff
 __First Phase__
 
 Focus <br/>
+(C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
 (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
 
@@ -19,7 +20,6 @@ Focus <br/>
 
 <details>
   <summary>To Do (Tabled):</summary>
-(C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
 (E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
 (C) DTSA 5304 Fundamentals of Data Visualization * <br/>
  ---<br/>
