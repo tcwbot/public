@@ -1,7 +1,7 @@
 
 ## University of Colorado, Boulder
-[Master of Science - Data Science](https://www.colorado.edu/program/data-science/coursera-overview) <br/>
-[Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera)
+[Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
+[Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
