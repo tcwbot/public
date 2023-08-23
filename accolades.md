@@ -46,7 +46,6 @@ Focus <br/>
 
 <details open>
   <summary>Completed: </summary>
-(C) DTSA 5501 Algorithms for Searching Sorting and Indexing<br/>
 (C) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
 (C) DTSA 5733 Relational Database Design<br/>
