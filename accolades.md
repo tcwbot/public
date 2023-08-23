@@ -11,6 +11,8 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+(E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304 <br/>
+ ---<br/> 
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
  ---<br/> 
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
