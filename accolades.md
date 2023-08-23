@@ -47,9 +47,9 @@ Focus <br/>
 
 <details>
   <summary> DS Certificate : TO DO</summary>
+  (C) DTSA 5001 Probability Theory: Foundation for Data Science <br/>
   (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
   (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
-  (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
   (C) DTSA 5011 Modern Regression Analysis in R <br/>
   (C) DTSA 5012 ANOVA and Experimental Design <br/>
   (C) DTSA 5013 Generalized Linear Models and Nonparametric Regression <br/>
