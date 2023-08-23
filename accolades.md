@@ -103,6 +103,7 @@ Projects:
 [Oracle Weblogic Server 11g: System Administration I](https://education.oracle.com/oracle-weblogic-server-12c-administration-i/pexam_1Z0-133)
 
 ## Certificate Summaries
+
 [Data Science Foundations: Data Structures and Algorithms](https://www.coursera.org/account/accomplishments/specialization/certificate/VRFP7TNMHBJD0)
 
 [Databases for Data Scientists Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YAA5BMC2BKL3)
