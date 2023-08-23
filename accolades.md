@@ -6,7 +6,7 @@
 Focus <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
 (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
-(E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
+(C) DTSA 5508 Software Architecture Patterns for Big Data <br/>
 
 
 <details>
