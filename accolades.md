@@ -104,7 +104,7 @@ Projects:
 
 ## Certificate Summaries
 
-[Data Science Foundations: Data Structures and Algorithms](https://www.coursera.org/account/accomplishments/specialization/certificate/VRFP7TNMHBJD0)
+[Data Science Foundations: Data Structures and Algorithms](https://www.coursera.org/account/accomplishments/specialization/VRFP7TNMHBJD)
 
 [Databases for Data Scientists Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YAA5BMC2BKL3)
 
