@@ -8,11 +8,6 @@ Focus <br/>
 (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
 
-<details>
-  <summary>To Do (Tabled):</summary>
-(E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304 <br/> 
- ---<br/>
-</details>
 
 <details>
   <summary> MS CS : TO DO</summary>
