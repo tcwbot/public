@@ -10,7 +10,6 @@ Focus <br/>
 
 <details>
   <summary>To Do (Tabled):</summary>
-(E) DTSA 5704 Managing Describing and Analyzing Data*<br/>
 (E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304 <br/> 
  ---<br/>
 </details>
