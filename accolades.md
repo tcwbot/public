@@ -4,7 +4,7 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
+(C) CSCA 5414 Dynamic Programming, Greedy Algorithms <br/>
 (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
 
@@ -20,21 +20,26 @@ Focus <br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
-(C) CSCA 5414 Dynamic Programming, Greedy Algorithms <br/>
+
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
+
 (C) CSCA 1000 Network Systems (1) <br/>
 (C) CSCA 1001 Network Systems (2) <br/>
 (C) CSCA 1002 Network Systems (3) <br/>
+
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/>
 (C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics <br/>
 (C) CSCA 5234: Computing, Ethics, and Society 3 - Applications <br/>
+
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 <br/> 
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
+
 (E) CSCA 5834 Modeling of Autonomous Systems <br/>
 (E) CSCA 5844 Requirement Specifications for Autonomous Systems <br/>
 (E) CSCA 5854 Verification and Synthesis of Autonomous Systems <br/>
+
 (E) CSCA 2001 Big Data Challenges and NoSQL Solutions (1) <br/>
 (E) CSCA 2002 Big Data Challenges and NoSQL Solutions (2) <br/>
 (E) CSCA 2003 Big Data Challenges and NoSQL Solutions (3) <br/>
