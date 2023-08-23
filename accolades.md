@@ -32,14 +32,6 @@ Focus <br/>
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 <br/> 
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
----<br/>
-(E) CSCA 5834 Modeling of Autonomous Systems <br/>
-(E) CSCA 5844 Requirement Specifications for Autonomous Systems <br/>
-(E) CSCA 5854 Verification and Synthesis of Autonomous Systems <br/>
----<br/>
-(E) CSCA 2001 Big Data Challenges and NoSQL Solutions (1) <br/>
-(E) CSCA 2002 Big Data Challenges and NoSQL Solutions (2) <br/>
-(E) CSCA 2003 Big Data Challenges and NoSQL Solutions (3) <br/>
 </details>
 
 <details>
