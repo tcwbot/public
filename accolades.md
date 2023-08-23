@@ -36,20 +36,20 @@ Focus <br/>
 
 <details>
   <summary> DS Certificate : TO DO</summary>
-  (C) DTSA 5001 Probability Theory: Foundation for Data Science <br/>
-  (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
-  (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
-  (C) DTSA 5011 Modern Regression Analysis in R <br/>
-  (C) DTSA 5012 ANOVA and Experimental Design <br/>
-  (C) DTSA 5013 Generalized Linear Models and Nonparametric Regression <br/>
+  (E) DTSA 5001 Probability Theory: Foundation for Data Science <br/>
+  (E) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
+  (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
+  (E) DTSA 5011 Modern Regression Analysis in R <br/>
+  (E) DTSA 5012 ANOVA and Experimental Design <br/>
+  (E) DTSA 5013 Generalized Linear Models and Nonparametric Regression <br/>
 </details>
 
 <details open>
   <summary>Completed: </summary>
-(C) DTSA 5734 The Structured Query Language (SQL)<br/>
+(E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
-(C) DTSA 5733 Relational Database Design<br/>
-(C) DTSA 5301 Data Science as a Field<br/>
+(E) DTSA 5733 Relational Database Design<br/>
+(E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 (E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
 
