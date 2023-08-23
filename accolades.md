@@ -41,24 +41,11 @@ Focus <br/>
 (E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304 <br/> 
 </details>
 
-
 <details>
-  <summary> MS DS : TO DO</summary>
-  (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
-  (C) DTSA 5511 Introduction to Deep Learning<br/>
-  (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
-  (C) DTSA 5504 Data Mining Pipeline <br/>
-  (C) DTSA 5505 Data Mining Methods <br/>
-  (C) DTSA 5506 Data Mining Project <br/>
-  (C) DTSA 5502 Trees and Graphs - Basics* <br/>
-  (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
-  (C) <a href="https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1">DTSA 5001 Probability Theory*</a><br/>
+  <summary> DS Certificate : TO DO</summary>
   (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
   (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
   (E) DTSA 5701 Introduction to High-Performance and Parallel Computing<br/>
-  (C) DTSA 5302 Cybersecurity for Data Science <br/> 
-  (C) DTSA 5303 Ethical Issues in Data Science <br/>
-  (E) DTSA 5020 Regression and Classification <br/>
   (C) DTSA 5011 Modern Regression Analysis in R <br/>
   (C) DTSA 5012 ANOVA and Experimental Design <br/>
   (C) DTSA 5013 Generalized Linear Models and Nonparametric Regression <br/>
