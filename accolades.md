@@ -1,22 +1,12 @@
 
 ## University of Colorado, Boulder
-[Master of Science - Data Science](https://www.colorado.edu/program/data-science/coursera-overview)
-
-```mermaid
-graph LR
-A[First Phase]
--->B[Second Phase]
--->C[Third Phase]
-style A fill:grey,stroke:white,stroke-width:1px,color:#fff
-```
-__First Phase__
+[Master of Science - Data Science](https://www.colorado.edu/program/data-science/coursera-overview) <br/>
+[Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera)
 
 Focus <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
 (C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
 (E) DTSA 5508 Software Architecture Patterns for Big Data <br/>
-
-
 
 <details>
   <summary>To Do (Tabled):</summary>
@@ -26,19 +16,42 @@ Focus <br/>
 </details>
 
 <details>
-  <summary>Second Phase: - Subject to change</summary>
+  <summary> MS CS : TO DO</summary>
+(C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
+(C) CSCA 5642 Introduction to Deep Learning <br/>
+(C) CSCA 5414 Dynamic Programming, Greedy Algorithms <br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
+(C) CSCA 1000 Network Systems (1) <br/>
+(C) CSCA 1001 Network Systems (2) <br/>
+(C) CSCA 1002 Network Systems (3) <br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/>
+(C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics <br/>
+(C) CSCA 5234: Computing, Ethics, and Society 3 - Applications <br/>
+(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 <br/> 
+(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
+(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
+(E) CSCA 5834 Modeling of Autonomous Systems <br/>
+(E) CSCA 5844 Requirement Specifications for Autonomous Systems <br/>
+(E) CSCA 5854 Verification and Synthesis of Autonomous Systems <br/>
+(E) CSCA 2001 Big Data Challenges and NoSQL Solutions (1) <br/>
+(E) CSCA 2002 Big Data Challenges and NoSQL Solutions (2) <br/>
+(E) CSCA 2003 Big Data Challenges and NoSQL Solutions (3) <br/>
+(E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304 <br/> 
+</details>
+
+
+<details>
+  <summary> MS DS : TO DO</summary>
   (C) DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
   (C) DTSA 5511 Introduction to Deep Learning<br/>
-
   (E) DTSA 5714 Applications of Software Architecture for Big Data <br/>
   (C) DTSA 5504 Data Mining Pipeline <br/>
   (C) DTSA 5505 Data Mining Methods <br/>
   (C) DTSA 5506 Data Mining Project <br/>
   (C) DTSA 5502 Trees and Graphs - Basics* <br/>
   (E) DTSA 5707 Deep Learning Applications for Computer Vision <br/>
-</details>
-<details>
-  <summary>Third Phase: - Subject to change</summary>
   (C) <a href="https://www.coursera.org/learn/probability-theory-foundation-for-data-science/home/week/1">DTSA 5001 Probability Theory*</a><br/>
   (C) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
   (C) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
