@@ -17,10 +17,11 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+(C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
+ ---<br/> 
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
-(C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
