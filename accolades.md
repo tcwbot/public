@@ -56,14 +56,16 @@ Focus <br/>
 </details>
   
 ## City College of San Francisco
-[Computer Programming: Java Certificate of Achievement](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
+[Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
+
+[Coursework](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
 
 Projects:
 - Academic Project, Led by [Pr. Aaron Brick](https://github.com/aaronbrick)<br/>
 - Experimented with adding probabilistic judgments based on Corpus linguistics to an OCR system(Tesseract-OCR).
 
-## University of California, Davis
-[Bachelor of Arts - AB, Physics](https://physics.ucdavis.edu/)
+## [University of California, Davis](https://physics.ucdavis.edu/)
+[Bachelor of Arts - AB, Physics](/images/cert_one.png)
 
 <details>
   <summary>Coursework</summary>
