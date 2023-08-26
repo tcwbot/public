@@ -5,13 +5,13 @@
 
 Focus <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
-(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning<br/>
-(C) DTSA 5508 Software Architecture Patterns for Big Data <br/>
-
+(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning*<br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
-(E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304 <br/>
+  Tabled: <br/>
+(C) DTSA 5508 Software Architecture Patterns for Big Data*<br/>
+(E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304*<br/>
  ---<br/> 
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
  ---<br/> 
@@ -51,7 +51,7 @@ Focus <br/>
 (E) DTSA 5733 Relational Database Design<br/>
 (E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
-(E) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
+(C) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
 
 </details>
   
