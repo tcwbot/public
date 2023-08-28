@@ -41,10 +41,16 @@
 	- Do Altair Lab. 
 	- Do/review Week #1 Assignment.
 	- Start Week 2 - Videos.
-	
 --
 
 Ref:
 - R Tutorial - look for cheatsheet.
 https://bookdown.org/probability/beta/r.html#getting-started-in-r
+```
+
+```
+Weekly Scrums on Slack
+1) what you accomplished the past week
+2) what your plans are for the next week
+3) any foreseen blockers and/or asks
 ```
