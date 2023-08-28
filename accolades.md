@@ -4,18 +4,18 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) DTSA 5503 Dynamic Programming and Greedy Algorithms*<br/>
-(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning*<br/>
-(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 <br/> 
+(C) DTSA 5503 Dynamic Programming and Greedy Algorithms *<br/>
+(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning *<br/>
+(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
 
 <details>
   <summary> MS CS : TO DO</summary>
-  Tabled: <br/>
-(C) DTSA 5508 Software Architecture Patterns for Big Data*<br/>
+---<br/> 
 (E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304*<br/>
- ---<br/> 
+---<br/> 
+(C) DTSA 5508 Software Architecture Patterns for Big Data*<br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
- ---<br/> 
+---<br/> 
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
@@ -23,7 +23,7 @@ Focus <br/>
 (C) CSCA 1001 Network Systems (2) <br/>
 (C) CSCA 1002 Network Systems (3) <br/>
 ---<br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics <br/>
 (C) CSCA 5234: Computing, Ethics, and Society 3 - Applications <br/>
 
@@ -38,7 +38,7 @@ Focus <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
 ---<br/>
-(E) DTSA 5001 Probability Theory: Foundation for Data Science <br/>
+(E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 (E) DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
 (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 ---<br/>
