@@ -11,7 +11,7 @@ Focus <br/>
 <details>
   <summary> MS CS : TO DO</summary>
 ---<br/> 
-(E) CSCA 5702: Fundamentals of Data Visualization – Same as DTSA 5304*<br/>
+(E)  DTSA 5704 Managing Describing and Analyzing Data *<br/>
 ---<br/> 
 (C) DTSA 5508 Software Architecture Patterns for Big Data*<br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
