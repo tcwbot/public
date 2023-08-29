@@ -4,14 +4,12 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) DTSA 5503 Dynamic Programming and Greedy Algorithms *<br/>
-(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning *<br/>
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
+(C) DTSA 5509 Introduction to Machine Learning - Supervised Learning *<br/>
+(E)  DTSA 5704 Managing Describing and Analyzing Data *<br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
----<br/> 
-(E)  DTSA 5704 Managing Describing and Analyzing Data *<br/>
 ---<br/> 
 (C) DTSA 5508 Software Architecture Patterns for Big Data*<br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
@@ -55,7 +53,7 @@ Focus <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 (C) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
-
+(C) DTSA 5503 Dynamic Programming and Greedy Algorithms *<br/>
 </details>
   
 ## City College of San Francisco
