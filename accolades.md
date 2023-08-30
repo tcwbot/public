@@ -24,7 +24,6 @@ Focus <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics <br/>
 (C) CSCA 5234: Computing, Ethics, and Society 3 - Applications <br/>
-
 </details>
 
 <details>
@@ -53,7 +52,7 @@ Focus <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 (C) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
-(C) DTSA 5503 Dynamic Programming and Greedy Algorithms *<br/>
+(C) DTSA 5503 Dynamic Programming and Greedy Algorithms <br/>
 </details>
   
 ## City College of San Francisco
