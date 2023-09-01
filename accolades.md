@@ -5,13 +5,12 @@
 
 Focus <br/>
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
+(C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 *<br/>
 (E) DTSA 5704 Managing Describing and Analyzing Data *<br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
 ---<br/> 
-(C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 *<br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
 ---<br/> 
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
@@ -29,6 +28,7 @@ Focus <br/>
 <details>
   <summary> DS Certificate : TO DO</summary>
 ---<br/>
+(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
