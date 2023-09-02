@@ -6,10 +6,10 @@
 Focus <br/>
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
 (C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 *<br/>
-(E) DTSA 5704 Managing Describing and Analyzing Data *<br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+(E) DTSA 5704 Managing Describing and Analyzing Data *<br/>
 ---<br/> 
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
 ---<br/> 
