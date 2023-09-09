@@ -43,12 +43,12 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
 ---<br/>
 (A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * (FALL2-2023) <br/>
-(A) (E) DTSA 5002 Statistical Inference for Estimation in Data Science (SPRING1-2024) <br/>
-(A) (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science  (SPRING2-2024) <br/>
+(A) (E) DTSA 5002 Statistical Inference for Estimation in Data Science  <br/>
+(A) (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 ---<br/>
-(A) (E) DTSA 5011 Modern Regression Analysis in R (SUMMER1-2024) <br/>
-(A) (E) DTSA 5012 ANOVA and Experimental Design (SUMMER2-2024)  <br/>
-(A) (E) DTSA 5013 Generalized Linear Models and Nonparametric Regression (FALL1-2024)  <br/>
+(A) (E) DTSA 5011 Modern Regression Analysis in R <br/>
+(A) (E) DTSA 5012 ANOVA and Experimental Design <br/>
+(A) (E) DTSA 5013 Generalized Linear Models and Nonparametric Regression  <br/>
 
 </details>
 
