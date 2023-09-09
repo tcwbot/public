@@ -9,7 +9,6 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
----<br/> 
 (C) CSCA 5028 Applications of Software Architecture for Big Data (FALL2-2024) <br/>
 ---<br/> 
 (C) CSCA 5424 Approximation Algorithms and Linear Programming (FALL2-2024) <br/>
@@ -33,15 +32,17 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 </details>
 
 <details>
-  <summary> DS Certificate : TO DO</summary>
----<br/>
+  <summary>CS/DS Cross Courses : TO DO</summary>
+(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 (FALL2-2023) <br/> 
+(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
+  ---<br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
----<br/>
-(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 (FALL2-2023) <br/> 
-(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
----<br/>
+</details>
+
+<details>
+  <summary> DS Certificate : TO DO</summary>
 (A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * (FALL2-2023) <br/>
 (A) (E) DTSA 5002 Statistical Inference for Estimation in Data Science  <br/>
 (A) (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
