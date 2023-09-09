@@ -23,9 +23,9 @@ Focus <br/>
 (C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics (SPRING1-2024)<br/>
 (C) CSCA 5234: Computing, Ethics, and Society 3 - Applications (SPRING2-2024) <br/>
 ---<br/>
-Big Data Challenges and NoSQL Solutions 1 <br/>
-Big Data Challenges and NoSQL Solutions 2 <br/>
-Big Data Challenges and NoSQL Solutions 3 <br/>
+(E) Big Data Challenges and NoSQL Solutions 1 <br/>
+(E) Big Data Challenges and NoSQL Solutions 2 <br/>
+(E) Big Data Challenges and NoSQL Solutions 3 <br/>
 ---<br/>
 CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
 CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
