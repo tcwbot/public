@@ -55,7 +55,7 @@ An attempt on understanding the Perception
    
 ## Java:
 
-__Pixels__: graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX.
+__Pixels__: Event driven graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX.
 
 <img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
