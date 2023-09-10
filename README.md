@@ -55,7 +55,7 @@ An attempt on understanding the Perception
    
 ## Java:
 
-__Pixels__: Event driven graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX. Enables artist to convert higher bit graphics to lower bit graphics, then artisticly correct or edit final render.
+__RetroConvert__: Event driven graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX. Enables artists to convert higher bit graphics to lower bit graphics, then artisticly correct or edit final render. 
 
 <img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
