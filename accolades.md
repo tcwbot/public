@@ -10,8 +10,6 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
-(C) CSCA 5028 Applications of Software Architecture for Big Data (FALL2-2024) <br/>
----<br/> 
 (C) CSCA 5424 Approximation Algorithms and Linear Programming (FALL2-2024) <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms (FALL2-2024) <br/>
 ---<br/>
