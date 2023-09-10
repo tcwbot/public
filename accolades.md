@@ -7,6 +7,7 @@ Focus <br/>
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
 (C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 * <br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data (FALL2-2024) <br/>
+(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 (FALL2-2023) <br/> 
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -32,7 +33,6 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 
 <details>
   <summary>CS/DS Cross Courses : TO DO</summary>
-(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 (FALL2-2023) <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
   ---<br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
