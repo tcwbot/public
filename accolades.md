@@ -28,16 +28,15 @@ Focus <br/>
 CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
 CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
 CSCA 5342: Robotic Path Planning and Task Execution  <br/>
-</details>
-
-<details>
-  <summary>CS/DS Cross Courses : TO DO</summary>
+<br/>
+--- CS/DS Cross Courses : TO DO <br/>
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
   ---<br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 </details>
+
 
 <details>
   <summary> DS Certificate : TO DO</summary>
