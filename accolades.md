@@ -8,7 +8,7 @@ Focus <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
-(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * (FALL2-2023) <br/>
+(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
