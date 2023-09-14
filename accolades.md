@@ -4,7 +4,6 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
 (C) CSCA 5028 Applications of Software Architecture for Big Data (FALL2-2024) <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 (FALL2-2023) <br/> 
 
@@ -60,6 +59,7 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 (C) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms <br/>
 (C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 * <br/>
+(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
 </details>
   
 ## City College of San Francisco
