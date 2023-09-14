@@ -4,8 +4,11 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5028 Applications of Software Architecture for Big Data (FALL2-2024) <br/>
-(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 (FALL2-2023) <br/> 
+(C) CSCA 5028 Applications of Software Architecture for Big Data * <br/>
+(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
+(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
+(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * (FALL2-2023) <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -16,7 +19,6 @@ Focus <br/>
 (C) CSCA 1001 Network Systems (2) (FALL1-2024) <br/>
 (C) CSCA 1002 Network Systems (3) (FALL1-2024) <br/>
 ---<br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * (FALL2-2023) <br/>
 (C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics (SPRING1-2024)<br/>
 (C) CSCA 5234: Computing, Ethics, and Society 3 - Applications (SPRING2-2024) <br/>
 ---<br/>
@@ -31,7 +33,6 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 --- CS/DS Cross Courses : TO DO <br/>
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
   ---<br/>
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 </details>
@@ -39,7 +40,6 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 
 <details>
   <summary> DS Certificate : TO DO</summary>
-(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * (FALL2-2023) <br/>
 (A) (E) DTSA 5002 Statistical Inference for Estimation in Data Science  <br/>
 (A) (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 ---<br/>
