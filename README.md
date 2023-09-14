@@ -60,7 +60,7 @@ __RetroConvert__: Event driven graphics framework for front end visualizations. 
 <img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
 ## Software Engineering
-- Near Earth Object Recommender <br/>
+- Near Earth Object ML-Recommender | Datacollector <br/>
   Frontend: (ktor/flask) <br/>
   Backend: mysql, rabbit mq(jobrunner) <br/>
 - Abstract:TBA Coming Soon <br/>
