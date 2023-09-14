@@ -58,8 +58,8 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 (C) DTSA 5507 Fundamentals of Software Architecture for Big Data <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms <br/>
-(C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 * <br/>
-(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504 * <br/> 
+(C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 <br/>
+(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504<br/> 
 </details>
   
 ## City College of San Francisco
