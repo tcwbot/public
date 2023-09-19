@@ -100,8 +100,9 @@ Projects:
 
 ## Certificate Summaries
 
-Data Science Foundations: Data Structures and Algorithms <br/>
+Data Science Foundations: Data Structures and Algorithms Specialization<br/>
 Databases for Data Scientists Specialization<br/>
+Software Architecture for Big Data Specialization<br/>
 
 
 
