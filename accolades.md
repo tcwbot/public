@@ -11,6 +11,17 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
+---<br/>
+(C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics (SPRING1-2024)<br/>
+(C) CSCA 5234: Computing, Ethics, and Society 3 - Applications (SPRING2-2024) <br/>
+---<br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
+(C) CSCA 5642 Introduction to Deep Learning <br/>
+---<br/>
+CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
+CSCA 5342: Robotic Path Planning and Task Execution  <br/>
+---<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming (FALL2-2024) <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms (FALL2-2024) <br/>
 ---<br/>
@@ -18,21 +29,11 @@ Focus <br/>
 (C) CSCA 1001 Network Systems (2) (FALL1-2024) <br/>
 (C) CSCA 1002 Network Systems (3) (FALL1-2024) <br/>
 ---<br/>
-(C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics (SPRING1-2024)<br/>
-(C) CSCA 5234: Computing, Ethics, and Society 3 - Applications (SPRING2-2024) <br/>
----<br/>
 (E) Big Data Challenges and NoSQL Solutions 1 <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
 (E) Big Data Challenges and NoSQL Solutions 3 <br/>
----<br/>
-CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
-CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 <br/>
---- CS/DS Cross Courses : TO DO <br/>
-(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
-  ---<br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
-(C) CSCA 5642 Introduction to Deep Learning <br/>
+
 </details>
 
 
