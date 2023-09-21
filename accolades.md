@@ -5,9 +5,9 @@
 
 Focus <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
-(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
+(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -25,7 +25,6 @@ Focus <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
 (E) Big Data Challenges and NoSQL Solutions 3 <br/>
 ---<br/>
-CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
 CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
 CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 <br/>
@@ -39,6 +38,7 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 
 <details>
   <summary> DS Certificate : TO DO</summary>
+(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 (A) (E) DTSA 5002 Statistical Inference for Estimation in Data Science  <br/>
 (A) (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 ---<br/>
