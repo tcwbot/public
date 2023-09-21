@@ -49,7 +49,7 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 </details>
 
 <details>
-  <summary>Completed: </summary>
+  <summary>Completed: (10/30) 33% Done</summary>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
 (E) DTSA 5733 Relational Database Design<br/>
