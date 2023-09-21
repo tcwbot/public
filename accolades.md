@@ -32,11 +32,7 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 (E) Big Data Challenges and NoSQL Solutions 1 <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
 (E) Big Data Challenges and NoSQL Solutions 3 <br/>
-<br/>
-
 </details>
-
-
 <details>
   <summary> DS Certificate : TO DO</summary>
 (A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
