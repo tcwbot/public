@@ -60,8 +60,9 @@ __RetroConvert__: Event driven graphics framework for front end visualizations. 
 <img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
 ## Software Engineering
-- Near Earth Object ML-Recommender | Datacollector <br/>
-  Frontend: (ktor/flask) <br/>
-  Backend: mysql, rabbit mq(jobrunner) <br/>
-- Abstract:TBA Coming Soon <br/>
+**Abstract:** 
+Near Earth Object ML-Recommender. Nasa dataset has found newer and newer objects and their trajectories every time we sweep the skies. The dataset is growing larger and larger. Therefore there is need for identification of NEO Near Earth Object Collision Candidates.  The Goals are to create a recommender ai system to help researchers focus on the science of stopping collisions instead of hunting down possible candidates. ML Recommender System will Help Astronomers and Researchers identify which objects should be studied for NEO Collisions. The product is geared towards the following targeted audience: Astrophysicists, Astronomers, NEO Alert Agencies, and Researchers. This product is unique as it analyzes and tracks astroids that are close approaches to the earth. It will offer a recommender system.
+- Model: mysql, rabbit mq(jobrunner) <br/>
+- View: Bootstrap <br/>
+  Controller: Flask <br/>
 
