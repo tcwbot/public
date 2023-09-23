@@ -65,4 +65,5 @@ Near Earth Object ML-Recommender. Nasa dataset has found newer and newer objects
 - Model: mysql, rabbit mq(jobrunner) <br/>
 - View: Bootstrap <br/>
 - Controller: Flask <br/>
+- CI/CD: Heroku
 
