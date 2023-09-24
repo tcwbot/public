@@ -5,7 +5,7 @@
 
 Focus <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
-(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 (SPRING1-2023) <br/> 
+(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
 
