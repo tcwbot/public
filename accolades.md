@@ -24,9 +24,9 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
-(C) CSCA 1000 Network Systems (1) (FALL1-2024) <br/>
-(C) CSCA 1001 Network Systems (2) (FALL1-2024) <br/>
-(C) CSCA 1002 Network Systems (3) (FALL1-2024) <br/>
+(C) CSCA 1000 Network Systems (1) <br/>
+(C) CSCA 1001 Network Systems (2) <br/>
+(C) CSCA 1002 Network Systems (3) <br/>
 ---<br/>
 (E) Big Data Challenges and NoSQL Solutions 1 <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
