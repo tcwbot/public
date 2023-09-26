@@ -4,8 +4,8 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
+(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
 
