@@ -11,8 +11,8 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
-(C) CSCA 5224: Computing, Ethics, and Society 2 - Algorithmic Bias and Professional Ethics<br/>
-(C) CSCA 5234: Computing, Ethics, and Society 3 - Applications<br/>
+(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
 CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
 CSCA 5342: Robotic Path Planning and Task Execution  <br/>
@@ -24,9 +24,9 @@ CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
-(C) CSCA 1000 Network Systems (1) <br/>
-(C) CSCA 1001 Network Systems (2) <br/>
-(C) CSCA 1002 Network Systems (3) <br/>
+(C) CSCA 5063 Network Systems Foundation  <br/>
+(C) CSCA 5073 Network Principles in Practice: Linux Networking  <br/>
+(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 ---<br/>
 (E) Big Data Challenges and NoSQL Solutions 1 <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
