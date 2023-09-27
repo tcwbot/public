@@ -7,20 +7,16 @@ Focus <br/>
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
-(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
+(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
-(E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
-(E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
----<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
@@ -31,6 +27,10 @@ Focus <br/>
 (E) Big Data Challenges and NoSQL Solutions 1 <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
 (E) Big Data Challenges and NoSQL Solutions 3 <br/>
+---<br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
+(E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
+(E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 </details>
 <details>
   <summary> DS Certificate : TO DO</summary>
@@ -41,7 +41,6 @@ Focus <br/>
 (A) (E) DTSA 5011 Modern Regression Analysis in R <br/>
 (A) (E) DTSA 5012 ANOVA and Experimental Design <br/>
 (A) (E) DTSA 5013 Generalized Linear Models and Nonparametric Regression  <br/>
-
 </details>
 
 <details>
