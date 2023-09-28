@@ -5,13 +5,13 @@
 
 Focus <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
 ---<br/>
+(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
