@@ -5,12 +5,11 @@
 
 Focus <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
+(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
-(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
----<br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
