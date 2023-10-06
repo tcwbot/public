@@ -98,6 +98,18 @@ Projects:
 Data Science Foundations: Data Structures and Algorithms Specialization<br/>
 Databases for Data Scientists Specialization<br/>
 Software Architecture for Big Data Specialization<br/>
+Fundamentals of Data Visualization <br/>
+
+<details>
+  <summary>Future Work</summary>
+Data Engineer Learning Path<br/>
+https://www.cloudskillsboost.google/journeys/16<br/>
+
+Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate<br/>
+https://www.coursera.org/professional-certificates/gcp-data-engineering#courses<br/>
+Data Engineering, Big Data, and Machine Learning on GCP Specialization<br/>
+https://www.coursera.org/specializations/gcp-data-machine-learning#courses<br/><br/>
+</details>
 
 
 
