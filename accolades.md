@@ -109,7 +109,7 @@ Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certi
 https://www.coursera.org/professional-certificates/gcp-data-engineering#courses<br/>
 Data Engineering, Big Data, and Machine Learning on GCP Specialization<br/>
 https://www.coursera.org/specializations/gcp-data-machine-learning#courses<br/>
-[Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-wASJySFJgslzQzwT4ZEdHg&LSNPUBID=GjbDpcHcs4w)
+[Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-wASJySFJgslzQzwT4ZEdHg&LSNPUBID=GjbDpcHcs4w)<br/>
 [Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering#courses)
 </details>
 
