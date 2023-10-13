@@ -111,6 +111,10 @@ Data Engineering, Big Data, and Machine Learning on GCP Specialization<br/>
 https://www.coursera.org/specializations/gcp-data-machine-learning#courses<br/>
 [Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-wASJySFJgslzQzwT4ZEdHg&LSNPUBID=GjbDpcHcs4w)<br/>
 [Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering#courses)
+
+Udemy:
+https://www.udemy.com/course/fast-scala/learn/lecture/27123376#overview
+https://www.udemy.com/share/102cr43@cmcOHD4Y-k7MsASvOMab1P0suzps_Rwa29Yh9DoIRlfRrIskAFU4HgPhBkSCSDlZ/
 </details>
 
 
