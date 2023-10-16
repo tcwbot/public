@@ -119,8 +119,8 @@ https://www.udemy.com/share/102cr43@cmcOHD4Y-k7MsASvOMab1P0suzps_Rwa29Yh9DoIRlfR
 Learning Path
 AWS Cloud Practitioneer > Solutions Archetecht > AWS Developer / SysOps Administrator > Machine Learning
 
-AWS Certified Cloud Practitioner Training 2020 - Full Course
-https://www.youtube.com/watch?v=3hLmDS179YE&t=50s
+AWS Certified Cloud Practitioner Training 2020 - Full Course<br/>
+https://www.youtube.com/watch?v=3hLmDS179YE&t=50s<br/>
 
 </details>
 
