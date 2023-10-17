@@ -12,8 +12,9 @@ Focus <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
-(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
-(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
+(E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
+(E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 ---<br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
@@ -27,9 +28,8 @@ Focus <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
 (E) Big Data Challenges and NoSQL Solutions 3 <br/>
 ---<br/>
-(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
-(E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
-(E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 </details>
 <details>
   <summary> DS Certificate : TO DO</summary>
