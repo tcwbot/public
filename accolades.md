@@ -85,10 +85,9 @@ Projects:
 
 Projects: 
 - Solid State Physics (experimental): Developed techniques synthesizing 14-1-11 Zenithil Crystals (single-domain).
-- Solid State Physics (theoretical):  Developed Molecular Dynamic Simulations using Leonard Jones and Monte Carlo models.
-- Geology : Developed a Data Visualization Tool for analyzing First-Order Reversal Curves and their multidimensional Transformations on polar ice core Datasets. The Transformations produced contour plots where reseachers could slice and drill into the data two-dimensionally.
+- Solid State Physics (theoretical):  Served on a research team developing molecular dynamic simulations using Leonard Jones and Monte Carlo models. Specifically, verified models for accuracy of perturbed systems of a 2D n x n array skewed lattice crystalline structure.
+- Geology : Served on a research team developing Data Visualization Tools for analyzing First-Order Reversal Curves and their multidimensional Transformations. The raw geological data was aquired via polar ice core Datasets. The Transformations produced contour plots where reseachers could slice and drill into the data two-dimensionally.
 
----
 
 ## Other Certifications
 [Oracle Weblogic Server 11g: System Administration I](https://education.oracle.com/oracle-weblogic-server-12c-administration-i/pexam_1Z0-133)
