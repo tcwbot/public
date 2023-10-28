@@ -67,3 +67,8 @@ Near Earth Object ML-Recommender. This product is unique as it analyzes and trac
 - Controller: Flask <br/>
 - CI/CD: Heroku
 
+## Resources
+- An Introduction to Statistical Learning <br/>
+https://www.statlearning.com/ <br/>
+
+
