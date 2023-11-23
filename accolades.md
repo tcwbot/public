@@ -4,7 +4,8 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
+(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 
 <details>
@@ -12,11 +13,10 @@ Focus <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
-(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
+
 (E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
 (E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 ---<br/>
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
@@ -55,6 +55,7 @@ Focus <br/>
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504<br/> 
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
+(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
 </details>
   
 ## City College of San Francisco
