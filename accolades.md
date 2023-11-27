@@ -4,7 +4,7 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(E) CSCA 5312: Basic Robotic Behaviors and Odometry <br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry * <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 
 <details>
@@ -28,7 +28,7 @@ Focus <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
 (E) Big Data Challenges and NoSQL Solutions 3 <br/>
 ---<br/>
-(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 </details>
 <details>
