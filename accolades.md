@@ -4,12 +4,11 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
@@ -28,6 +27,7 @@ Focus <br/>
 (E) Big Data Challenges and NoSQL Solutions 2 <br/>
 (E) Big Data Challenges and NoSQL Solutions 3 <br/>
 ---<br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 </details>
 <details>
