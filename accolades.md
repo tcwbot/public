@@ -53,8 +53,8 @@ Focus <br/>
 (C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 <br/>
 (E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504<br/> 
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
-(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 * <br/> 
-(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 * <br/> 
+(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
+(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
 </details>
   
 ## City College of San Francisco
