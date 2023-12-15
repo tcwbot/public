@@ -69,7 +69,6 @@ Focus <br/>
 	CS 160A - Introduction to Unix/Linux	<br/>
 	CS 211S - Advanced Java: Standard Edition <br/>
 	CS 150A - Introduction to SQL Databases and NoSQL <br/>
-	CS 211E - Advanced Java: Enterprise	<br/>
 	CS 199 - Independent Study <br/>
 	CS 270 - Comp Architecture w/ Assembly  <br/>
 	CS 131B - Prog Fundamentals: Python  <br/>
