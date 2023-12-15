@@ -71,9 +71,9 @@ Focus <br/>
 	- CS 150A - Introduction to SQL Databases and NoSQL <br/>
 	- CS 211E - Advanced Java: Enterprise	<br/>
 	- CNIT 198 - Internship and Work Experience <br/>
-	- CS 199 Independent Study <br/>
+	- CS 199 - Independent Study <br/>
 	- CS 270 - Comp Architecture w/ Assembly  <br/>
-	- CS 131B Prog Fundamentals: Python  <br/>
+	- CS 131B - Prog Fundamentals: Python  <br/>
 	- CS 231 - Advanced Python Programming  <br/>
 </details>
 
