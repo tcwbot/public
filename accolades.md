@@ -5,6 +5,7 @@
 
 Focus <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
+(C) CSCA 5063 Network Systems Foundation  * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -19,7 +20,7 @@ Focus <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
-(C) CSCA 5063 Network Systems Foundation  <br/>
+
 (C) CSCA 5073 Network Principles in Practice: Linux Networking  <br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 ---<br/>
