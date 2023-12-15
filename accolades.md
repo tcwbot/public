@@ -63,14 +63,18 @@ Focus <br/>
 
 <details>
   <summary>Coursework <a href="https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29">link</a></summary>
-	- CS 111B - Programming Fundamentals: Java	<br/>
-	- CS 111C - Data Structures and Algorithms: Java	<br/>
+	- CS 113A Intro to Perl Programming <br/>
+	- CS 111B - Programming Fundamentals: Java <br/>
+	- CS 111C - Data Structures and Algorithms: Java <br/>
 	- CS 160A - Introduction to Unix/Linux	<br/>
-	- CS 211S - Advanced Java: Standard Edition	<br/>
+	- CS 211S - Advanced Java: Standard Edition <br/>
 	- CS 150A - Introduction to SQL Databases and NoSQL <br/>
 	- CS 211E - Advanced Java: Enterprise	<br/>
-	- CS 198 - Industry Internship	<br/>
 	- CNIT 198 - Internship and Work Experience <br/>
+	- CS 199 Independent Study <br/>
+	- CS 270 - Comp Architecture w/ Assembly  <br/>
+	- CS 131B Prog Fundamentals: Python  <br/>
+	- CS 231 - Advanced Python Programming  <br/>
 </details>
 
 Projects:
