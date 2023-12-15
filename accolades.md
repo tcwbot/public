@@ -61,7 +61,17 @@ Focus <br/>
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
 
-[Coursework](https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29)
+<details>
+  <summary>Coursework <a href="https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29">link</a></summary>
+	- CS 111B - Programming Fundamentals: Java	<br/>
+	- CS 111C - Data Structures and Algorithms: Java	<br/>
+	- CS 160A - Introduction to Unix/Linux	<br/>
+	- CS 211S - Advanced Java: Standard Edition	<br/>
+	- CS 150A - Introduction to SQL Databases and NoSQL <br/>
+	- CS 211E - Advanced Java: Enterprise	<br/>
+	- CS 198 - Industry Internship	<br/>
+	- CNIT 198 - Internship and Work Experience <br/>
+</details>
 
 Projects:
 - Academic Project, Led by [Pr. Aaron Brick](https://github.com/aaronbrick)<br/>
