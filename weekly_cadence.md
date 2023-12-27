@@ -1,32 +1,9 @@
-
-# Meeting Minutes - Structure
-```
-1) Quick Check - In.
-2) Presentations 3-5 Minutes
-3) Project Design Q & A	
-	- Blockers for Project Advancements
-4) New Directions:
-	- Next class. Next Pivot, If action items changes.
-5) Questions on Homework (Should be documented, separate time should be alotted, if any time is needed to press on this.)
-6) Topics to Discuss Next Meeting.
-7) End it! =)
-```
-
-# Homework for next meeting
-```
-(r) Week 2 - 5503 videos
-(r) Week 2 - 5503 notebooks review
-(r) Week 2 - 5503 ProblemSet
-(l) Week 1 - 5503 homework problems
-(l) week 1-2 - 5734 SQL
-```
-
 # Focus
 ```
--- Spring 2
-(R,L) DTSA 5304 Fundamentals of Data Visualization (submit in begining of session)
-(R,L) DTSA 5503 Dynamic Programming and Greedy Algorithms
-(L) DTSA 5734 The Structured Query Language (SQL)
+-- Spring 1
+- CSCA 5622 - Final Project
+- CSCA 5063 - Week 1 - 5 Videos
+- CSCA 5063 - Week 1 - 5 Labs
 ``` 
 
 
@@ -53,4 +30,26 @@ Weekly Scrums on Slack
 1) what you accomplished the past week
 2) what your plans are for the next week
 3) any foreseen blockers and/or asks
+```
+
+# Meeting Minutes - Structure
+```
+1) Quick Check - In.
+2) Presentations 3-5 Minutes
+3) Project Design Q & A	
+	- Blockers for Project Advancements
+4) New Directions:
+	- Next class. Next Pivot, If action items changes.
+5) Questions on Homework (Should be documented, separate time should be alotted, if any time is needed to press on this.)
+6) Topics to Discuss Next Meeting.
+7) End it! =)
+```
+
+# Homework for next meeting
+```
+(r) Week 2 - 5503 videos
+(r) Week 2 - 5503 notebooks review
+(r) Week 2 - 5503 ProblemSet
+(l) Week 1 - 5503 homework problems
+(l) week 1-2 - 5734 SQL
 ```
