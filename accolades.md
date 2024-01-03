@@ -4,8 +4,9 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (C) CSCA 5063 Network Systems Foundation  * <br/>
+(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry * (week1)<br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -23,7 +24,6 @@ Focus <br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * (week1)<br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
-(E) CSCA 5312: Basic Robotic Behaviors and Odometry * (week1)<br/>
 (E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
 (E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 ---<br/>
