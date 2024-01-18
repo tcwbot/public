@@ -4,9 +4,9 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5063 Network Systems Foundation  * <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
 (A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
+<s>(C) CSCA 5063 Network Systems Foundation  * </s> <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
