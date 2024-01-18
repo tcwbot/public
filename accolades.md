@@ -6,7 +6,7 @@
 Focus <br/>
 (C) CSCA 5063 Network Systems Foundation  * <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
-(E) CSCA 5312: Basic Robotic Behaviors and Odometry * (week1)<br/>
+(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -24,6 +24,7 @@ Focus <br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * (week1)<br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry * (week1)<br/>
 (E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
 (E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 ---<br/>
@@ -34,7 +35,6 @@ Focus <br/>
 
 <details>
   <summary> DS Certificate : TO DO</summary>
-(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 (A) (E) DTSA 5002 Statistical Inference for Estimation in Data Science  <br/>
 (A) (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 ---<br/>
