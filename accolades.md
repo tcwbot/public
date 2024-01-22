@@ -5,7 +5,6 @@
 
 Focus <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 * <br/>
-(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 <s>(C) CSCA 5063 Network Systems Foundation  * </s> <br/>
 
 <details>
@@ -35,6 +34,7 @@ Focus <br/>
 
 <details>
   <summary> DS Certificate : TO DO</summary>
+(A) (E) DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 (A) (E) DTSA 5002 Statistical Inference for Estimation in Data Science  <br/>
 (A) (E) DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 ---<br/>
