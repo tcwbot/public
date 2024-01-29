@@ -56,7 +56,7 @@ Focus <br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
-(C) CSCA 5063 Network Systems Foundation  *  <br/>
+(C) CSCA 5063 Network Systems Foundation  <br/>
 </details>
   
 ## City College of San Francisco
