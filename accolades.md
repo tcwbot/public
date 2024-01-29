@@ -1,11 +1,13 @@
 
 ## University of Colorado, Boulder
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
+
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 <br/>
-<s>(C) CSCA 5063 Network Systems Foundation  * </s> <br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry * <br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * (week2) <br/>
+<s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -18,11 +20,9 @@ Focus <br/>
 (C) CSCA 5073 Network Principles in Practice: Linux Networking  <br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 ---<br/>
-* (E) CSCA 5312: Basic Robotic Behaviors and Odometry * (week1)<br/>
 (E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
 (E) CSCA 5342: Robotic Path Planning and Task Execution  <br/>
 ---<br/>
-* (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * (week2) <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
@@ -43,7 +43,7 @@ Focus <br/>
 </details>
 
 <details>
-  <summary>Completed: (12/30) 40% Done</summary>
+  <summary>Completed: (12/30) 43% Done</summary>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
 (E) DTSA 5733 Relational Database Design<br/>
@@ -56,6 +56,7 @@ Focus <br/>
 (C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
+(C) CSCA 5063 Network Systems Foundation  *  <br/>
 </details>
   
 ## City College of San Francisco
