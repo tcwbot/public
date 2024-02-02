@@ -6,6 +6,7 @@
 - CSCA 5063 - Week 1 - 5 Labs
 -- Attention
 get through the videos
+take notes
 look for supporting video content
 do the quizes and assignments.
 ``` 
