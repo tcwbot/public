@@ -6,11 +6,11 @@
 
 Focus <br/>
 (E) DTSA 5704 Managing Describing and Analyzing Data <br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 <s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
 * (C) CSCA 5424 Approximation Algorithms and Linear Programming * (week1)<br/>
