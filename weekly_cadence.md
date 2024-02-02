@@ -1,9 +1,7 @@
 # Focus
 ```
 -- Spring 1
-- CSCA 5622 - Final Project
-- CSCA 5063 - Week 1 - 5 Videos
-- CSCA 5063 - Week 1 - 5 Labs
+- TBA
 -- Attention
 get through the videos
 take notes
