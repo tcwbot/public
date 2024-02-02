@@ -9,6 +9,8 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+DTSA 5704 Managing Describing and Analyzing Data (1 credit) <br/>
+---<br/>
 * (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
