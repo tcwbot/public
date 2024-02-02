@@ -5,11 +5,11 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 <s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
-* (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
 * (C) CSCA 5424 Approximation Algorithms and Linear Programming * (week1)<br/>
