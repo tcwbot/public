@@ -10,7 +10,6 @@ Focus <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
