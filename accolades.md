@@ -6,7 +6,7 @@
 
 Focus <br/>
 <s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
-DTSA 5020 Regression and Classification <br/>
+(E) DTSA 5020 Regression and Classification <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
