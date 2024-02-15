@@ -10,7 +10,7 @@ Focus <br/>
 <details>
   <summary> MS CS : TO DO</summary>
 
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * (week2) <br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
