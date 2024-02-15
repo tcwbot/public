@@ -6,7 +6,6 @@
 
 Focus <br/>
 <s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
-(E) DTSA 5020 Regression and Classification <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -53,7 +52,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 </details>
 
 <details>
-  <summary>Completed: (13/30) 43% Done</summary>
+  <summary>Completed: (14/30) 47% Done</summary>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
 (E) DTSA 5733 Relational Database Design<br/>
@@ -67,6 +66,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
 (E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
 (C) CSCA 5063 Network Systems Foundation  <br/>
+(E) DTSA 5020 Regression and Classification <br/>
 </details>
   
 ## City College of San Francisco
