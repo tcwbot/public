@@ -14,15 +14,15 @@ Focus <br/>
 	
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
-(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
-(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
----<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
 (C) CSCA 5073 Network Principles in Practice: Linux Networking  <br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
+---<br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
+(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
 (E) CSCA 5312: Basic Robotic Behaviors and Odometry * <br/>
 (E) CSCA 5332: Robotic Mapping and Trajectory Generation <br/>
