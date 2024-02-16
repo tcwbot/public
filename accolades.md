@@ -6,11 +6,12 @@
 
 Focus <br/>
 <s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
+
 
 <details>
   <summary> MS CS : TO DO</summary>
 	
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
