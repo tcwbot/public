@@ -23,13 +23,13 @@ Focus <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
-(E) Elective 1 - A
-(E) Elective 1 - B
-(E) Elective 1 - C
+(E) Elective 1 - A  <br/>
+(E) Elective 1 - B  <br/>
+(E) Elective 1 - C  <br/>
 ---<br/>
-(E) Elective 2 - A
-(E) Elective 2 - B
-(E) Elective 2 - C
+(E) Elective 2 - A  <br/>
+(E) Elective 2 - B  <br/>
+(E) Elective 2 - C  <br/>
 </details>
 
 <details>
