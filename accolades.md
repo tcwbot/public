@@ -23,9 +23,9 @@ Focus <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
-(E) Elective 1 - A  <br/>
-(E) Elective 1 - B  <br/>
-(E) Elective 1 - C  <br/>
+(E) CSCA 5112: Introduction to Generative AI <br/>
+(E) CSCA 5122: Modern Applications of Generative AI <br/>
+(E) CSCA 5132: Advances in Generative AI <br/>
 ---<br/>
 (E) Elective 2 - A  <br/>
 (E) Elective 2 - B  <br/>
