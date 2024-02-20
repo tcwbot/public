@@ -27,9 +27,9 @@ Focus <br/>
 (E) CSCA 5122: Modern Applications of Generative AI <br/>
 (E) CSCA 5132: Advances in Generative AI <br/>
 ---<br/>
-(E) Elective 2 - A  <br/>
-(E) Elective 2 - B  <br/>
-(E) Elective 2 - C  <br/>
+(E) CSCA 5312: Basic Robotic Behaviors and Odometry  <br/>
+(E) CSCA 5332: Robotic Mapping and Trajectory Generation  <br/>
+(E) CSCA 5342: Robotic Path Planning and Task Execution   <br/>
 </details>
 
 <details>
