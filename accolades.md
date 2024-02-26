@@ -25,9 +25,9 @@ Focus <br/>
 (E) CSCA 5122: Modern Applications of Generative AI <br/>
 (E) CSCA 5132: Advances in Generative AI <br/>
 ---<br/>
-(E) CSCA 5312: Basic Robotic Behaviors and Odometry  <br/>
-(E) CSCA 5332: Robotic Mapping and Trajectory Generation  <br/>
-(E) CSCA 5342: Robotic Path Planning and Task Execution   <br/>
+(E) Big Data Challenges and NoSQL Solutions 1 <br/>
+(E) Big Data Challenges and NoSQL Solutions 2 <br/>
+(E) Big Data Challenges and NoSQL Solutions 3 <br/>
 </details>
 
 <details>
