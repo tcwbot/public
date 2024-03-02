@@ -5,7 +5,6 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-DTSA 5001 Probability Theory: Foundation for Data Science  <br/>
 DTSA 5021 Resampling, Selection, and Splines <br/>
 DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
 <s>DTSA 5509 Introduction to Machine Learning: Supervised Learning </s> <br/>
