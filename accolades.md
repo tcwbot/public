@@ -5,13 +5,17 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
-(C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
+DTSA 5001 Probability Theory: Foundation for Data Science  <br/>
+DTSA 5021 Resampling, Selection, and Splines <br/>
+DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
+<s>DTSA 5509 Introduction to Machine Learning: Supervised Learning </s> <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
+(C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 ---<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
