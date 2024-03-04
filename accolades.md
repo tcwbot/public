@@ -19,12 +19,12 @@ DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
 (E) CSCA 5122: Modern Applications of Generative AI <br/>
 (E) CSCA 5132: Advances in Generative AI <br/>
 ---<br/>
-(C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
-(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
----<br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
+---<br/>
+(C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
+(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 ---<br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
