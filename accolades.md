@@ -18,13 +18,13 @@ DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution <br/>
 ---<br/>
-(E) CSCA 5112: Introduction to Generative AI * <br/>
-(E) CSCA 5122: Modern Applications of Generative AI <br/>
-(E) CSCA 5132: Advances in Generative AI <br/>
----<br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
+---<br/>
+(E) CSCA 5112: Introduction to Generative AI * <br/>
+(E) CSCA 5122: Modern Applications of Generative AI <br/>
+(E) CSCA 5132: Advances in Generative AI <br/>
 ---<br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
