@@ -14,11 +14,11 @@ DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
   <summary> MS CS : TO DO</summary>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 ---<br/>
-(E)  CSCA 5312 Basic Robotic Behaviors and Odometry  <br/>
+(E)  CSCA 5312 Basic Robotic Behaviors and Odometry * <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution <br/>
 ---<br/>
-(E) CSCA 5112: Introduction to Generative AI <br/>
+(E) CSCA 5112: Introduction to Generative AI * <br/>
 (E) CSCA 5122: Modern Applications of Generative AI <br/>
 (E) CSCA 5132: Advances in Generative AI <br/>
 ---<br/>
