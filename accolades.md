@@ -37,7 +37,7 @@ DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
 <details>
   <summary> DS Certificate : TO DO</summary>
 DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
-DTSA 5002 Statistical Inference for Estimation in Data Science  <br/>
+DTSA 5002 Statistical Inference for Estimation in Data Science *  <br/>
 DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 --- <br/>
 <s>DTSA 5020 Regression and Classification</s>s> <br/>
