@@ -8,7 +8,7 @@ Focus <br/>
 DTSA 5021 Resampling, Selection, and Splines <br/>
 DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
 (C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
-<s>DTSA 5509 Introduction to Machine Learning: Supervised Learning </s> <br/>
+<s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
