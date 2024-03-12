@@ -25,9 +25,9 @@ Focus <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
-CSCA 5859: Ideating and Prototyping Interfaces  <br/>
-CSCA 5869: User Interface Testing and Usability  <br/>
-CSCA 5879: Emerging Topics in HCI: Designing for VR, AR, AI  <br/>
+(E) CSCA 5859: Ideating and Prototyping Interfaces  <br/>
+(E) CSCA 5869: User Interface Testing and Usability  <br/>
+(E) CSCA 5879: Emerging Topics in HCI: Designing for VR, AR, AI  <br/>
 ---<br/>
 (E) CSCA 5112: Introduction to Generative AI * <br/>
 (E) CSCA 5122: Modern Applications of Generative AI <br/>
