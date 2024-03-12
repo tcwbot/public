@@ -6,7 +6,7 @@
 
 Focus <br/>
 (C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 
 <details>
   <summary> MS CS - Phase 1 : TO DO</summary>
