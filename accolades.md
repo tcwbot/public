@@ -123,6 +123,7 @@ Databases for Data Scientists Specialization<br/>
 Software Architecture for Big Data Specialization<br/>
 Fundamentals of Data Visualization <br/>
 Data Mining Foundations and Practice  <br/>
+Statistical Learning for Data Science <br/>
 
 <details>
   <summary>Future Work</summary>
