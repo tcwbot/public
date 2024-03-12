@@ -5,8 +5,6 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-DTSA 5021 Resampling, Selection, and Splines <br/>
-DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
 (C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
 
 <details>
@@ -39,9 +37,9 @@ DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 DTSA 5002 Statistical Inference for Estimation in Data Science *  <br/>
 DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 --- <br/>
-<s>DTSA 5020 Regression and Classification</s>s> <br/>
-DTSA 5021 Resampling, Selection, and Splines <br/>
-DTSA 5022 Trees, SVM and Unsupervised Learning <br/>
+<s>DTSA 5020 Regression and Classification</s> <br/>
+<s>DTSA 5021 Resampling, Selection, and Splines</s> <br/>
+<s>DTSA 5022 Trees, SVM and Unsupervised Learning</s> <br/>
 --- <br/>
 <s>DTSA 5509 Introduction to Machine Learning: Supervised Learning </s> <br/>
 DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
