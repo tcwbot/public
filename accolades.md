@@ -6,6 +6,7 @@
 
 Focus <br/>
 (C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 
 <details>
   <summary> MS CS : TO DO</summary>
@@ -23,7 +24,6 @@ Focus <br/>
 (E) CSCA 5122: Modern Applications of Generative AI <br/>
 (E) CSCA 5132: Advances in Generative AI <br/>
 ---<br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
