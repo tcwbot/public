@@ -5,7 +5,6 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 
 <details>
@@ -71,6 +70,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (C) CSCA 5063 Network Systems Foundation  <br/>
 (E) DTSA 5020 Regression and Classification <br/>
 <s>(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 </s> <br/>
+(C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
 </details>
   
 ## City College of San Francisco
