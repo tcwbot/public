@@ -6,7 +6,6 @@
 
 Focus <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
-(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 
 <details>
   <summary> MS CS - Phase 1 : TO DO</summary>
@@ -14,6 +13,7 @@ Focus <br/>
 ---<br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 
 </details>
