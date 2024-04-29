@@ -5,7 +5,7 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-CSCA 5312 Basic Robotic Behaviors and Odometry * <br/>
+(E) CSCA 5312 Basic Robotic Behaviors and Odometry * <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 
 <details>
@@ -29,9 +29,8 @@ CSCA 5312 Basic Robotic Behaviors and Odometry * <br/>
 (E) CSCA 5869: User Interface Testing and Usability  <br/>
 (E) CSCA 5879: Emerging Topics in HCI: Designing for VR, AR, AI  <br/>
 ---<br/>
-CSCA 5312 Basic Robotic Behaviors and Odometry  <br/>
-CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
-CSCA 5342 Robotic Path Planning and Task Execution  <br/>
+(E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
+(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 
 </details>
 
