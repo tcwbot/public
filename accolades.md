@@ -13,13 +13,12 @@ Focus <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 ---<br/>
+(E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
+(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
+---<br/>
 (E) CSCA 5859: Ideating and Prototyping Interfaces  <br/>
 (E) CSCA 5869: User Interface Testing and Usability  <br/>
 (E) CSCA 5879: Emerging Topics in HCI: Designing for VR, AR, AI  <br/>
----<br/>
-(E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
-(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
-
 </details>
 
 <details>
