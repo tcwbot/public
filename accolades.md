@@ -9,27 +9,27 @@ Focus <br/>
 
 <details>
   <summary> MS CS - Phase 1 : TO DO</summary>
+(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
+---<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 ---<br/>
-(E) CSCA 5859: Ideating and Prototyping Interfaces  <br/>
-(E) CSCA 5869: User Interface Testing and Usability  <br/>
-(E) CSCA 5879: Emerging Topics in HCI: Designing for VR, AR, AI  <br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
+(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 </details>
 
 <details>
   <summary> MS CS - Phase 2 : TO DO</summary>
-(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
----<br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
-(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
-(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
+(E) CSCA 5859: Ideating and Prototyping Interfaces  <br/>
+(E) CSCA 5869: User Interface Testing and Usability  <br/>
+(E) CSCA 5879: Emerging Topics in HCI: Designing for VR, AR, AI  <br/>
 
 </details>
 
