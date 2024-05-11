@@ -44,7 +44,7 @@ Contributor to OCR library. https://github.com/aaronbrick/probcr
 __create_flask_app__ :  <br/>
 Flask Templating engine to create apps
 
-__cidr calculator__ : <br/>
+__cidr calculator__ :  https://github.com/tcwbot/public/blob/main/scripts/cidr.py <br/>
 FlaskApp cidr | subnet calculator.
 
 __interrupt_driven__ :  <br/>
