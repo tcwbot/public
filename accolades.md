@@ -20,7 +20,6 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 2 : TO DO</summary>
----<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 ---<br/>
