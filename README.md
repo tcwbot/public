@@ -67,7 +67,7 @@ __RetroConvert__: Event driven graphics framework for front end visualizations. 
 
 ## Software Engineering
 **Abstract:** <br/>
-Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. It will offer a recommender system.
+Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. It offers a recommender system.
 - Model: mysql, rabbit mq(jobrunner) <br/>
 - View: Bootstrap <br/>
 - Controller: Flask <br/>
