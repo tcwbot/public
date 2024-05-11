@@ -1,3 +1,6 @@
+# Progress
+https://github.com/tcwbot/public/blob/main/accolades.md
+
 # Logos
 <table>
 <tr><td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/logo_01.png" height="100"/></td>
