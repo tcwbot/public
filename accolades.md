@@ -8,7 +8,7 @@ Focus <br/>
 (E) CSCA 5312 Basic Robotic Behaviors and Odometry * <br/>
 
 <details>
-  <summary> MS CS - Phase 1 : TO DO</summary>
+  <summary> MSCS - Phase 1 : TO DO</summary>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 ---<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
@@ -20,7 +20,7 @@ Focus <br/>
 </details>
 
 <details>
-  <summary> MS CS - Phase 2 : TO DO</summary>
+  <summary> MSCS - Phase 2 : TO DO</summary>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
