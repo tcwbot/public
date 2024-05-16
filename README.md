@@ -78,7 +78,7 @@ An attempt on understanding the Perception
 # Progress
 https://github.com/tcwbot/public/blob/main/accolades.md
 
-## Resources
+# Resources
 - An Introduction to Statistical Learning <br/>
 https://www.statlearning.com/ <br/>
 - Probability! <br/>
