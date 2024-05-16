@@ -1,15 +1,20 @@
-# Progress
-https://github.com/tcwbot/public/blob/main/accolades.md
-
-# Logos
-<table>
-<tr><td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/logo_01.png" height="100"/></td>
-<td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/logo_02.png" height="100"/></td>
-<td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/logo_03.png" height="100"/></td></tr>
-</table>
-
 # Projects
  
+## Video:
+- [Supervised Learning for Marketing Analytics - Presentation](https://www.youtube.com/watch?v=7WtoGeQmB0w)
+- [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM)
+- [Data Science as Field - Presentation](https://www.youtube.com/watch?v=uiD9XutppVQ)
+- [vim and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
+- [VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
+
+
+## Software Engineering
+**Abstract:** <br/>
+Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. It offers a recommender system.
+- Model: mysql, rabbit mq(jobrunner) <br/>
+- View: Bootstrap <br/>
+- Controller: Flask <br/>
+- CI/CD: Heroku
 
 ## Data Visualization
 <table>
@@ -23,15 +28,13 @@ https://github.com/tcwbot/public/blob/main/accolades.md
  </tr>
 </table>
 
-## Video:
-- [Supervised Learning for Marketing Analytics - Presentation](https://www.youtube.com/watch?v=7WtoGeQmB0w)
-- [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM)
-- [Data Science as Field - Presentation](https://www.youtube.com/watch?v=uiD9XutppVQ)
-- [vim and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
-- [VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
+## Java:
+
+__RetroConvert__: Event driven graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX. Enables artists to convert higher bit graphics to lower bit graphics, then artisticly correct or edit final render. 
+
+<img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
 
-  
 ## Python:
 
 [logger4py](https://github.com/tcwbot/logger4) : <br/>
@@ -63,19 +66,17 @@ An attempt on understanding the Perception
  </tr>
 </table>
    
-## Java:
 
-__RetroConvert__: Event driven graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX. Enables artists to convert higher bit graphics to lower bit graphics, then artisticly correct or edit final render. 
 
-<img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
+# Logos
+<table>
+<tr><td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/logo_01.png" height="100"/></td>
+<td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/logo_02.png" height="100"/></td>
+<td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/logo_03.png" height="100"/></td></tr>
+</table>
 
-## Software Engineering
-**Abstract:** <br/>
-Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. It offers a recommender system.
-- Model: mysql, rabbit mq(jobrunner) <br/>
-- View: Bootstrap <br/>
-- Controller: Flask <br/>
-- CI/CD: Heroku
+# Progress
+https://github.com/tcwbot/public/blob/main/accolades.md
 
 ## Resources
 - An Introduction to Statistical Learning <br/>
