@@ -80,5 +80,7 @@ Near Earth Object ML-Recommender. This recommender is unique as it analyzes and 
 ## Resources
 - An Introduction to Statistical Learning <br/>
 https://www.statlearning.com/ <br/>
+- Probability! <br/>
+https://bookdown.org/probability/beta/  <br/>
 
 
