@@ -9,9 +9,10 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
----<br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
-(C) CSCA 5642 Introduction to Deep Learning <br/>
+--- One Course Wonders<br/>
+(E) CSCA 5112 Introduction to Generative AI <br/>
+(E) CSCA 5702 Fundamentals of Data Visualization (1 credit)
+(E) CSCA 5859: Ideating and Prototyping Interfaces <br/>
 ---<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
@@ -21,12 +22,11 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 2 : TO DO</summary>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
+(C) CSCA 5642 Introduction to Deep Learning <br/>
+---<br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
---- One Course <br/>
-(E) CSCA 5112 Introduction to Generative AI <br/>
-(E) CSCA 5522: Introduction to Computer Vision <br/>
-(E) CSCA 5859: Ideating and Prototyping Interfaces <br/>
 ---<br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
