@@ -22,10 +22,10 @@ Focus <br/>
   <summary> MSCS - Phase 2 : TO DO</summary>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
----<br/>
-(E) CSCA 5859: Ideating and Prototyping Interfaces  <br/>
-(E) CSCA 5869: User Interface Testing and Usability  <br/>
-(E) CSCA 5879: Emerging Topics in HCI: Designing for VR, AR, AI  <br/>
+--- One Course <br/>
+(E) CSCA 5112 Introduction to Generative AI <br/>
+(E) CSCA 5522: Introduction to Computer Vision <br/>
+(E) CSCA 5859: Ideating and Prototyping Interfaces <br/>
 ---<br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
