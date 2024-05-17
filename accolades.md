@@ -11,7 +11,7 @@ Focus <br/>
   <summary> MSCS - Phase 1 : TO DO</summary>
 --- One Course Wonders<br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
-(E) CSCA 5702 Fundamentals of Data Visualization (1 credit)
+(E) CSCA 5702 Fundamentals of Data Visualization <br/>
 (E) CSCA 5859: Ideating and Prototyping Interfaces <br/>
 ---<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
