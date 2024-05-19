@@ -7,11 +7,11 @@
 Focus <br/>
 (E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
+(E) CSCA 5834 Modeling of Autonomous Systems  <br/>
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
 --- One Course Wonders<br/>
-(E) CSCA 5522: Introduction to Computer Vision <br/>
 (E) CSCA 5859: Ideating and Prototyping Interfaces <br/>
 ---<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
