@@ -12,7 +12,6 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
----<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 ---<br/>
