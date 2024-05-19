@@ -55,11 +55,13 @@ DTSA 5511 Introduction to Deep Learning <br/>
 
 <details>
   <summary>Completed: (16/30 MSCS) 53% Done</summary>
+--- not counting <br/>
+(E) DTSA 5301 Data Science as a Field<br/>
+(E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
+--- <br/>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
 (E) DTSA 5733 Relational Database Design<br/>
-(E) DTSA 5301 Data Science as a Field<br/>
-(E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 (C) DTSA 5507 Software Architecture Fundamentals for Big Data <br/>
 (C) DTSA 5503 Dynamic Programming and Greedy Algorithms <br/>
 (C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 <br/>
