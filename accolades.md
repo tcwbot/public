@@ -9,7 +9,7 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
--- Chopping Block
+-- Chopping Block <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
 (E) CSCA 5834 Modeling of Autonomous Systems  <br/>
 (E) CSCA 5702 Fundamentals of Data Visualization <br/>
