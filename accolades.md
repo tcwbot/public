@@ -56,6 +56,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 <details>
   <summary>Completed: (16/30 MSCS) 53% Done</summary>
 --- not counting <br/>
+(E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 --- <br/>
