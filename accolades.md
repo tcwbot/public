@@ -72,6 +72,8 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (C) CSCA 5063 Network Systems Foundation  <br/>
 (E) DTSA 5020 Regression and Classification <br/>
 (C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
+(E) DTSA 5021 Resampling, Selection, and Splines</s> <br/>
+(E) DTSA 5022 Trees, SVM and Unsupervised Learning</s> <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 <br/>
 </details>
   
