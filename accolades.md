@@ -11,7 +11,6 @@ Focus <br/>
   <summary> MSCS - Phase 1 : TO DO</summary>
 -- <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
-(E) CSCA 5834 Modeling of Autonomous Systems  <br/>
 ---<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
@@ -21,6 +20,8 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 2 : TO DO</summary>
+(E) CSCA 5834 Modeling of Autonomous Systems  <br/>
+---<br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
