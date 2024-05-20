@@ -9,7 +9,7 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
--- Chopping Block <br/>
+-- <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
 (E) CSCA 5834 Modeling of Autonomous Systems  <br/>
 ---<br/>
@@ -58,8 +58,6 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
---- TaposNa Magbayad <br/>
-(E) CSCA 5702 Fundamentals of Data Visualization <br/>
 --- Completed <br/>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
@@ -77,6 +75,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) DTSA 5021 Resampling, Selection, and Splines</s> <br/>
 (E) DTSA 5022 Trees, SVM and Unsupervised Learning</s> <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 <br/>
+<s>(E) CSCA 5702 Fundamentals of Data Visualization </s>s> <br/>
 </details>
   
 ## City College of San Francisco
