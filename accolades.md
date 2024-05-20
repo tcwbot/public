@@ -12,7 +12,6 @@ Focus <br/>
 -- Chopping Block <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
 (E) CSCA 5834 Modeling of Autonomous Systems  <br/>
-(E) CSCA 5702 Fundamentals of Data Visualization <br/>
 ---<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
@@ -59,6 +58,8 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
+--- TaposNa Magbayad <br/>
+(E) CSCA 5702 Fundamentals of Data Visualization <br/>
 --- <br/>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
