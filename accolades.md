@@ -75,7 +75,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) DTSA 5021 Resampling, Selection, and Splines</s> <br/>
 (E) DTSA 5022 Trees, SVM and Unsupervised Learning</s> <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 <br/>
-<s>(E) CSCA 5702 Fundamentals of Data Visualization </s>s> <br/>
+<s>(E) CSCA 5702 Fundamentals of Data Visualization </s> <br/>
 </details>
   
 ## City College of San Francisco
