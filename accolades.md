@@ -60,7 +60,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 --- TaposNa Magbayad <br/>
 (E) CSCA 5702 Fundamentals of Data Visualization <br/>
---- <br/>
+--- Completed <br/>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
 (E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
 (E) DTSA 5733 Relational Database Design<br/>
