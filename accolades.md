@@ -6,12 +6,11 @@
 
 Focus <br/>
 (E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
+(E) CSCA 5112 Introduction to Generative AI <br/>
+
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
--- <br/>
-(E) CSCA 5112 Introduction to Generative AI <br/>
----<br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 ---<br/>
