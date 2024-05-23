@@ -51,7 +51,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 </details>
 
 <details>
-  <summary>Completed: (10/30 MSCS) 60% Done</summary>
+  <summary>Completed: (18/30 MSCS) 60% Done</summary>
 --- not counting <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
