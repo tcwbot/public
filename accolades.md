@@ -17,7 +17,7 @@ Focus <br/>
 
 <details>
   <summary> MSCS - Phase 2 : TO DO</summary>
-(E) CSCA 5834 Modeling of Autonomous Systems  <br/>
+(E) CSCA 5122: Modern Applications of Generative AI  <br/>
 ---<br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
