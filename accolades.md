@@ -6,8 +6,6 @@
 
 Focus <br/>
 (E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
-(E) CSCA 5112 Introduction to Generative AI <br/>
-
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
@@ -53,7 +51,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 </details>
 
 <details>
-  <summary>Completed: (17/30 MSCS) 57% Done</summary>
+  <summary>Completed: (10/30 MSCS) 60% Done</summary>
 --- not counting <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -76,6 +74,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) DTSA 5022 Trees, SVM and Unsupervised Learning</s> <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 <br/>
 (E) CSCA 5702 Fundamentals of Data Visualization <br/>
+(E) CSCA 5112 Introduction to Generative AI <br/>
 </details>
   
 ## City College of San Francisco
