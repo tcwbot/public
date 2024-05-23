@@ -13,12 +13,12 @@ Focus <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 ---<br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
+(E) CSCA 5122: Modern Applications of Generative AI  <br/>
+---<br/>
 </details>
 
 <details>
   <summary> MSCS - Phase 2 : TO DO</summary>
-(E) CSCA 5122: Modern Applications of Generative AI  <br/>
----<br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 ---<br/>
