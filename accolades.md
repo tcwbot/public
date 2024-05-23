@@ -14,7 +14,6 @@ Focus <br/>
 ---<br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 (E) CSCA 5122: Modern Applications of Generative AI  <br/>
----<br/>
 </details>
 
 <details>
