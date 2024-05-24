@@ -10,7 +10,7 @@
 
 ## Software Engineering
 **Abstract:** <br/>
-Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. Deploys SVM and K-fold on full and changing dataset. It offers a recommender system by means naive methods of indexing weights via the coorolation matrix.
+Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. Deploys SVM and K-fold on full and changing dataset. It offers a recommender system by means naive methods of indexing weights via the correlation matrix.
 - Model: mysql, rabbit mq(jobrunner) <br/>
 - View: Bootstrap <br/>
 - Controller: Flask <br/>
