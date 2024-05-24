@@ -65,7 +65,7 @@ __create_flask_app__ :  <br/>
 Flask Templating engine to create apps
 
 Web Skrapper:  <br/>
-Web scapper project pulling all certifications that are offered by CCSF.
+Web scapper project pulling all certifications that are offered by CCSF.  A study involving multi processing threads.
 
 https://github.com/tcwbot/public/tree/main/scripts/python231
 
