@@ -37,6 +37,9 @@ __RetroConvert__: Event driven graphics framework for front end visualizations. 
 
 ## Python:
 
+[Random Helpful Sripts](https://github.com/tcwbot/public/tree/main/scripts)
+Helpful to me at least.
+
 [logger4py](https://github.com/tcwbot/logger4) : <br/>
 logger4py is just another python Logger Implementation.  Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
 
