@@ -20,7 +20,7 @@ growing dataset. The large volume of data that we are generating of hazardous ca
   <td align=top>
 - Model: mysql, rabbit mq(jobrunner) <br/>
 - View: Bootstrap <br/>
-- Controller: Flask 
+- Controller: Flask  <br/>
 - CI/CD: Heroku<br/> <br/> <br/> <br/> <br/>
   </td>
   <td>
