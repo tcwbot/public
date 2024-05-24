@@ -68,7 +68,7 @@ __create_flask_app__ :  <br/>
 Flask Templating engine to create apps
 
 [Web Skrapper](https://github.com/tcwbot/public/tree/main/scripts/python231):  <br/>
-Web scapper project pulling all certifications that are offered by CCSF.  A study involving multi processing threads.
+Web scrapper project pulling all certifications that are offered by CCSF.  A study involving multi processing threads.
 
 __cidr calculator__ :  https://github.com/tcwbot/public/blob/main/scripts/cidr.py <br/>
 FlaskApp cidr | subnet calculator.
