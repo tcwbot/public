@@ -37,7 +37,7 @@ __RetroConvert__: Event driven graphics framework for front end visualizations. 
 
 ## Python:
 
-[Random Helpful Sripts](https://github.com/tcwbot/public/tree/main/scripts)
+[Random Helpful Sripts](https://github.com/tcwbot/public/tree/main/scripts) <br/>
 Helpful to me at least.
 
 [logger4py](https://github.com/tcwbot/logger4) : <br/>
