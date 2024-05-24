@@ -14,13 +14,15 @@ Near Earth Object ML-Recommender. This recommender is unique as it analyzes and 
 
 <table>
 <tr>
-  <td>
+  <td align=top>
 - Model: mysql, rabbit mq(jobrunner) <br/>
 - View: Bootstrap <br/>
-- Controller: Flask <br/>
-- CI/CD: Heroku
+- Controller: Flask 
+- CI/CD: Heroku<br/> <br/> <br/> <br/> <br/>
   </td>
   <td>
+   <img src="https://github.com/tcwbot/public/blob/main/images/neor-data.png?raw=true" width="150"/>
+   <img src="https://github.com/tcwbot/public/blob/main/images/neor-jobrunner.png?raw=true" width="150"/> <br/>
    <img src="https://github.com/tcwbot/public/blob/main/images/system-diagram.png?raw=true" width="150"/>
 
   </td>
