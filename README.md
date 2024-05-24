@@ -24,9 +24,9 @@ growing dataset. The large volume of data that we are generating of hazardous ca
 - CI/CD: Heroku<br/> <br/> <br/> <br/> <br/>
   </td>
   <td>
-   <img src="https://github.com/tcwbot/public/blob/main/images/neor-data.png?raw=true" width="150"/>
-   <img src="https://github.com/tcwbot/public/blob/main/images/neor-jobrunner.png?raw=true" width="150"/> <br/>
-   <img src="https://github.com/tcwbot/public/blob/main/images/system-diagram.png?raw=true" width="150"/>
+   <img src="https://github.com/tcwbot/public/blob/main/images/neor-data.png" width="150"/>
+   <img src="https://github.com/tcwbot/public/blob/main/images/neor-jobrunner.png" width="150"/> <br/>
+   <img src="https://github.com/tcwbot/public/blob/main/images/system-diagram.png" width="150"/>
 
   </td>
  </tr>
