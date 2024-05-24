@@ -10,7 +10,9 @@
 
 ## Software Engineering
 **Abstract:** <br/>
-Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. Deploys SVM and K-fold on full and changing dataset. It offers a recommender system by means naive methods of indexing weights via the correlation matrix. The large volume of data that we are generating of hazardous candidates require automated systems that can highlight potential threats. My project  aims to fill the gap. Project aims to contribute to the field by assisting astronomers, astro-physicists, and researchers in making focused decisions on what to objects to investigate. 
+Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. Deploys SVM and K-fold on full and changing dataset. It offers a recommender system by means naive methods of indexing weights via the correlation matrix. 
+Existing methods often require manual domain expertise labeling, time-consuming assessments and may not be adaptive to the rapidly
+growing dataset.  Given the large volume of data that we are generating of hazardous candidates require automated systems that can highlight potential threats. My project aims to fill the gap. Project aims to contribute to the field by assisting astronomers, astro-physicists, and researchers in making focused decisions on what to objects to investigate. 
 
 
 <table>
