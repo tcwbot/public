@@ -47,7 +47,7 @@ growing dataset. The large volume of data that we are generating of hazardous ca
 
 ## Java:
 
-__RetroConvert__: Graphics framework for front end visualizations. Custom API [Style | Size] pixel interface using javaFX. Enables artists to convert higher bit graphics to lower bit graphics, then artisticly correct or edit final render. 
+__RetroConvert__: Graphics framework for visualizations. Custom API [Style | Size] pixel interface using javaFX. Enables artists to convert higher bit graphics to lower bit graphics, then artisticly correct or edit final render. 
 
 <img align="center" src="https://raw.githubusercontent.com/tcwbot/public/main/images/pixels.png" width="150"/>
 
