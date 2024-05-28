@@ -13,7 +13,7 @@ Focus <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 ---<br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
-(E) CSCA 5122: Modern Applications of Generative AI  <br/>
+(E) CSCA 5122: Modern Applications of Generative AI OR CSCA 5522: Introduction to Computer Vision <br/>
 </details>
 
 <details>
