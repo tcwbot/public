@@ -5,7 +5,7 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
+
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
@@ -50,7 +50,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 </details>
 
 <details>
-  <summary>Completed: (18/30 MSCS) 60% Done</summary>
+  <summary>Completed: (19/30 MSCS) 64% Done</summary>
 --- not counting <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -74,6 +74,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 <br/>
 (E) CSCA 5702 Fundamentals of Data Visualization <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
+(E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
 </details>
   
 ## City College of San Francisco
