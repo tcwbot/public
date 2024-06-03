@@ -5,11 +5,11 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
+(E) CSCA 5332 Robotic Mapping and Trajectory Generation
 
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
-(E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 ---<br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
