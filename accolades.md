@@ -14,11 +14,11 @@ Focus <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
+(E) CSCA 5332 Robotic Mapping and Trajectory Generation *  <br/>
 </details>
 
 <details>
   <summary> MSCS - Phase 2 : TO DO</summary>
-(E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 ---<br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
