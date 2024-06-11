@@ -36,17 +36,8 @@ DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 DTSA 5002 Statistical Inference for Estimation in Data Science *  <br/>
 DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 --- <br/>
-<s>DTSA 5509 Introduction to Machine Learning: Supervised Learning </s> <br/>
 DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
 DTSA 5511 Introduction to Deep Learning <br/>
---- <br/>
-<s>DTSA 5504 Data Mining Pipeline </s> <br/>
-<s>DTSA 5505 Data Mining Methods </s><br/>
-<s>DTSA 5506 Data Mining Project </s><br/>
---- <br/>
-<s>DTSA 5020 Regression and Classification</s> <br/>
-<s>DTSA 5021 Resampling, Selection, and Splines</s> <br/>
-<s>DTSA 5022 Trees, SVM and Unsupervised Learning</s> <br/>
 </details>
 
 <details>
