@@ -5,7 +5,7 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-
+TBA
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
