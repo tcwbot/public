@@ -68,7 +68,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
 
-<details>
+<details open>
   <summary>Coursework <a href="https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29">link</a></summary>
 	CS 113A - Intro to Perl Programming <br/>
 	CS 111B - Programming Fundamentals: Java <br/>
@@ -89,7 +89,7 @@ Projects:
 ## [University of California, Davis](https://physics.ucdavis.edu/)
 [Bachelor of Arts - AB, Physics](/images/cert_one.png)
 
-<details>
+<details open>
   <summary>Coursework</summary>
   - Mathematical Methods for Physics<br/>
   - Advanced Physics Laboratory<br/>
