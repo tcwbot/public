@@ -105,7 +105,7 @@ Projects:
 
 Projects: 
 - Solid State Physics (experimental): Served on a research team developing techniques synthesizing 14-1-11 Zenithil Crystals (single-domain).
-- Solid State Physics (theoretical):  Developed molecular dynamic simulations using Leonard Jones and Monte Carlo models. Specifically, verified models for accuracy of perturbed systems of a 2D n x n array skewed lattice crystalline structure.
+- Solid State Physics (theoretical):  Developed molecular dynamic simulations using Leonard Jones and Monte Carlo models. Additionally, worked on models and verifing accuracies of perturbed systems of a 2D n x n array skewed lattice crystalline structure.
 - Geology : Served on a research team developing a Data Visualization Tool for analyzing First-Order Reversal Curves and their multidimensional Transformations. The raw geological data was aquired via polar ice core Datasets. The Transformations produced contour plots where reseachers could slice and drill into the data two-dimensionally.
 
 
