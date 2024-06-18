@@ -5,14 +5,13 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-- TBA
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 (E) CSCA 5522: Introduction to Computer Vision <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms * <br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 
 
