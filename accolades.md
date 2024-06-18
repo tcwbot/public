@@ -10,6 +10,7 @@ Focus <br/>
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
+(E) CSCA 5522: Introduction to Computer Vision <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms * <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
@@ -21,7 +22,6 @@ Focus <br/>
   <summary> MSCS - Phase 2 : TO DO</summary>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation *  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
-(E) CSCA 5522: Introduction to Computer Vision <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming * <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
