@@ -7,13 +7,13 @@
 Focus <br/>
 
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
-
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms * <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning * <br/>
 (E) CSCA 5522: Introduction to Computer Vision <br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations * <br/>
+
 
 </details>
 
