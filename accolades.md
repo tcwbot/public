@@ -77,7 +77,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 	CS 211S - Advanced Java: Standard Edition <br/>
 	CS 150A - Introduction to SQL Databases and NoSQL <br/>
 	CS 199 - Independent Study <br/>
-	CS 270 - Comp Architecture w/ Assembly  <br/>
+	CS 270 - Computer Architecture with Assembly  <br/>
 	CS 131B - Prog Fundamentals: Python  <br/>
 	CS 231 - Advanced Python Programming  <br/>
 </details>
