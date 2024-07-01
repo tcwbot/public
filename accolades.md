@@ -5,8 +5,7 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-
-(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
+- TBA
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
 (E) CSCA 5522: Introduction to Computer Vision <br/>
@@ -38,7 +37,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 </details>
 
 <details>
-  <summary>Completed: (19/30 MSCS) 64% Done</summary>
+  <summary>Completed: (20/30 MSCS) 67% Done</summary>
 --- not counting <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -63,6 +62,8 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) CSCA 5702 Fundamentals of Data Visualization <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
 (E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
+(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
+
 </details>
   
 ## City College of San Francisco
