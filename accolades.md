@@ -10,10 +10,9 @@ Focus <br/>
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
-
 </details>
 
 <details>
