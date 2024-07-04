@@ -5,10 +5,10 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-- TBA
+(E) CSCA 5522: Introduction to Computer Vision
+
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
-(E) CSCA 5522: Introduction to Computer Vision <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
