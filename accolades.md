@@ -6,13 +6,15 @@
 
 Focus <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/> 
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
-(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
+
 
 </details>
 
