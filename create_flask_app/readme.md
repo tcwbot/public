@@ -1,5 +1,6 @@
 
 # Flask Templating engine. 
+Flask Templating engine to create apps. An attempt to give flask a "npm init react-app my-app" cloned functionality.
 
 ```
 #create virtual enviroment
