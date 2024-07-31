@@ -75,7 +75,7 @@ __cidr calculator__ :  https://github.com/tcwbot/public/blob/main/scripts/cidr.p
 FlaskApp cidr | subnet calculator.
 
 __interrupt_driven__ :  <br/>
-tool for managing priorities
+tool for managing priorities (Kanban)
 
 __ML Study__ :  <br/>
 First attempt on understanding the Perceptron
