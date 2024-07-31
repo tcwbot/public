@@ -77,7 +77,7 @@ __interrupt_driven__ :  <br/>
 tool for managing priorities
 
 __ML Study__ :  <br/>
-First attempt on understanding the Perception
+First attempt on understanding the Perceptron
 <table>
  <tr>
   <td>
