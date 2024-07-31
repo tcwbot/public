@@ -65,7 +65,7 @@ Experimented with adding probabilistic judgments based on a linguistic corpus to
 Contributor to OCR library. https://github.com/aaronbrick/probcr
 
 __create_flask_app__ :  <br/>
-Flask Templating engine to create apps
+Flask Templating engine to create apps. An attempt to give flask a "npm init react-app my-app" cloned functionality.
 
 [Web Skrapper](https://github.com/tcwbot/public/tree/main/scripts/python231):  <br/>
 Web scrapper project pulling all certifications that are offered by CCSF.  A study involving multi processing threads.
