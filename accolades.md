@@ -68,7 +68,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 
 <details open>
   <summary>Coursework <a href="https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29">link</a></summary>
-	CS 113A - Intro to Perl Programming <br/>
+	CS 113A - Perl Programming <br/>
 	CS 111B - Programming Fundamentals: Java <br/>
 	CS 111C - Data Structures and Algorithms: Java <br/>
 	CS 160A - Introduction to Unix/Linux	<br/>
