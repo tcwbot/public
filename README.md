@@ -62,7 +62,7 @@ Helpful to me at least.
 logger4py is just another python Logger Implementation.  Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
 
 __probcr__ : <br/>
-Experimented with adding probabilistic judgments based on a linguistic corpus to the OCR system.<br/>
+Experimented with adding probabilistic judgments based on Corpus linguistics to an OCR system(Tesseract-OCR).<br/>
 Contributor to OCR library. https://github.com/aaronbrick/probcr
 
 __create_flask_app__ :  <br/>
