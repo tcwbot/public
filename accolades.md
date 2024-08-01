@@ -5,23 +5,22 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(E) CSCA 5522: Introduction to Computer Vision <br/>
+(E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 
 <details>
   <summary> MSCS - Phase 1 : TO DO</summary>
-(E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
-(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/> 
-(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
-(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
+(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 </details>
 
 <details>
   <summary> MSCS - Phase 2 : TO DO</summary>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
-(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
-(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+(C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/> 
+(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 </details>
 
 <details>
@@ -34,7 +33,7 @@ DTSA 5511 Introduction to Deep Learning <br/>
 </details>
 
 <details>
-  <summary>Completed: (20/30 MSCS) 67% Done</summary>
+  <summary>Completed: (21/30 MSCS) 70% Done</summary>
 --- not counting <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -60,6 +59,8 @@ DTSA 5511 Introduction to Deep Learning <br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
 (E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
+(E) CSCA 5522: Introduction to Computer Vision <br/>
+
 
 </details>
   
