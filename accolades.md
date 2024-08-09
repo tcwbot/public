@@ -32,8 +32,6 @@ Focus <br/>
 DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
 DTSA 5002 Statistical Inference for Estimation in Data Science *  <br/>
 DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
-DTSA 5510 Unsupervised Algorithms in Machine Learning <br/>
-DTSA 5511 Introduction to Deep Learning <br/>
 </details>
 
 <details>
