@@ -8,7 +8,7 @@ Focus <br/>
 
 (C) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/> 
 
-<details>
+<details open>
   <summary> MSCS  : TO DO</summary>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
