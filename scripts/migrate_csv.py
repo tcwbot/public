@@ -1,5 +1,5 @@
 ###
-# Migrates a set of users in CSV that are missing values in a set of Colums.
+# Migrates a set of users in CSV that are missing values in a set of Columns.
 ###
 
 import pandas as pd
