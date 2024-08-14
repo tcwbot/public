@@ -3,6 +3,8 @@ There are two versions of [gets_certs.py](https://github.com/tcwbot/public/blob/
 
 # Output
 ```
+231cs-python $ python3 gets_certs_threaded.py
+
 231cs-python $ grep "Active" certs.txt | grep "Certificate" | sort -f | head -3
 Accounting Assistant & Core Skills Certificate of Completion - Active
 Acting Certificate of Achievement - Active
