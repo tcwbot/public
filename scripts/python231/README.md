@@ -1,5 +1,5 @@
 Web scrapper project pulling all certifications that are offered by CCSF. A study involving multi processing threads.
-There are two versions of gets_certs.py. One is single threaded and the other is multi-threaded, which is faster.
+There are two versions of gets_certs.py. One is single threaded and the other gets_certs_threaded.py is multi-threaded, which is faster.
 
 # Output
 ```
