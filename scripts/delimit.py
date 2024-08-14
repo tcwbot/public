@@ -1,5 +1,6 @@
 ###
 # removes everything, but the in-between text using delimiter strings
+# Script helps log analysis issue isolation, When logs are of 10-100 Gigabytes large.
 # written : tcwbot
 ###
 import sys, re
