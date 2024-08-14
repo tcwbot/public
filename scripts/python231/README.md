@@ -1,4 +1,4 @@
-Web scrapper project which pull all certification titles that are offered by CCSF. A study involving multi processing threads.
+Web scrapper project which pulls all certification titles that are offered by CCSF. A study involving multi processing threads.
 There are two versions of [gets_certs.py](https://github.com/tcwbot/public/blob/main/scripts/python231/gets_cert.py). One is single threaded and the other [gets_certs_threaded.py](https://github.com/tcwbot/public/blob/main/scripts/python231/gets_certs_threaded.py) is multi-threaded, which is faster.
 
 # Usages & Output
