@@ -30,7 +30,7 @@ DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 
 <details open>
   <summary>Completed: (21/30 MSCS) 70% Done</summary>
---- not counting <br/>
+--- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
