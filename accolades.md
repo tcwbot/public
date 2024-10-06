@@ -5,7 +5,7 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
+TBA
 
 <details open>
   <summary> MSCS  : TO DO</summary>
@@ -28,7 +28,7 @@ DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 </details>
 
 <details>
-  <summary>Completed: (21/30 MSCS) 70% Done</summary>
+  <summary>Completed: (22/30 MSCS) 73% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -55,6 +55,7 @@ DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 (E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 (E) CSCA 5522: Introduction to Computer Vision <br/>
+(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 
 
 </details>
