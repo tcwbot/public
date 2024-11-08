@@ -6,8 +6,7 @@
 
 Focus <br/>
 (C*) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
-(E*) CSCA 5332 Robotic Mapping and Trajectory Generation
-
+(E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 
 <details open>
   <summary> MSCS 1 : TO DO</summary>
