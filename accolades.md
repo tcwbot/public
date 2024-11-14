@@ -11,7 +11,7 @@ Focus <br/>
   <summary> MSCS : TO DO</summary>
 (E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (C*) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
-(C*) CSCA 5214: Computing, Ethics, and Society 1 - Foundations <br/> 
+(C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
