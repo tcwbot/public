@@ -6,10 +6,11 @@
 
 Focus <br/>
 (C*) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+(E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 
 <details open>
   <summary> MSCS : TO DO</summary>
-(E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
+
 (C*) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 (C) CSCA 5642 Introduction to Deep Learning <br/>
@@ -25,7 +26,7 @@ DTSA 5002 Statistical Inference for Estimation in Data Science *  <br/>
 DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 </details>
 
-<details>
+<details open>
   <summary>Completed: (22/30 MSCS) 73% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
