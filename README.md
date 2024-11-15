@@ -4,8 +4,8 @@
 - [Supervised Learning for Marketing Analytics - Presentation](https://www.youtube.com/watch?v=7WtoGeQmB0w)
 - [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM)
 - [Data Science as Field - Presentation](https://www.youtube.com/watch?v=uiD9XutppVQ)
-- [vim and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
-- [VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
+- [CS 231 - VIM and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
+- [CS 231 - VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
 - [Robotics (Lidar and line following)](https://www.youtube.com/watch?v=V10tFtglBeQ)
 
 
