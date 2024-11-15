@@ -1,9 +1,14 @@
 # Projects
+
+```
+Legend:
+* - Request Access, Not available to public.
+```
  
 ## Video:
-- [Supervised Learning for Marketing Analytics - Presentation](https://www.youtube.com/watch?v=7WtoGeQmB0w)
-- [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM)
-- [Data Science as Field - Presentation](https://www.youtube.com/watch?v=uiD9XutppVQ)
+- [Supervised Learning for Marketing Analytics - Presentation](https://www.youtube.com/watch?v=7WtoGeQmB0w) *
+- [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM) *
+- [Data Science as Field - Presentation](https://www.youtube.com/watch?v=uiD9XutppVQ) *
 - [CS 231 - VIM and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
 - [CS 231 - VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
 - [Robotics (Lidar and line following)](https://www.youtube.com/watch?v=V10tFtglBeQ)
@@ -61,7 +66,7 @@ Helpful to me at least.
 [logger4py](https://github.com/tcwbot/logger4) : <br/>
 logger4py is just another python Logger Implementation.  Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
 
-__probcr__ : <br/>
+__probcr__ : * <br/>
 Experimented with adding probabilistic judgments based on Corpus linguistics to an OCR system(Tesseract-OCR).<br/>
 Contributor to OCR library. https://github.com/aaronbrick/probcr
 
