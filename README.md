@@ -1,7 +1,8 @@
 # Projects
 
 ```
-* - Request Access, Not available to public.
+Legend:
+    * - Request Access, Not available to public.
 ```
  
 ## Video:
