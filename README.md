@@ -1,7 +1,6 @@
 # Projects
 
 ```
-Legend:
 * - Request Access, Not available to public.
 ```
  
