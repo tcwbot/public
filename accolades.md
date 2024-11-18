@@ -26,7 +26,7 @@ DTSA 5002 Statistical Inference for Estimation in Data Science *  <br/>
 DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 </details>
 
-<details open>
+<details>
   <summary>Completed: (22/30 MSCS) 73% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
