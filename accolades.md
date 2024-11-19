@@ -5,11 +5,11 @@
 [Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 Focus <br/>
-(C*) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+
 (E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 
 <details open>
-  <summary> MSCS : TO DO</summary>
+  <summary> MSCS 1 : TO DO</summary>
 
 (C*) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
@@ -19,6 +19,13 @@ Focus <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 
 </details>
+
+<details>
+  <summary> MSCS 2 : TO DO</summary>
+(C*) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+
+</details>
+
 <details>
   <summary> DS Certificate : TO DO</summary>
 DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
