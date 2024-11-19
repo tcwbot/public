@@ -15,15 +15,13 @@ Focus <br/>
 (C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
-(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
-(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 
 </details>
 
 <details>
   <summary> MSCS 2 : TO DO</summary>
-(C) CSCA 5224 Ethical Issues in AI and Professional Ethics
-(C) CSCA 5234 Ethical Issues in Computing Applications
+(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 (C*) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 
 </details>
