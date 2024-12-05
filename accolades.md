@@ -6,24 +6,21 @@
 
 Focus <br/>
 
-(E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
+TBA - Happy Holiday - Break
 
 <details open>
   <summary> MSCS 1 : TO DO</summary>
-
+(E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 (C) CSCA 5642 Introduction to Deep Learning <br/>
-(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
-
+	
 </details>
 
 <details>
   <summary> MSCS 2 : TO DO</summary>
+(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
-(C*) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
-(C*) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
-
 
 </details>
 
@@ -35,7 +32,7 @@ DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 </details>
 
 <details>
-  <summary>Completed: (22/30 MSCS) 73% Done</summary>
+  <summary>Completed: (24/30 MSCS) 80% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -63,6 +60,8 @@ DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
 (C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
 (E) CSCA 5522: Introduction to Computer Vision <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
+(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
+(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 
 
 </details>
