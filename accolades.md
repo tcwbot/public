@@ -6,7 +6,7 @@
 
 Focus <br/>
 
-TBA - Happy Holiday - Break
+TBA - Happy Holidays - Break
 
 <details open>
   <summary> MSCS 1 : TO DO</summary>
