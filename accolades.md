@@ -1,3 +1,6 @@
+# Projects:
+https://github.com/tcwbot/projects/blob/main/README.md
+
 
 ## University of Colorado, Boulder
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
