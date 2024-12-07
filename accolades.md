@@ -14,8 +14,8 @@ TBA - Happy Holidays - Break
 <details open>
   <summary> MSCS 1 :  Spring 1 - TO DO</summary>
 (C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
-(E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
+(E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 	
 </details>
 
