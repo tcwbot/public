@@ -11,7 +11,7 @@ TBA - Happy Holidays - Break <br/>
 
 <details open>
   <summary> MSCS 1 :  Spring 1 - TO DO</summary>
-(C) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
+(C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 (E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 </details>
