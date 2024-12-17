@@ -5,8 +5,6 @@ https://github.com/tcwbot/projects/blob/main/README.md
 ## University of Colorado, Boulder
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
 
-[Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
-
 Focus <br/>
 
 TBA - Happy Holidays - Break <br/>
@@ -26,12 +24,6 @@ TBA - Happy Holidays - Break <br/>
 
 </details>
 
-<details>
-  <summary> DS Certificate : TO DO</summary>
-DTSA 5001 Probability Theory: Foundation for Data Science * <br/>
-DTSA 5002 Statistical Inference for Estimation in Data Science *  <br/>
-DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science <br/>
-</details>
 
 <details>
   <summary>Completed: (24/30 MSCS) 80% Done</summary>
@@ -147,6 +139,8 @@ AWS Cloud Practitioneer > Solutions Archetecht > AWS Developer / SysOps Administ
 AWS Certified Cloud Practitioner Training 2020 - Full Course<br/>
 https://www.youtube.com/watch?v=3hLmDS179YE&t=50s<br/>
 https://aws.amazon.com/training/events/?get-certified-vilt-courses-cards.sort-by=item.additionalFields.startDateSort&get-certified-vilt-courses-cards.sort-order=asc&awsf.get-certified-vilt-courses-type=*all&awsf.get-certified-vilt-courses-series=*all&awsf.get-certified-vilt-locations=*all&awsf.get-certified-vilt-countries=*all&awsf.get-certified-vilt-languages=*all&awsf.get-certified-vilt-courses-level=*all&awsf.get-certified-vilt-courses-tech-category=*all<br/>
+
+[Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 </details>
 
