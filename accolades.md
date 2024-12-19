@@ -119,28 +119,35 @@ Network Systems: Principles and Practice (Linux and Cloud Networking) <br/>
 
 <details>
   <summary>Future Work</summary>
-Data Engineer Learning Path<br/>
-https://www.cloudskillsboost.google/journeys/16<br/>
 
-Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate<br/>
-https://www.coursera.org/professional-certificates/gcp-data-engineering#courses<br/>
-Data Engineering, Big Data, and Machine Learning on GCP Specialization<br/>
-https://www.coursera.org/specializations/gcp-data-machine-learning#courses<br/>
+IBM Data Engineering Professional Certificate  <br/>
+https://www.coursera.org/professional-certificates/ibm-data-engineer#courses
+
+CU Boulder - Data Science Graduate Certificate  <br/>
+https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate
+
+IBM IT Scrum Master Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/ibm-it-scrum-master#courses
+
+IBM Full Stack Software Developer Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer#courses
+
+IBM AI Developer Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#courses
+
+Game Design and Development with Unity 2020 Specialization <br/>
+https://www.coursera.org/specializations/game-design-and-development
+
+Google Project Management: Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/google-project-management#courses
+
 [Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-wASJySFJgslzQzwT4ZEdHg&LSNPUBID=GjbDpcHcs4w)<br/>
+
 [Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering#courses)
 
-Udemy:
+Udemy: <br/>
 https://www.udemy.com/course/fast-scala/learn/lecture/27123376#overview
 https://www.udemy.com/share/102cr43@cmcOHD4Y-k7MsASvOMab1P0suzps_Rwa29Yh9DoIRlfRrIskAFU4HgPhBkSCSDlZ/
-
-Learning Path
-AWS Cloud Practitioneer > Solutions Archetecht > AWS Developer / SysOps Administrator > Machine Learning
-
-AWS Certified Cloud Practitioner Training 2020 - Full Course<br/>
-https://www.youtube.com/watch?v=3hLmDS179YE&t=50s<br/>
-https://aws.amazon.com/training/events/?get-certified-vilt-courses-cards.sort-by=item.additionalFields.startDateSort&get-certified-vilt-courses-cards.sort-order=asc&awsf.get-certified-vilt-courses-type=*all&awsf.get-certified-vilt-courses-series=*all&awsf.get-certified-vilt-locations=*all&awsf.get-certified-vilt-countries=*all&awsf.get-certified-vilt-languages=*all&awsf.get-certified-vilt-courses-level=*all&awsf.get-certified-vilt-courses-tech-category=*all<br/>
-
-[Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate#curriculum-211) <br/>
 
 </details>
 
