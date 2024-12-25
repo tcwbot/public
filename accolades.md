@@ -27,7 +27,7 @@ TBA - Happy Holidays - Break <br/>
 </details>
 
 
-<details>
+<details open>
   <summary>Completed: (24/30 MSCS) 80% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
