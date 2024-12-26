@@ -6,28 +6,20 @@ https://github.com/tcwbot/projects/blob/main/README.md
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
 
 Focus <br/>
-
-TBA - Happy Holidays - Break <br/>
-
-<details open>
-  <summary> MSCS 1 :  Spring 1 - TO DO</summary>
 (C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 (E*) CSCA 5332 Robotic Mapping and Trajectory Generation  <br/>
-(C*) CSCA 5642 Introduction to Deep Learning <br/>
-
-</details>
 
 <details>
-  <summary> MSCS 2 : Spring 2 - TODO</summary>
+  <summary> MSCS  : Spring - TODO</summary>
+(C*) CSCA 5642 Introduction to Deep Learning <br/>
+(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
-(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
-
 
 </details>
 
 
-<details open>
+<details>
   <summary>Completed: (24/30 MSCS) 80% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
