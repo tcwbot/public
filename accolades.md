@@ -113,6 +113,25 @@ Network Systems: Principles and Practice (Linux and Cloud Networking) <br/>
 <details>
   <summary>Future Work</summary>
 
+
+DeepLearning.AI -  Generative AI for Software Development Skill Certificate <br/>
+https://www.coursera.org/professional-certificates/generative-ai-for-software-development
+
+IBM Generative AI for Software Developers Specialization <br/>
+https://www.coursera.org/specializations/generative-ai-for-software-developers
+
+IBM AI Developer Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
+
+IBM Back-End Development Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/ibm-backend-development#courses
+
+Python and Rust with Linux Command Line Tools <br/>
+https://www.coursera.org/learn/python-rust-linux
+
+Rust Programming Specialization <br/>
+https://www.coursera.org/specializations/rust-programming
+
 IBM Data Engineering Professional Certificate  <br/>
 https://www.coursera.org/professional-certificates/ibm-data-engineer#courses
 
