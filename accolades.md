@@ -6,15 +6,14 @@ https://github.com/tcwbot/projects/blob/main/README.md
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
 
 Focus <br/>
-(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
+(E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
+(C) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 <details>
   <summary> MSCS  : Spring - TODO</summary>
+(E) CSCA 5342 Robotic Path Planning and Task Execution  <br/>
 (C*) CSCA 5642 Introduction to Deep Learning <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
---- Finals <br/>
-(E*) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
-(C*) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 </details>
 
 
