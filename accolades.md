@@ -111,7 +111,17 @@ Network Systems: Principles and Practice (Linux and Cloud Networking) <br/>
 
 <details>
   <summary>Future Work</summary>
+Introduction to Computer Vision and Image Processing
+https://www.coursera.org/learn/introduction-computer-vision-watson-opencv#modules
 
+Advanced Computer Vision with TensorFlow
+https://www.coursera.org/lecture/advanced-computer-vision-with-tensorflow/object-detection-and-sliding-windows-088bZ
+
+TensorFlow: Advanced Techniques Specialization
+https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses
+
+Pair Programming with a Large Language Model
+https://www.coursera.org/projects/pair-programming-llm#outcomes
 
 DeepLearning.AI -  Generative AI for Software Development Skill Certificate <br/>
 https://www.coursera.org/professional-certificates/generative-ai-for-software-development
