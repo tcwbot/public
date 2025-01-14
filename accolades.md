@@ -7,7 +7,6 @@ https://github.com/tcwbot/projects/blob/main/README.md
 
 Focus <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution <br/>
-(C) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 <details>
   <summary> MSCS  : Spring - TODO</summary>
 (C*) CSCA 5642 Introduction to Deep Learning <br/>
@@ -48,6 +47,7 @@ Focus <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
+(C) CSCA 5214: Computing, Ethics, and Society - Foundations **** <br/> 
 
 
 
