@@ -16,7 +16,7 @@ Focus <br/>
 
 
 <details>
-  <summary>Completed: (25/30 MSCS) 83% Done</summary>
+  <summary>Completed: (26/30 MSCS) 87% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
