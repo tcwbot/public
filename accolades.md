@@ -56,7 +56,7 @@ Focus <br/>
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
 
-<details open>
+<details>
   <summary>Coursework <a href="https://ccsf.curricunet.com/Report/Program/GetReport/893?reportId=29">link</a></summary>
 	CS 113A - Perl Programming <br/>
 	CS 111B - Programming Fundamentals: Java <br/>
@@ -77,7 +77,7 @@ Projects:
 ## [University of California, Davis](https://physics.ucdavis.edu/)
 [Bachelor of Arts - AB, Physics](/images/cert_one.png)
 
-<details open>
+<details>
   <summary>Coursework</summary>
   - Mathematical Methods for Physics<br/>
   - Advanced Physics Laboratory<br/>
