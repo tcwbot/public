@@ -7,7 +7,6 @@ https://github.com/tcwbot/projects/blob/main/README.md
 
 Focus <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution <br/>
-(E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
 (C) CSCA 5214: Computing, Ethics, and Society - Foundations <br/> 
 <details>
   <summary> MSCS  : Spring - TODO</summary>
@@ -18,7 +17,7 @@ Focus <br/>
 
 
 <details>
-  <summary>Completed: (24/30 MSCS) 80% Done</summary>
+  <summary>Completed: (25/30 MSCS) 83% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -48,6 +47,8 @@ Focus <br/>
 (C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
+(E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
+
 
 
 </details>
