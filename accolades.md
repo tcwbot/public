@@ -47,7 +47,7 @@ Focus <br/>
 (C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
 (C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
-(C) CSCA 5214: Computing, Ethics, and Society - Foundations **** <br/> 
+<strike>(C) CSCA 5214: Computing, Ethics, and Society - Foundations</strike> <br/> 
 
 
 
