@@ -9,14 +9,14 @@ Focus <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution <br/>
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 
-<details>
+<details open>
   <summary> MSCS  : Spring - TODO</summary>
 (C*) CSCA 5642 Introduction to Deep Learning <br/>
 (C) CSCA 5234 Ethical Issues in Computing Applications <br/>
 </details>
 
 
-<details>
+<details open>
   <summary>Completed: (26/30 MSCS) 87% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
