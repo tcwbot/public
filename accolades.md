@@ -160,6 +160,16 @@ Udemy: <br/>
 https://www.udemy.com/course/fast-scala/learn/lecture/27123376#overview
 https://www.udemy.com/share/102cr43@cmcOHD4Y-k7MsASvOMab1P0suzps_Rwa29Yh9DoIRlfRrIskAFU4HgPhBkSCSDlZ/
 
+
+Developing Your Musicianship Specialization
+https://www.coursera.org/specializations/musicianship-specialization#courses
+
+How to Play Guitar Specialization
+https://www.coursera.org/specializations/play-guitar#courses
+
+Piano Scales for Modern Music
+https://www.coursera.org/learn/piano-scales-for-modern-music#modules
+
 </details>
 
 
