@@ -114,30 +114,6 @@ Network Systems: Principles and Practice (Linux and Cloud Networking) <br/>
 <details>
   <summary>Future Work</summary>
 	
-Introduction to Computer Vision and Image Processing <br/>
-https://www.coursera.org/learn/introduction-computer-vision-watson-opencv#modules
-
-Advanced Computer Vision with TensorFlow <br/>
-https://www.coursera.org/lecture/advanced-computer-vision-with-tensorflow/object-detection-and-sliding-windows-088bZ
-
-TensorFlow: Advanced Techniques Specialization <br/>
-https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses
-
-Pair Programming with a Large Language Model <br/>
-https://www.coursera.org/projects/pair-programming-llm#outcomes
-
-DeepLearning.AI -  Generative AI for Software Development Skill Certificate <br/>
-https://www.coursera.org/professional-certificates/generative-ai-for-software-development
-
-IBM Generative AI for Software Developers Specialization <br/>
-https://www.coursera.org/specializations/generative-ai-for-software-developers
-
-IBM AI Developer Professional Certificate <br/>
-https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
-
-IBM Back-End Development Professional Certificate <br/>
-https://www.coursera.org/professional-certificates/ibm-backend-development#courses
-
 Python and Rust with Linux Command Line Tools <br/>
 https://www.coursera.org/learn/python-rust-linux
 
@@ -168,6 +144,17 @@ https://www.coursera.org/professional-certificates/google-project-management#cou
 [Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-wASJySFJgslzQzwT4ZEdHg&LSNPUBID=GjbDpcHcs4w)<br/>
 
 [Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering#courses)
+
+
+IBM Generative AI for Software Developers Specialization <br/>
+https://www.coursera.org/specializations/generative-ai-for-software-developers
+
+IBM AI Developer Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
+
+IBM Back-End Development Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/ibm-backend-development#courses
+
 
 Udemy: <br/>
 https://www.udemy.com/course/fast-scala/learn/lecture/27123376#overview
