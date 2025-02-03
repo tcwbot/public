@@ -17,15 +17,15 @@ Focus <br/>
 
 <details>
   <summary> Coursework</summary>
-Network Systems & Principles in Practice <br/>
-Statistical Learning for Data Science <br/>
-Foundations of Data Structures and Algorithms <br/>
 Machine Learning: Theory and Hands-on Practice with Python <br/>
-Robotics with Webots <br/>
+Software Architecture Fundamentals, Patterns, & Applications <br/> <br/>
+Network Systems & Principles in Practice <br/>
+Data Structures and Algorithms <br/>
 Computing, Ethics, and Society <br/>
+Statistical Learning for Data Science <br/>
 Data Mining Pipeline & Methods <br/>
 Databases for Data Scientists <br/>
-Software Architecture Fundamentals, Patterns, & Applications <br/> <br/>
+Robotics with Webots <br/>
 
 - Electives <br/>
 Data Visualization, Generative AI <br/>
