@@ -15,6 +15,24 @@ Focus <br/>
 (E*) CSCA 5342 Robotic Path Planning and Task Execution <br/>
 </details>
 
+<details>
+  <summary> Coursework</summary>
+Network Systems & Principles in Practice <br/>
+Statistical Learning for Data Science <br/>
+Foundations of Data Structures and Algorithms <br/>
+Machine Learning: Theory and Hands-on Practice with Python <br/>
+Robotics with Webots <br/>
+Computing, Ethics, and Society <br/>
+Data Mining Pipeline & Methods <br/>
+Databases for Data Scientists <br/>
+Software Architecture Fundamentals, Patterns, & Applications <br/> <br/>
+
+- Electives <br/>
+Data Visualization, Generative AI <br/>
+Computer Vision, Data Science as a Field <br/>
+Supervised Text Classification for Marketing Analytics <br/>
+
+</details>
 
 <details>
   <summary>Completed: (26/30 MSCS) 87% Done</summary>
