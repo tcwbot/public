@@ -18,7 +18,7 @@ Focus <br/>
 <details>
   <summary> Coursework</summary>
 Machine Learning: Theory and Hands-on Practice with Python <br/>
-Software Architecture Fundamentals, Patterns, & Applications <br/> <br/>
+Software Architecture Fundamentals, Patterns, & Applications <br/> 
 Network Systems & Principles in Practice <br/>
 Data Structures and Algorithms <br/>
 Computing, Ethics, and Society <br/>
@@ -26,7 +26,7 @@ Statistical Learning for Data Science <br/>
 Data Mining Pipeline & Methods <br/>
 Databases for Data Scientists <br/>
 Robotics with Webots <br/>
-
+<br/>
 - Electives <br/>
 Data Visualization, Generative AI <br/>
 Computer Vision, Data Science as a Field <br/>
