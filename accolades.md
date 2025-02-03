@@ -26,7 +26,6 @@ Statistical Learning for Data Science <br/>
 Data Mining Pipeline & Methods <br/>
 Databases for Data Scientists <br/>
 Robotics with Webots <br/>
-<br/>
 - Electives <br/>
 Data Visualization, Generative AI <br/>
 Computer Vision, Data Science as a Field <br/>
