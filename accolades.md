@@ -130,6 +130,8 @@ Network Systems: Principles and Practice (Linux and Cloud Networking) <br/>
 
 <details>
   <summary>Future Work</summary>
+IBM DevOps and Software Engineering Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/devops-and-software-engineering
 	
 Python and Rust with Linux Command Line Tools <br/>
 https://www.coursera.org/learn/python-rust-linux
