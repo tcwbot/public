@@ -177,23 +177,23 @@ https://www.udemy.com/course/fast-scala/learn/lecture/27123376#overview
 https://www.udemy.com/share/102cr43@cmcOHD4Y-k7MsASvOMab1P0suzps_Rwa29Yh9DoIRlfRrIskAFU4HgPhBkSCSDlZ/
 
 
-Developing Your Musicianship Specialization
+Developing Your Musicianship Specialization  <br/>
 https://www.coursera.org/specializations/musicianship-specialization#courses
 
-How to Play Guitar Specialization
+How to Play Guitar Specialization  <br/>
 https://www.coursera.org/specializations/play-guitar#courses
 
-Piano Scales for Modern Music
+Piano Scales for Modern Music  <br/>
 https://www.coursera.org/learn/piano-scales-for-modern-music#modules
 
 
-Understanding Einstein: The Special Theory of Relativity
+Understanding Einstein: The Special Theory of Relativity  <br/>
 http://coursera.org/learn/einstein-relativity#modules
 
-The Physics of Emergence: Introduction to Condensed Matter Specialization
+The Physics of Emergence: Introduction to Condensed Matter Specialization  <br/>
 https://www.coursera.org/specializations/the-physics-of-emergence-introduction-to-condensed-matter
 
-Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences
+Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences  <br/>
 https://www.coursera.org/learn/philosophy-physical-sciences#modules
 
 </details>
