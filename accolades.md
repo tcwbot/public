@@ -186,6 +186,16 @@ https://www.coursera.org/specializations/play-guitar#courses
 Piano Scales for Modern Music
 https://www.coursera.org/learn/piano-scales-for-modern-music#modules
 
+
+Understanding Einstein: The Special Theory of Relativity
+http://coursera.org/learn/einstein-relativity#modules
+
+The Physics of Emergence: Introduction to Condensed Matter Specialization
+https://www.coursera.org/specializations/the-physics-of-emergence-introduction-to-condensed-matter
+
+Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences
+https://www.coursera.org/learn/philosophy-physical-sciences#modules
+
 </details>
 
 
