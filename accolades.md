@@ -165,9 +165,6 @@ https://www.coursera.org/professional-certificates/google-project-management#cou
 [Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering#courses)
 
 
-IBM Generative AI for Software Developers Specialization <br/>
-https://www.coursera.org/specializations/generative-ai-for-software-developers
-
 IBM AI Developer Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
 
