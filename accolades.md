@@ -6,14 +6,12 @@ https://github.com/tcwbot/projects/blob/main/README.md
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
 
 Focus <br/>
-
-(C) CSCA 5642 Introduction to Deep Learning <br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
+(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
 <details>
   <summary> MSCS  : Spring - TODO</summary>
-(C*) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
+(C) CSCA 5642 Introduction to Deep Learning <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution <br/>
-(C) CSCA 5234 Ethical Issues in Computing Applications <br/>
-
 </details>
 
 <details>
