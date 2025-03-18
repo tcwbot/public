@@ -62,7 +62,7 @@ Supervised Text Classification for Marketing Analytics <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
 (C) CSCA 5214: Computing, Ethics, and Society - Foundations</strike> <br/> 
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
-(C) CSCA 5234 Ethical Issues in Computing Applications -- Finals<br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications<br/>
 
 
 
