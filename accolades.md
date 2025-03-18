@@ -29,7 +29,7 @@ Supervised Text Classification for Marketing Analytics <br/>
 </details>
 
 <details>
-  <summary>Completed: (27/30 MSCS) 90% Done</summary>
+  <summary>Completed: (28/30 MSCS) 93% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
 (E) DTSA 5301 Data Science as a Field<br/>
@@ -62,7 +62,7 @@ Supervised Text Classification for Marketing Analytics <br/>
 (E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
 (C) CSCA 5214: Computing, Ethics, and Society - Foundations</strike> <br/> 
 (C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
-<s>(C) CSCA 5234 Ethical Issues in Computing Applications -- Finals </s><br/>
+(C) CSCA 5234 Ethical Issues in Computing Applications -- Finals<br/>
 
 
 
