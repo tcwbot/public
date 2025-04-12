@@ -28,7 +28,7 @@ Supervised Text Classification for Marketing Analytics <br/>
 
 </details>
 
-<details>
+<details open>
   <summary>Completed: (28/30 MSCS) 93% Done</summary>
 --- Completed, not counting towards MSCS  <br/>
 (E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
