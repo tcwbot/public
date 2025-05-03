@@ -35,7 +35,6 @@ Supervised Text Classification for Marketing Analytics <br/>
 (E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
 (E) CSCA 5112 Introduction to Generative AI <br/>
 (E) CSCA 5522: Introduction to Computer Vision <br/>
-(E) CSCA 5112 Introduction to Generative AI  <br/>
 <s>(E) CSCA 5342 Robotic Path Planning and Task Execution</s> <br/>
 --- Completed <br/>
 (E) DTSA 5734 The Structured Query Language (SQL)<br/>
