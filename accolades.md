@@ -1,30 +1,34 @@
-## Projects:
-https://github.com/tcwbot/projects/blob/main/README.md
+Focus <br/>
+
+(C) CSCA 5642 Introduction to Deep Learning <br/>
+(E) CSCA 5834 Modeling of Autonomous Systems <br/>
 
 
 ## University of Colorado, Boulder
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
 
-Focus <br/>
 
-(C) CSCA 5642 Introduction to Deep Learning <br/>
-(E) CSCA 5834 Modeling of Autonomous Systems <br/>
 <details>
   <summary> Coursework</summary>
-Machine Learning: Theory and Hands-on Practice with Python <br/>
 Software Architecture Fundamentals, Patterns, & Applications <br/> 
 Network Systems & Principles in Practice <br/>
 Data Structures and Algorithms <br/>
-Computing, Ethics, and Society <br/>
 Statistical Learning for Data Science <br/>
 Data Mining Pipeline & Methods <br/>
 Databases for Data Scientists <br/>
-Robotics with Webots <br/>
-- Electives <br/>
 Data Visualization, Generative AI <br/>
 Computer Vision, Data Science as a Field <br/>
 Supervised Text Classification for Marketing Analytics <br/>
-Foundations of Autonomous Systems <br/>
+</details>
+
+[Artificial Intelligence - Graduate Certificate ](https://catalog.colorado.edu/graduate/colleges-schools/engineering-applied-science/programs-study/computer-science/artificial-intelligence-graduate-certificate-online/#requirementstext) <br/>
+
+<details>
+  <summary> Coursework</summary>
+Foundations of Autonomous Systems
+Computing, Ethics, and Society
+Machine Learning: Theory and Hands-on Practice with Python
+Robotics with Webots
 </details>
 
   
@@ -154,6 +158,9 @@ Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences
 https://www.coursera.org/learn/philosophy-physical-sciences#modules
 
 </details>
+
+## Projects:
+https://github.com/tcwbot/projects/blob/main/README.md
 
 
 
