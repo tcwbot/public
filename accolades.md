@@ -1,7 +1,7 @@
 Focus <br/>
 (C) CSCA 5642 Introduction to Deep Learning <br/>
 (E) CSCA 5342 Robotic Path Planning and Task Execution <br/>
-(E) CSCA 5854 Verification and Synthesis of Autonomous Systems <br/>
+(E) CSCA 5834 Modeling of Autonomous Systems <br/>
 
 
 ## University of Colorado, Boulder
