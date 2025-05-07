@@ -24,50 +24,9 @@ Robotics with Webots <br/>
 Data Visualization, Generative AI <br/>
 Computer Vision, Data Science as a Field <br/>
 Supervised Text Classification for Marketing Analytics <br/>
-
+Foundations of Autonomous Systems <br/>
 </details>
 
-<details open>
-  <summary>Completed: (28/30 MSCS) 93% Done</summary>
---- Completed, not counting towards MSCS  <br/>
-(E) DTSA 5501 Algorithms for Searching Sorting and Indexing <br/>
-(E) DTSA 5301 Data Science as a Field<br/>
-(E) DTSA 5798 Supervised Text Classification for Marketing Analytics<br/>
-(E) CSCA 5112 Introduction to Generative AI <br/>
-(E) CSCA 5522: Introduction to Computer Vision <br/>
-<s>(E) CSCA 5342 Robotic Path Planning and Task Execution</s> <br/>
---- Completed <br/>
-(E) DTSA 5734 The Structured Query Language (SQL)<br/>
-(E) DTSA 5735 Advanced Topics and Future Trends in Database Technologies<br/>
-(E) DTSA 5733 Relational Database Design<br/>
-(C) DTSA 5507 Software Architecture Fundamentals for Big Data <br/>
-(C) DTSA 5503 Dynamic Programming and Greedy Algorithms <br/>
-(C) CSCA 5018 Software Architecture Patterns for Big Data - DTSA 5508 <br/>
-(E) CSCA 5502 Data Mining Pipeline – Same as DTSA 5504<br/> 
-(C) CSCA 5028 Applications of Software Architecture for Big Data <br/>
-(E) CSCA 5512 Data Mining Methods – Same as DTSA 5505 <br/> 
-(E) CSCA 5522 Data Mining Project – Same as DTSA 5506 <br/> 
-(C) CSCA 5063 Network Systems Foundation  <br/>
-(E) DTSA 5020 Regression and Classification <br/>
-(C) CSCA 5073 Network Principles in Practice: Linux Networking <br/>
-(E) DTSA 5021 Resampling, Selection, and Splines</s> <br/>
-(E) DTSA 5022 Trees, SVM and Unsupervised Learning</s> <br/>
-(C) CSCA 5622 Introduction to Machine Learning - Supervised Learning - DTSA 5509 <br/>
-(E) CSCA 5702 Fundamentals of Data Visualization <br/>
-(E) CSCA 5312 Basic Robotic Behaviors and Odometry <br/>
-(C) CSCA 5083 Network Principles in Practice: Cloud Networking <br/>
-(C) CSCA 5454 Advanced Data Structures, RSA and Quantum Algorithms <br/>
-(C) CSCA 5632 Unsupervised Algorithms in Machine Learning <br/>
-(C) CSCA 5424 Approximation Algorithms and Linear Programming <br/>
-(E) CSCA 5332 Robotic Mapping and Trajectory Generation <br/>
-(C) CSCA 5214: Computing, Ethics, and Society - Foundations</strike> <br/> 
-(C) CSCA 5224 Ethical Issues in AI and Professional Ethics <br/>
-(C) CSCA 5234 Ethical Issues in Computing Applications<br/>
-(E) <s>CSCA 5834 Modeling of Autonomous Systems </s> <br/>
-(E) <s>CSCA 5844 Requirement Specifications for Autonomous Systems</s><br/>
-(E) <s>CSCA 5854 Verification and Synthesis of Autonomous Systems </s> <br/>
-
-</details>
   
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
