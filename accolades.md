@@ -155,6 +155,8 @@ https://www.coursera.org/specializations/the-physics-of-emergence-introduction-t
 Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences  <br/>
 https://www.coursera.org/learn/philosophy-physical-sciences#modules
 
+Investment Management with Python and Machine Learning Specialization
+https://www.coursera.org/specializations/investment-management-python-machine-learning#courses
 </details>
 
 ## Projects:
