@@ -156,6 +156,9 @@ https://www.coursera.org/learn/philosophy-physical-sciences#modules
 
 Investment Management with Python and Machine Learning Specialization
 https://www.coursera.org/specializations/investment-management-python-machine-learning#courses
+
+Embedding Sensors and Motors Specialization
+https://www.coursera.org/specializations/embedding-sensors-motors
 </details>
 
 ## Projects:
