@@ -7,15 +7,15 @@ Focus <br/>
 
 <details>
   <summary> Coursework</summary>
-Software Architecture Fundamentals, Patterns, & Applications <br/> 
-Network Systems & Principles in Practice <br/>
-Data Structures and Algorithms <br/>
-Statistical Learning for Data Science <br/>
-Data Mining Pipeline & Methods <br/>
+Data Structures & Algorithms
+Network Systems: Principles & Practice (Linux & Cloud Networking) <br/>
+Software Architecture for Big Data <br/>
 Databases for Data Scientists <br/>
-Data Visualization, Generative AI <br/>
-Computer Vision, Data Science as a Field <br/>
+Data Mining Pipeline & Methods <br/>
+Statistical Learning for Data Science <br/>
 Supervised Text Classification for Marketing Analytics <br/>
+Generative AI, Computer Vision, Data Science as a Field <br/>
+Fundamentals of Data Visualization <br/>
 </details>
 
 [Artificial Intelligence - Graduate Certificate ](https://catalog.colorado.edu/graduate/colleges-schools/engineering-applied-science/programs-study/computer-science/artificial-intelligence-graduate-certificate-online/#requirementstext) <br/>
@@ -76,15 +76,6 @@ Projects:
 ## Other Certifications
 [Oracle Weblogic Server 11g: System Administration I](https://education.oracle.com/oracle-weblogic-server-12c-administration-i/pexam_1Z0-133)
 
-## Certificate Summaries
-
-Foundations of Data Structures and Algorithms <br/>
-Databases for Data Scientists Specialization<br/>
-Software Architecture for Big Data Specialization<br/>
-Fundamentals of Data Visualization <br/>
-Data Mining Foundations and Practice  <br/>
-Statistical Learning for Data Science <br/>
-Network Systems: Principles and Practice (Linux and Cloud Networking) <br/>
 
 <details>
   <summary>Future Work</summary>
