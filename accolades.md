@@ -109,9 +109,6 @@ https://www.coursera.org/professional-certificates/ibm-it-scrum-master#courses
 IBM Full Stack Software Developer Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer#courses
 
-IBM AI Developer Professional Certificate <br/>
-https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai#courses
-
 Game Design and Development with Unity 2020 Specialization <br/>
 https://www.coursera.org/specializations/game-design-and-development
 
