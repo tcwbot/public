@@ -82,6 +82,12 @@ FlaskApp cidr | subnet calculator.
 __interrupt_driven__ :  <br/>
 tool for managing priorities (Kanban)
 
+__Machine Learning:__
+__GANS__
+
+<img src="https://github.com/tcwbot/public/blob/main/images/gan-model.png" width="300"/>
+
+
 __ML Study__ :  <br/>
 First attempt on understanding the Perceptron
 <table>
