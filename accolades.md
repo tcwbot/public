@@ -1,6 +1,5 @@
 Focus <br/>
-(C) CSCA 5642 Introduction to Deep Learning <br/>
-
+NA
 
 <details>
   <summary>TODO</summary>
