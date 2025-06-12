@@ -128,7 +128,7 @@ https://github.com/tcwbot/public/blob/main/accolades.md
 - An Introduction to Statistical Learning <br/>
 https://www.statlearning.com/ <br/>
 - The Elements of Statistical Learning <br/>
-[The Elements of Statistical Learning ](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) <br/>
+[The Elements of Statistical Learning ](https://hastie.su.domains/ElemStatLearn/) <br/>
 - Probability! <br/>
 https://bookdown.org/probability/beta/  <br/>
 
