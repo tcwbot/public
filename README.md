@@ -30,9 +30,7 @@ Legend:
 
 
   
-
-
-## Software Engineering
+## 🚀 Software Engineering
 **Abstract:** <br/>
 Near Earth Object ML-Recommender. This recommender is unique as it analyzes and tracks astroids that are in close approaches to the earth. Deploys SVM and K-fold machine learning algorithms on full and changing dataset. It offers a recommender system by means naive methods of indexing weights via the correlation matrix. 
 Existing methods often require manual domain expertise labeling, time-consuming assessments and may not be adaptive to the rapidly
