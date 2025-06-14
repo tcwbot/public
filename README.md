@@ -4,7 +4,16 @@
 Legend:
     * - Request Access, Not available to public.
 ```
- 
+## 🧠 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 ## Video:
 - [Supervised Learning for Marketing Analytics - Presentation](https://www.youtube.com/watch?v=7WtoGeQmB0w) *
 - [Relational Database Design - Presentation](https://www.youtube.com/watch?v=QxE2QbB2YTM) *
