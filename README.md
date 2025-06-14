@@ -26,7 +26,7 @@ Legend:
 - [CS 231 - VIM and command line tutorial](https://www.youtube.com/watch?v=RCx34TPTjsg)
 - [CS 231 - VIM and TABe Tutorial](https://www.youtube.com/watch?v=PhcTrkfMIS4)
 - [Robotics (Odometry, Lidar, and line following)](https://www.youtube.com/watch?v=V10tFtglBeQ)
-- [Deep Learning - GANS Introduction](https://www.youtube.com/watch?v=8LWD8VtZRe0)
+- [Deep Learning - GANS Introduction](https://www.youtube.com/watch?v=8LWD8VtZRe0) *
 
 
   
