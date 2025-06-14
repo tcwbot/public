@@ -78,44 +78,44 @@ __RetroConvert__: Graphics framework for visualizations. Custom API [Style | Siz
 
 ## Python:
 
-[Random Helpful Skripts](https://github.com/tcwbot/public/tree/main/scripts) <br/>
-Helpful to me at least.
 
-[logger4py](https://github.com/tcwbot/logger4) : <br/>
-logger4py is just another python Logger Implementation.  Inspired by the [Log4Shell](https://en.wikipedia.org/wiki/Log4Shell) fiasco.
+### 📁 [Scripts & Utilities](https://github.com/tcwbot/public/tree/main/scripts)
+A collection of helpful Python scripts and CLI tools — built to solve practical problems and automate common tasks.
 
-__probcr__ : * <br/>
-Experimented with adding probabilistic judgments based on Corpus linguistics to an OCR system(Tesseract-OCR).<br/>
-Contributor to OCR library. https://github.com/aaronbrick/probcr
+### 🪵 [logger4py](https://github.com/tcwbot/logger4)
+A lightweight logging framework for Python, inspired by the Log4Shell vulnerability. Created to explore safer patterns in logging and configuration.
 
-__create_flask_app__ :  <br/>
-Flask Templating engine to create apps. An attempt to give flask a "npm init react-app my-app" cloned functionality.
+### 🧠 [probcr](https://github.com/aaronbrick/probcr)
+Contributor to an OCR enhancement system using corpus linguistics and probabilistic scoring to improve Tesseract output.  
+> *Academic collaboration under Prof. Aaron Brick.*
 
-[Web Skrapper](https://github.com/tcwbot/public/tree/main/scripts/python231):  <br/>
-Web scrapper project pulling all certifications that are offered by CCSF.  A study involving multi processing threads.
+### ⚙️ [create_flask_app](https://github.com/tcwbot/public/tree/main/scripts/create_flask_app)
+A Flask project scaffolder inspired by `create-react-app`. Simplifies the process of bootstrapping new Flask apps with consistent structure.
 
-__cidr calculator__ :  https://github.com/tcwbot/public/blob/main/scripts/cidr.py <br/>
-FlaskApp cidr | subnet calculator.
+### 🕸️ [Web Scraper](https://github.com/tcwbot/public/tree/main/scripts/python231)
+Multi-threaded web scraper that extracts all certifications offered by CCSF. Demonstrates multiprocessing and text parsing.
 
-__interrupt_driven__ :  <br/>
-tool for managing priorities (Kanban)
+### 📡 [CIDR Calculator](https://github.com/tcwbot/public/blob/main/scripts/cidr.py)
+A small Flask app that functions as a subnet calculator. Built to refresh understanding of IP addressing and dynamic input handling.
 
-__Machine Learning:__
-__GANS__
+### 📊 [interrupt_driven](https://github.com/tcwbot/public/tree/main/scripts/interrupt_driven)
+A simple Kanban-style priority manager inspired by interrupt-driven scheduling systems.
 
+
+
+## 🤖 Machine Learning Experiments
+
+### 🧬 Generative Adversarial Networks (GANs)
+Explored structure and training of GANs using PyTorch and NumPy.  
 <img src="https://github.com/tcwbot/public/blob/main/images/gan-model.png" width="300"/>
 
+### 🔬 ML Study – Perceptron
+Early work exploring simple classification and perceptron learning.
 
-__ML Study__ :  <br/>
-First attempt on understanding the Perceptron
 <table>
  <tr>
-  <td>
-<img src="https://raw.githubusercontent.com/tcwbot/public/main/images/simple_classification_01.png" width="150"/>
-  </td>
-  <td>
-<img src="https://raw.githubusercontent.com/tcwbot/public/main/images/simple_classification_02.png" width="150"/>
-  </td>
+  <td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/simple_classification_01.png" width="150"/></td>
+  <td><img src="https://raw.githubusercontent.com/tcwbot/public/main/images/simple_classification_02.png" width="150"/></td>
  </tr>
 </table>
    
