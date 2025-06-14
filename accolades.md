@@ -1,6 +1,5 @@
-Focus <br/>
-NA
-
+## 📚 Currently Learning
+- NA
 <details>
   <summary>TODO</summary>
 <a href="https://www.coursera.org/specializations/mlops-machine-learning-duke">MLOps | Machine Learning Operations Specialization</a> <br/>
