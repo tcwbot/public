@@ -2,6 +2,8 @@
 - NA
 <details>
   <summary>TODO</summary>
+Google Project Management: Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/google-project-management#courses <br/>
 <a href="https://www.coursera.org/specializations/mlops-machine-learning-duke">MLOps | Machine Learning Operations Specialization</a> <br/>
 <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
 CSCA 5342 Robotic Path Planning and Task Execution <br/>
@@ -109,9 +111,6 @@ https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-develope
 
 Game Design and Development with Unity 2020 Specialization <br/>
 https://www.coursera.org/specializations/game-design-and-development
-
-Google Project Management: Professional Certificate <br/>
-https://www.coursera.org/professional-certificates/google-project-management#courses
 
 [Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-wASJySFJgslzQzwT4ZEdHg&LSNPUBID=GjbDpcHcs4w)<br/>
 
