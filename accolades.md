@@ -3,7 +3,6 @@
 <details>
   <summary>TODO</summary>
 <a href ="https://www.coursera.org/professional-certificates/google-project-management#courses">Google Project Management: Professional Certificate</a> <br/>
-<a href="https://www.coursera.org/specializations/mlops-machine-learning-duke">MLOps | Machine Learning Operations Specialization</a> <br/>
 <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
 CSCA 5342 Robotic Path Planning and Task Execution <br/>
 </details>
@@ -152,6 +151,8 @@ https://www.coursera.org/specializations/investment-management-python-machine-le
 
 Embedding Sensors and Motors Specialization
 https://www.coursera.org/specializations/embedding-sensors-motors
+
+<a href="https://www.coursera.org/specializations/mlops-machine-learning-duke">MLOps | Machine Learning Operations Specialization</a> <br/>
 </details>
 
 ## Projects:
