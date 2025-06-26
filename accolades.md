@@ -1,5 +1,5 @@
-## 📚 Currently Learning
-- NA
+## 📚 Currently Learning - Focus
+- TBA
 <details>
   <summary>TODO</summary>
 <a href ="https://www.coursera.org/professional-certificates/google-project-management#courses">Google Project Management: Professional Certificate</a> <br/>
