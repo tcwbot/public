@@ -35,7 +35,9 @@ Machine Learning: Theory and Hands-on Practice with Python <br/>
 Robotics with Webots <br/>
 </details>
 
-  
+[Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate)
+
+
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
 
@@ -97,9 +99,6 @@ https://www.coursera.org/specializations/rust-programming
 
 IBM Data Engineering Professional Certificate  <br/>
 https://www.coursera.org/professional-certificates/ibm-data-engineer#courses
-
-CU Boulder - Data Science Graduate Certificate  <br/>
-https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate
 
 IBM IT Scrum Master Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/ibm-it-scrum-master#courses
