@@ -5,6 +5,9 @@
 <a href ="https://www.coursera.org/professional-certificates/google-project-management#courses">Google Project Management: Professional Certificate</a> <br/>
 <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
 CSCA 5342 Robotic Path Planning and Task Execution <br/>
+DTSA 5001 Probability Theory - Foundation for Data Science <br/>
+DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
+DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science Applications <br/>
 </details>
 
 
