@@ -35,7 +35,7 @@ Machine Learning: Theory and Hands-on Practice with Python <br/>
 Robotics with Webots <br/>
 </details>
 
-[Data Science Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate)
+[Data Science - Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate)
 
 
 ## City College of San Francisco
