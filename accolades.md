@@ -1,5 +1,5 @@
 ## 📚 Currently Learning - Focus
-- TBA
+- TBA (Taking a Break)
 <details>
   <summary>TODO</summary>
 <a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
