@@ -90,12 +90,9 @@ Projects:
 
 <details>
   <summary>Future Work</summary>
-	
-Python and Rust with Linux Command Line Tools <br/>
-https://www.coursera.org/learn/python-rust-linux
 
-Rust Programming Specialization <br/>
-https://www.coursera.org/specializations/rust-programming
+IBM AI Developer Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
 
 IBM Data Engineering Professional Certificate  <br/>
 https://www.coursera.org/professional-certificates/ibm-data-engineer#courses
@@ -112,10 +109,6 @@ https://www.coursera.org/specializations/game-design-and-development
 [Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-wASJySFJgslzQzwT4ZEdHg&LSNPUBID=GjbDpcHcs4w)<br/>
 
 [Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering#courses)
-
-
-IBM AI Developer Professional Certificate <br/>
-https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
 
 IBM Back-End Development Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/ibm-backend-development#courses
@@ -157,6 +150,10 @@ https://www.coursera.org/specializations/embedding-sensors-motors
 
 IBM DevOps and Software Engineering Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/devops-and-software-engineering <br/>
+
+Rust Programming Specialization <br/>
+https://www.coursera.org/specializations/rust-programming
+
 </details>
 
 ## Projects:
