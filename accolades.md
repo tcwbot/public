@@ -90,8 +90,6 @@ Projects:
 
 <details>
   <summary>Future Work</summary>
-IBM DevOps and Software Engineering Professional Certificate <br/>
-https://www.coursera.org/professional-certificates/devops-and-software-engineering
 	
 Python and Rust with Linux Command Line Tools <br/>
 https://www.coursera.org/learn/python-rust-linux
@@ -156,6 +154,9 @@ https://www.coursera.org/specializations/embedding-sensors-motors
 <a href="https://www.coursera.org/specializations/mlops-machine-learning-duke">MLOps | Machine Learning Operations Specialization</a> <br/>
 
 <a href ="https://www.coursera.org/professional-certificates/google-project-management#courses">Google Project Management: Professional Certificate</a> <br/>
+
+IBM DevOps and Software Engineering Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/devops-and-software-engineering <br/>
 </details>
 
 ## Projects:
