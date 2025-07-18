@@ -91,6 +91,9 @@ Projects:
 <details>
   <summary>Future Work</summary>
 
+IBM RAG and Agentic AI Professional Certificate <br/>
+https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses <br/>
+
 IBM AI Developer Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
 
