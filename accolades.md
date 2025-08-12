@@ -1,9 +1,6 @@
 ## 📚 Currently Learning - Focus
 - TBA (Taking a Break)
-<details>
-  <summary>TODO</summary>
-CSCA 5342 Robotic Path Planning and Task Execution <br/>
-</details>
+
 
 
 <details>
@@ -115,6 +112,7 @@ Projects:
 
 <details>
   <summary>Future Work</summary>
+CSCA 5342 Robotic Path Planning and Task Execution <br/>
 
 IBM RAG and Agentic AI Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses <br/>
