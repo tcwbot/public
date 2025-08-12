@@ -64,8 +64,6 @@ Machine Learning: Theory and Hands-on Practice with Python <br/>
 Robotics with Webots <br/>
 </details>
 
-[Data Science - Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate)
-
 
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
@@ -117,7 +115,6 @@ Projects:
 
 <details>
   <summary>Future Work</summary>
-<a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
 
 IBM RAG and Agentic AI Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses <br/>
@@ -127,6 +124,10 @@ https://www.coursera.org/professional-certificates/applied-artifical-intelligenc
 
 IBM Data Engineering Professional Certificate  <br/>
 https://www.coursera.org/professional-certificates/ibm-data-engineer#courses
+
+<a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
+
+[Data Science - Graduate Certificate](https://www.colorado.edu/program/data-science/Data%20Science%20MasterTrack%20Certificate)
 
 IBM IT Scrum Master Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/ibm-it-scrum-master#courses
