@@ -3,9 +3,6 @@
 <details>
   <summary>TODO</summary>
 CSCA 5342 Robotic Path Planning and Task Execution <br/>
-DTSA 5001 Probability Theory - Foundation for Data Science <br/>
-DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
-DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science Applications <br/>
 </details>
 
 
