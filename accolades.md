@@ -2,7 +2,6 @@
 - TBA (Taking a Break)
 <details>
   <summary>TODO</summary>
-<a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
 CSCA 5342 Robotic Path Planning and Task Execution <br/>
 DTSA 5001 Probability Theory - Foundation for Data Science <br/>
 DTSA 5002 Statistical Inference for Estimation in Data Science <br/>
@@ -10,6 +9,37 @@ DTSA 5003 Statistical Inference and Hypothesis Testing in Data Science Applicati
 </details>
 
 
+<details>
+	  <summary> Research Mode </summary>
+Computer Science (Ph.D.) <br/>
+<a href="https://und.edu/programs/computer-science-phd/index.html"> University of North Dakota - online </a>
+	<br/>
+https://catalog.ndsu.edu/curriculum/graduate/computer-science-doctorate/ <br/> <br/>
+https://info.nu.edu/technology-grad/ <br/> <br/>	
+
+
+Doctor of Engineering Curriculum <br/>	
+https://engineering.purdue.edu/online/programs/doctor-of-engineering/curriculum
+
+https://www.worldcampus.psu.edu/degrees-and-certificates/penn-state-online-doctor-of-engineering
+
+
+https://engineering.purdue.edu/online/programs/doctor-of-engineering
+
+https://polytechnic.purdue.edu/academics/online-doctor-technology
+
+https://www.captechu.edu/degrees-and-programs/doctoral-degrees
+
+https://www.captechu.edu/degrees-and-programs/doctoral-degrees/artificial-intelligence-phd#details
+
+https://online.umaine.edu/online-doctor-in-engineering-technology/
+
+https://www.reddit.com/r/gwu/comments/14d2233/review_for_gwu_online_phd_in_artificial/
+https://www.reddit.com/r/Purdue/comments/hd86y3/deleted_by_user/
+
+
+
+</details>
 
 ## University of Colorado, Boulder
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
@@ -90,6 +120,7 @@ Projects:
 
 <details>
   <summary>Future Work</summary>
+<a href="https://www.coursera.org/specializations/google-golang">Programming with Google Go Specialization</a> <br/>
 
 IBM RAG and Agentic AI Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses <br/>
