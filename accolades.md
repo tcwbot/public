@@ -95,9 +95,6 @@ Robotics with Webots <br/>
 | SP2025  | CSCA5234    | Ethical Issues in Computing Applications                 |
 | SP2025  | CSCA5332    | Robotic Mapping and Trajectory Generation                |
 | SU2025  | CSCA5642    | Introduction to Deep Learning                            |
-| SU2025  | CSCA5834    | Modeling of Autonomous Systems                           |
-| SU2025  | CSCA5844    | Requirements Specification for Autonomous Systems        |
-| SU2025  | CSCA5854    | Verification and Synthesis of Autonomous Systems         |
 
 
 ## City College of San Francisco
