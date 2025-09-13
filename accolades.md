@@ -72,7 +72,7 @@ Robotics with Webots <br/>
 | SU2023  | DTSA5507    | Fundamentals of Software Architecture for Big Data       |
 | FA2023  | CSCA5018    | Software Architecture Patterns for Big Data              |
 | FA2023  | CSCA5028    | Applications of Software Architecture for Big Data       |
-| FA2023  | CSCA5414    | Programming and Algorithms                               |
+| FA2023  | CSCA5414    | Dynamic Programming, Greedy Algorithms                  |
 | FA2023  | CSCA5502    | Data Mining Pipeline                                     |
 | FA2023  | CSCA5512    | Data Mining Methods                                      |
 | FA2023  | CSCA5522    | Data Mining Project                                      |
