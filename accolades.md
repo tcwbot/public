@@ -60,6 +60,7 @@ Computing, Ethics, and Society <br/>
 Machine Learning: Theory and Hands-on Practice with Python <br/>
 Robotics with Webots <br/>
 </details>
+
 | Term    | Course Code | Course Title                                             |
 |---------|-------------|----------------------------------------------------------|
 | SP2022  | DTSA5501    | Algorithms                                               |
