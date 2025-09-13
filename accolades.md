@@ -63,7 +63,7 @@ Robotics with Webots <br/>
 
 | Term    | Course Code | Course Title                                             |
 |---------|-------------|----------------------------------------------------------|
-| SP2022  | DTSA5501    | Algorithms                                               |
+| SP2022  | DTSA5501    | Algorithms for Searching, Sorting, and Indexing          |
 | FA2022  | DTSA5733    | Relational Database Design                               |
 | FA2022  | DTSA5734    | Structured Query Language                                |
 | FA2022  | DTSA5735    | Database Technologies                                    |
