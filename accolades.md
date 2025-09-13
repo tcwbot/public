@@ -61,6 +61,45 @@ Machine Learning: Theory and Hands-on Practice with Python <br/>
 Robotics with Webots <br/>
 </details>
 
+| Term    | Course Code | Course Title                                |
+|---------|-------------|---------------------------------------------|
+| SP2022  | DTSA5501    | Algorithms                                  |
+| FA2022  | DTSA5733    | Relational Database Design                  |
+| FA2022  | DTSA5734    | Structured Query Language                   |
+| FA2022  | DTSA5735    | Database Technologies                       |
+| SP2023  | DTSA5301    | Data Science as a Field                     |
+| SP2023  | DTSA5798    | Sprvd Text Class for Marketin              |
+| SU2023  | DTSA5507    | Fund of Soft Arch for Big Dat              |
+| FA2023  | CSCA5018    | Soft Arch Patterns Big Data                 |
+| FA2023  | CSCA5028    | App of Soft Arch for Big Data               |
+| FA2023  | CSCA5414    | Programming and Algorithms                  |
+| FA2023  | CSCA5502    | Data Mining Pipeline                        |
+| FA2023  | CSCA5512    | Data Mining Methods                         |
+| FA2023  | CSCA5522    | Data Mining Project                         |
+| SP2024  | CSCA5063    | Network Systems                             |
+| SP2024  | CSCA5073    | Linux Networking                            |
+| SP2024  | CSCA5622    | Intro to Machine Lrng Supervi              |
+| SP2024  | DTSA5020    | Regression and Classification               |
+| SP2024  | DTSA5021    | Rsmpling, Selection and Splin              |
+| SP2024  | DTSA5022    | Trees, SVM and Unsprvsd Learn              |
+| SU2024  | CSCA5083    | Cloud Networking                            |
+| SU2024  | CSCA5112    | Introduction to Generative AI              |
+| SU2024  | CSCA5222    | Intro to Computer Vision                   |
+| SU2024  | CSCA5312    | Basic Robotic Behav and Odome              |
+| SU2024  | CSCA5702    | Fundamentals of Data Viz                   |
+| FA2024  | CSCA5424    | Approx of Algo and Linear Pro             |
+| FA2024  | CSCA5454    | Adv Dta Str, RSA and Qntm Alg             |
+| FA2024  | CSCA5632    | Unsprvsd Algorithms in Machin             |
+| SP2025  | CSCA5214    | Cmptng, Ethics, and Soc Fndtn              |
+| SP2025  | CSCA5224    | Ethcl Issues in AI & Prof Eth              |
+| SP2025  | CSCA5234    | Ethcl Issues in Cmptng Apps                |
+| SP2025  | CSCA5332    | Robotic Mapping Trajectory Ge             |
+| SU2025  | CSCA5642    | Introduction to Deep Learning              |
+| SU2025  | CSCA5834    | Modeling of Autonomous System              |
+| SU2025  | CSCA5844    | Rqmt Specs for Autonomous Sys              |
+| SU2025  | CSCA5854    | Verif and Synth of Auton Sys               |
+
+
 
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
