@@ -81,6 +81,8 @@
 <details open>
   <summary>📎 Extra Resources & Links</summary>
 
+- [Engineering Management Graduate Certificate
+](https://www.coursera.org/certificates/engineering-management-boulder#courses)
 - [ME-EM on Coursera Curriculum](https://www.colorado.edu/emp/coursera/curriculum#accordion-374942155-1)  
 - [MS-EE Coursera Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/course-list)  
 - [Graduate Certificates](https://www.colorado.edu/emp/graduate-programs/traditional-semester-based-graduate-certificates)  
