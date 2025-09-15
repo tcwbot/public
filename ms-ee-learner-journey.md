@@ -1,4 +1,9 @@
-# Learner's Journey
+## University of Colorado, Boulder </br>
+[Master of Science - Electrical Engineering](https://www.colorado.edu/ecee/academics/online-programs/ms-ece-coursera#preview-courses-with-non-credit-options
+)
+
+
+## Learner's Journey
 - [MS-EE Coursera Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/course-list)  
 
 ## YEAR 1 (Any Order)
