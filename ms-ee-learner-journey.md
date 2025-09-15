@@ -78,14 +78,15 @@
 
 ---
 
-<details>
+<details open>
   <summary>📎 Extra Resources & Links</summary>
 
+- [ME-EM on Coursera Curriculum](https://www.colorado.edu/emp/coursera/curriculum#accordion-374942155-1)  
 - [MS-EE Coursera Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/course-list)  
 - [Graduate Certificates](https://www.colorado.edu/emp/graduate-programs/traditional-semester-based-graduate-certificates)  
 - [Project Management Specialization on Coursera](https://www.coursera.org/programs/cu-on-coursera-sqyue/specializations/meem-project-management?authProvider=uofc&source=search#courses)  
 - [Embedded Systems Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/course-list#computer-engineering-/-embedded-systems-engineering)  
 - [Engineering Management Certificate](https://www.coursera.org/certificates/engineering-management-boulder)  
-- [Systems and Controls Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/systems-and-controls)  
+- [Systems and Controls Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/systems-and-controls)
 
 </details>
