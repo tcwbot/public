@@ -2,6 +2,7 @@
 [Master of Science - Electrical Engineering](https://www.colorado.edu/ecee/academics/online-programs/ms-ece-coursera#preview-courses-with-non-credit-options
 )
 
+- with an Engineering Management Graduate Certificate
 
 ## Learner's Journey
 - [MS-EE Coursera Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/course-list)  
