@@ -1,3 +1,15 @@
+## Focus:
+Learning How to Learn </br>
+https://www.coursera.org/learn/learning-how-to-learn/home/  </br>
+
+Project Management – Foundations and Initiation  </br>
+https://www.coursera.org/learn/project-management-foundations-initiation  </br>
+
+Sensors and Sensor Circuit Design  </br>
+https://www.coursera.org/learn/sensors-circuit-interface  </br>
+
+
+
 ## University of Colorado, Boulder </br>
 [Master of Science - Electrical Engineering](https://www.colorado.edu/ecee/academics/online-programs/ms-ece-coursera#preview-courses-with-non-credit-options
 )
