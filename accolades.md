@@ -1,5 +1,6 @@
 ## 📚 Currently Learning - Focus
-- TBA (Taking a Break)
+IBM RAG and Agentic AI Professional Certificate </br>
+https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses
 
 
 
