@@ -39,29 +39,11 @@ https://www.reddit.com/r/Purdue/comments/hd86y3/deleted_by_user/
 ## University of Colorado, Boulder
 [Master of Science - Computer Science](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera) <br/>
 
-<details>
-  <summary> Coursework</summary>
-Data Structures & Algorithms
-Network Systems: Principles & Practice (Linux & Cloud Networking) <br/>
-Software Architecture for Big Data <br/>
-Databases for Data Scientists <br/>
-Data Mining Pipeline & Methods <br/>
-Statistical Learning for Data Science <br/>
-Supervised Text Classification for Marketing Analytics <br/>
-Generative AI, Computer Vision, Data Science as a Field <br/>
-Fundamentals of Data Visualization <br/>
-</details>
-
 [Artificial Intelligence - Graduate Certificate ](https://catalog.colorado.edu/graduate/colleges-schools/engineering-applied-science/programs-study/computer-science/artificial-intelligence-graduate-certificate-online/#requirementstext) <br/>
 
 <details>
   <summary> Coursework</summary>
-Foundations of Autonomous Systems <br/>
-Computing, Ethics, and Society <br/>
-Machine Learning: Theory and Hands-on Practice with Python <br/>
-Robotics with Webots <br/>
-</details>
-
+	
 | Term    | Course Code | Course Title                                             |
 |---------|-------------|----------------------------------------------------------|
 | SP2022  | DTSA5501    | Algorithms for Searching, Sorting, and Indexing          |
@@ -97,6 +79,7 @@ Robotics with Webots <br/>
 | SP2025  | CSCA5332    | Robotic Mapping and Trajectory Generation                |
 | SU2025  | CSCA5642    | Introduction to Deep Learning                            |
 
+</details>
 
 ## City College of San Francisco
 [Computer Programming: Java Certificate of Achievement](/images/cert_two.png)
