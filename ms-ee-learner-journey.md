@@ -1,6 +1,4 @@
 ## Focus:
-Learning How to Learn </br>
-https://www.coursera.org/learn/learning-how-to-learn/home/  </br>
 
 Project Management – Foundations and Initiation  </br>
 https://www.coursera.org/learn/project-management-foundations-initiation  </br>
@@ -116,3 +114,7 @@ https://www.coursera.org/specializations/mathematics-engineers
 - [Systems and Controls Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/systems-and-controls)
 
 </details>
+
+# Completed
+Learning How to Learn </br>
+https://www.coursera.org/learn/learning-how-to-learn/home/  </br>
