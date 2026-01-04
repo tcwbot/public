@@ -8,6 +8,17 @@ https://www.coursera.org/learn/project-management-foundations-initiation  </br>
 Sensors and Sensor Circuit Design  </br>
 https://www.coursera.org/learn/sensors-circuit-interface  </br>
 
+# Side Quests
+Basic Electronics</br>
+https://www.coursera.org/learn/basic-electronics-odc/
+
+Programming for Everybody (Getting Started with Python)</br>
+https://www.coursera.org/learn/python
+
+Mathematics for Engineers Specialization</br>
+https://www.coursera.org/specializations/mathematics-engineers
+
+
 
 
 ## University of Colorado, Boulder </br>
