@@ -1,4 +1,4 @@
-## Focus:
+# Focus:
 
 Project Management – Foundations and Initiation  </br>
 https://www.coursera.org/learn/project-management-foundations-initiation  </br>
@@ -19,13 +19,13 @@ https://www.coursera.org/specializations/mathematics-engineers
 
 
 
-## University of Colorado, Boulder </br>
+# University of Colorado, Boulder </br>
 [Master of Science - Electrical Engineering](https://www.colorado.edu/ecee/academics/online-programs/ms-ece-coursera#preview-courses-with-non-credit-options
 )
 
 - with an Engineering Management Graduate Certificate
 
-## Learner's Journey
+# Learner's Journey
 - [MS-EE Coursera Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/course-list)  
 
 ## YEAR 1 (Any Order)
