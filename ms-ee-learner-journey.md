@@ -27,31 +27,32 @@ https://www.coursera.org/specializations/mathematics-engineers
 
 ## YEAR 1 (Any Order)
 
-### 📘 Specialization 1 – Embedding Sensors and Motors (3 Units, Pathway)
+### 📘 Specialization 1 – Elective (3 Units)
+- Project Management – Foundations and Initiation  
+- Project Management – Project Planning and Execution  
+- Project Management – Agile Project Management
+
+### 📘 Specialization 2 – Elective (3 Units)
+- Finance for Technical Managers – Product Cost & Investment Cash Flow Analysis  
+- Finance for Technical Managers – Project Valuation and the Capital Budgeting Process  
+- Finance for Technical Managers – Financial Forecasting and Reporting  
+
+### 📘 Specialization 3 – Elective (3 Units)
+- Leading Oneself – Leading Oneself with Self-Knowledge  
+- Leading Oneself – Leading Oneself with Purpose and Meaning  
+- Leading Oneself – Leading Oneself with Personal Excellence
+
+### 📘 Specialization 4 – Embedding Sensors and Motors (3 Units, Pathway)
 - ECEA 5340 – Sensors and Sensor Circuit Design (0.8 credits)  
 - ECEA 5341 – Motors and Motor Control Circuits (0.8 credits)  
 - ECEA 5342 – Pressure, Force, Motion, and Humidity Sensors (0.8 credits)  
 - ECEA 5343 – Sensor Manufacturing and Process Control (0.6 credits)  
 
-### 📘 Specialization 2 – Embedded Interface Design (3 Units)
+### 📘 Specialization 5 – Embedded Interface Design (3 Units)
 - ECEA 5346 – User Experience Interface Design for Embedded Systems (1 credit)  
 - ECEA 5347 – Rapid Prototyping of Embedded Interface Designs (1 credit)  
 - ECEA 5348 – M2M and IoT Interface Design and Protocols (1 credit)
 
-### 📘 Specialization 3 – Elective (3 Units)
-- Finance for Technical Managers – Product Cost & Investment Cash Flow Analysis  
-- Finance for Technical Managers – Project Valuation and the Capital Budgeting Process  
-- Finance for Technical Managers – Financial Forecasting and Reporting  
-
-### 📘 Specialization 4 – Elective (3 Units)
-- Project Management – Foundations and Initiation  
-- Project Management – Project Planning and Execution  
-- Project Management – Agile Project Management  
-
-### 📘 Specialization 5 – Elective (3 Units)
-- Leading Oneself – Leading Oneself with Self-Knowledge  
-- Leading Oneself – Leading Oneself with Purpose and Meaning  
-- Leading Oneself – Leading Oneself with Personal Excellence
 
 
 ## YEAR 2 (Any Order)
