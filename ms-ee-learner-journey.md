@@ -64,9 +64,10 @@ https://www.coursera.org/specializations/mathematics-engineers
 
 
 ### 📘 Specialization 7 – Electrical Engineering Specialization (3 Units)
-- Course 19 – TBD  
-- Course 20 – TBD  
-- Course 21 – TBD  
+- ECEA 5850 Kalman-Filter Boot Camp and State-Estimation Application (0.8 credits)
+- ECEA 5851 Kalman Filter Deep Dive and Target-Tracking Application (0.8 credits)
+- ECEA 5852 Nonlinear Kalman Filters, Parameter-Estimation Application (0.8 credits)
+- ECEA 5853 Particle Filters and Navigation Application (0.8 credits) 
 
 ### 📘 Specialization 8 – Electrical Engineering Specialization (3 Units)
 - Course 22 – TBD  
