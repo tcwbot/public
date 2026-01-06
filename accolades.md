@@ -1,7 +1,3 @@
----
-title: Accolades
----
-
 ## 📚 Currently Learning - Focus
 IBM RAG and Agentic AI Professional Certificate </br>
 https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses
@@ -47,7 +43,6 @@ https://www.reddit.com/r/Purdue/comments/hd86y3/deleted_by_user/
 
 <details>
   <summary> Coursework</summary>
-<div style="overflow-x:auto;">
 	
 | Term    | Course Code | Course Title                                             |
 |---------|-------------|----------------------------------------------------------|
@@ -84,7 +79,7 @@ https://www.reddit.com/r/Purdue/comments/hd86y3/deleted_by_user/
 | SP2025  | CSCA5332    | Robotic Mapping and Trajectory Generation                |
 | SU2025  | CSCA5642    | Introduction to Deep Learning                            |
 
-</div>
+
 </details>
 
 ## City College of San Francisco
