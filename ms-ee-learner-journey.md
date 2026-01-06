@@ -25,7 +25,6 @@ https://www.coursera.org/specializations/mathematics-engineers
 # Learner's Journey
 - [MS-EE Coursera Curriculum](https://www.colorado.edu/ecee/academics/online-programs/ms-ee-coursera/curriculum/course-list)  
 
-## YEAR 1 (Any Order)
 
 ### 📘 Specialization 1 – Elective (3 Units)
 - Project Management – Foundations and Initiation  
@@ -42,32 +41,29 @@ https://www.coursera.org/specializations/mathematics-engineers
 - Leading Oneself – Leading Oneself with Purpose and Meaning  
 - Leading Oneself – Leading Oneself with Personal Excellence
 
-### 📘 Specialization 4 – Embedding Sensors and Motors (3 Units, Pathway)
+### 📘 Specialization 4 – Advanced Embedded Linux Development Specialization (3 credits)
+
+- ECEA 5305 Linux System Programming and Introduction to Buildroot (1 credit)
+- ECEA 5306 Linux Kernel Programming and Introduction to Yocto (1 credit)
+- ECEA 5307 Embedded System Topics and Project (1 credit)
+
+### 📘 Specialization 5 – Real-Time Embedded Systems Specialization (3 credits)
+
+- ECEA 5315 Concept and Practices (0.6 credits)
+- ECEA 5316 Theory and Analysis (0.8 credits)
+- ECEA 5317 Mission-Critical, SW Applications (0.8 credits)
+- ECEA 5318 Real-Time Embedded Systems Project (0.8 credits)
+
+### 📘 Specialization 6 – Embedding Sensors and Motors (3 Units, Pathway)
 - ECEA 5340 – Sensors and Sensor Circuit Design (0.8 credits)  
 - ECEA 5341 – Motors and Motor Control Circuits (0.8 credits)  
 - ECEA 5342 – Pressure, Force, Motion, and Humidity Sensors (0.8 credits)  
 - ECEA 5343 – Sensor Manufacturing and Process Control (0.6 credits)  
 
-### 📘 Specialization 5 – Embedded Interface Design (3 Units)
+### 📘 Specialization 7 – Embedded Interface Design (3 Units)
 - ECEA 5346 – User Experience Interface Design for Embedded Systems (1 credit)  
 - ECEA 5347 – Rapid Prototyping of Embedded Interface Designs (1 credit)  
 - ECEA 5348 – M2M and IoT Interface Design and Protocols (1 credit)
-
-
-
-## YEAR 2 (Any Order)
-
-### 📘 Specialization 6 – Control Systems Series(3 Units)
-- ECEA 5800 – Modeling of Feedback Systems (1 credit)  
-- ECEA 5801 – Frequency Domain (1 credit)  
-- ECEA 5802 – State-Space Domain Design (1 credit)  
-
-
-### 📘 Specialization 7 – Electrical Engineering Specialization (3 Units)
-- ECEA 5850 Kalman-Filter Boot Camp and State-Estimation Application (0.8 credits)
-- ECEA 5851 Kalman Filter Deep Dive and Target-Tracking Application (0.8 credits)
-- ECEA 5852 Nonlinear Kalman Filters, Parameter-Estimation Application (0.8 credits)
-- ECEA 5853 Particle Filters and Navigation Application (0.8 credits) 
 
 ### 📘 Specialization 8 – Electrical Engineering Specialization (3 Units)
 - Course 22 – TBD  
