@@ -50,29 +50,29 @@ https://www.coursera.org/specializations/mathematics-engineers
 - ECEA 5306 Linux Kernel Programming and Introduction to Yocto (1 credit)
 - ECEA 5307 Embedded System Topics and Project (1 credit)
 
-### 📘 Specialization 5 – Real-Time Embedded Systems Specialization (3 credits)
-
-- ECEA 5315 Concept and Practices (0.6 credits)
-- ECEA 5316 Theory and Analysis (0.8 credits)
-- ECEA 5317 Mission-Critical, SW Applications (0.8 credits)
-- ECEA 5318 Real-Time Embedded Systems Project (0.8 credits)
-
-### 📘 Specialization 6 – Embedding Sensors and Motors (3 Units, Pathway)
+### 📘 Specialization 5 – Embedding Sensors and Motors (3 Units, Pathway)
 - ECEA 5340 – Sensors and Sensor Circuit Design (0.8 credits)  
 - ECEA 5341 – Motors and Motor Control Circuits (0.8 credits)  
 - ECEA 5342 – Pressure, Force, Motion, and Humidity Sensors (0.8 credits)  
 - ECEA 5343 – Sensor Manufacturing and Process Control (0.6 credits)  
 
-### 📘 Specialization 7 – Embedded Interface Design (3 Units)
+### 📘 Specialization 6 – Embedded Interface Design (3 Units)
 - ECEA 5346 – User Experience Interface Design for Embedded Systems (1 credit)  
 - ECEA 5347 – Rapid Prototyping of Embedded Interface Designs (1 credit)  
 - ECEA 5348 – M2M and IoT Interface Design and Protocols (1 credit)
 
-### 📘 Specialization 8 – Power Electronics Specialization (Pathway) (4 credits)
+### 📘 Specialization 7 – Power Electronics Specialization (Pathway) (4 credits)
 - ECEA 5700 Introduction to Power Electronics (0.8 credits)
 - ECEA 5701 Converter Circuits (1 credit)
 - ECEA 5702 Converter Control (1.2 credits)
 - ECEA 5703 Magnetics Design (1 credit)
+
+### 📘 Specialization 8 – Real-Time Embedded Systems Specialization (3 credits)
+
+- ECEA 5315 Concept and Practices (0.6 credits)
+- ECEA 5316 Theory and Analysis (0.8 credits)
+- ECEA 5317 Mission-Critical, SW Applications (0.8 credits)
+- ECEA 5318 Real-Time Embedded Systems Project (0.8 credits)
 
 ### 📘 Specialization 9 – Electrical Engineering Specialization (3 Units)
 - Course 25 – TBD  
