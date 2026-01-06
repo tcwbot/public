@@ -76,10 +76,11 @@ Prerequisite *3 & *4
 - ECEA 5317 Mission-Critical, SW Applications (0.8 credits)
 - ECEA 5318 Real-Time Embedded Systems Project (0.8 credits)
 
-### 📘 Specialization 9 – Electrical Engineering Specialization (3 Units)
-- Course 25 – TBD  
-- Course 26 – TBD  
-- Course 27 – TBD  
+### 📘 Specialization 9 – Developing Industrial Internet of Things
+
+ECEA 5385 Industrial IoT Markets and Security (1 credit)
+ECEA 5386 Project Planning and Machine Learning (1 credit)
+ECEA 5387 Modeling and Debugging Embedded Systems (1 credit)
 
 ### 📘 Specialization 10 – Electrical Engineering Specialization (3 Units)
 - Course 28 – TBD  
