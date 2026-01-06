@@ -10,6 +10,9 @@ https://www.coursera.org/learn/basic-electronics-odc/
 Programming for Everybody (Getting Started with Python)</br>
 https://www.coursera.org/learn/python
 
+C Programming for Everybody Specialization</br>
+https://www.coursera.org/specializations/c-programming-for-everybody
+
 Mathematics for Engineers Specialization</br>
 https://www.coursera.org/specializations/mathematics-engineers
 
@@ -65,10 +68,11 @@ https://www.coursera.org/specializations/mathematics-engineers
 - ECEA 5347 – Rapid Prototyping of Embedded Interface Designs (1 credit)  
 - ECEA 5348 – M2M and IoT Interface Design and Protocols (1 credit)
 
-### 📘 Specialization 8 – Electrical Engineering Specialization (3 Units)
-- Course 22 – TBD  
-- Course 23 – TBD  
-- Course 24 – TBD  
+### 📘 Specialization 8 – Power Electronics Specialization (Pathway) (4 credits)
+- ECEA 5700 Introduction to Power Electronics (0.8 credits)
+- ECEA 5701 Converter Circuits (1 credit)
+- ECEA 5702 Converter Control (1.2 credits)
+- ECEA 5703 Magnetics Design (1 credit)
 
 ### 📘 Specialization 9 – Electrical Engineering Specialization (3 Units)
 - Course 25 – TBD  
