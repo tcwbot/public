@@ -1,3 +1,7 @@
+---
+title: Accolades
+---
+
 ## 📚 Currently Learning - Focus
 IBM RAG and Agentic AI Professional Certificate </br>
 https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses
