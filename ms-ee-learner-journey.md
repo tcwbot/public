@@ -4,18 +4,18 @@ Project Management – Foundations and Initiation  </br>
 https://www.coursera.org/learn/project-management-foundations-initiation  </br>
 
 # Side Quests
-Basic Electronics</br>
-https://www.coursera.org/learn/basic-electronics-odc/
 
-Programming for Everybody (Getting Started with Python)</br>
+1 - Programming for Everybody (Getting Started with Python)</br>
 https://www.coursera.org/learn/python
 
-C Programming for Everybody Specialization</br>
+2 - C Programming for Everybody Specialization</br>
 https://www.coursera.org/specializations/c-programming-for-everybody
 
-Mathematics for Engineers Specialization</br>
-https://www.coursera.org/specializations/mathematics-engineers
+3 - Basic Electronics</br>
+https://www.coursera.org/learn/basic-electronics-odc/
 
+4 - Mathematics for Engineers Specialization</br>
+https://www.coursera.org/specializations/mathematics-engineers
 
 
 
@@ -34,27 +34,29 @@ https://www.coursera.org/specializations/mathematics-engineers
 - Project Management – Project Planning and Execution  
 - Project Management – Agile Project Management
 
-### 📘 Specialization 2 – Elective (3 Units)
-- Finance for Technical Managers – Product Cost & Investment Cash Flow Analysis  
-- Finance for Technical Managers – Project Valuation and the Capital Budgeting Process  
-- Finance for Technical Managers – Financial Forecasting and Reporting  
-
-### 📘 Specialization 3 – Elective (3 Units)
-- Leading Oneself – Leading Oneself with Self-Knowledge  
-- Leading Oneself – Leading Oneself with Purpose and Meaning  
-- Leading Oneself – Leading Oneself with Personal Excellence
-
-### 📘 Specialization 4 – Advanced Embedded Linux Development Specialization (3 credits)
+### 📘 Specialization 2 – Advanced Embedded Linux Development Specialization (3 credits)
+Prerequisite *1 & *2
 
 - ECEA 5305 Linux System Programming and Introduction to Buildroot (1 credit)
 - ECEA 5306 Linux Kernel Programming and Introduction to Yocto (1 credit)
 - ECEA 5307 Embedded System Topics and Project (1 credit)
 
-### 📘 Specialization 5 – Embedding Sensors and Motors (3 Units, Pathway)
+### 📘 Specialization 3 – Elective (3 Units)
+- Finance for Technical Managers – Product Cost & Investment Cash Flow Analysis  
+- Finance for Technical Managers – Project Valuation and the Capital Budgeting Process  
+- Finance for Technical Managers – Financial Forecasting and Reporting  
+
+### 📘 Specialization 4 – Embedding Sensors and Motors (3 Units, Pathway)
+Prerequisite *3 & *4
 - ECEA 5340 – Sensors and Sensor Circuit Design (0.8 credits)  
 - ECEA 5341 – Motors and Motor Control Circuits (0.8 credits)  
 - ECEA 5342 – Pressure, Force, Motion, and Humidity Sensors (0.8 credits)  
-- ECEA 5343 – Sensor Manufacturing and Process Control (0.6 credits)  
+- ECEA 5343 – Sensor Manufacturing and Process Control (0.6 credits)
+
+### 📘 Specialization 5 – Elective (3 Units)
+- Leading Oneself – Leading Oneself with Self-Knowledge  
+- Leading Oneself – Leading Oneself with Purpose and Meaning  
+- Leading Oneself – Leading Oneself with Personal Excellence
 
 ### 📘 Specialization 6 – Embedded Interface Design (3 Units)
 - ECEA 5346 – User Experience Interface Design for Embedded Systems (1 credit)  
