@@ -44,12 +44,13 @@ Operating across three parallel responsibilities:
 
 ---
 
-## Selected Impact - Professional
+## Impact
+Professional
 - Helped support engineers resolve technical blockers on complex issues through troubleshooting assistance and peer mentorship.
 - Identified customer-reported bugs and feature requests and reported them to engineering teams.
 - Contributed to internal AI and automation initiatives through hands-on development and workflow support.
 
-## Selected Impact - Academic & Research
+Academic & Research
 - Applied data analysis, visualization, and machine learning techniques to explore complex scientific datasets.
 - Built multidimensional visualization tools supporting exploratory analysis in physics and geoscience contexts.
 
