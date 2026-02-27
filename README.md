@@ -75,7 +75,8 @@ __RetroConvert__: Graphics framework for visualizations. Custom API [Style | Siz
 
 
 ## Python:
-
+### 🚀 [Simple LLM Agent](https://github.com/tcwbot/simpleagent)
+A lightweight, local AI agent powered by **Ollama**. This tool uses a **ReAct (Reasoning + Action) loop** to not only answer questions but also browse the web and interact with your local filesystem through extensible Python tools.
 
 ### 📁 [Scripts & Utilities](https://github.com/tcwbot/public/tree/main/scripts)
 A collection of helpful Python scripts and CLI tools — built to solve practical problems and automate common tasks.
