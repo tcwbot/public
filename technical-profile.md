@@ -1,164 +1,153 @@
 # Technical Profile
 
-## Summary
-Senior Support Engineer operating across technical leadership, platform contribution, and applied AI initiatives. Currently balancing three concurrent roles: technical lead for a support team, SDK contributor, and engineer on AI-driven automation projects in partnership with a Senior Technical Staff Member (STSM). Focused on scaling impact beyond individual tickets through platform improvements, automation, and agentic AI systems, with an intentional trajectory toward Staff / Principal-level engineering and deeper engagement in applied research over time.
+## Strategic Summary
+
+Engineer operating at the intersection of AI systems, cloud infrastructure, and platform reliability within enterprise-scale environments.
+
+Current work centers on:
+
+* Driving architectural clarity across complex production issues
+* Converting recurring operational failure modes into platform-level improvements
+* Designing AI-assisted automation systems that reduce cognitive load and increase engineering leverage
+
+Long-term trajectory: Staff-level technical ownership in AI infrastructure and scalable ML systems, with optional expansion into applied research grounded in production realities.
 
 ---
 
-## Focus Areas
-- Agentic AI & Retrieval-Augmented Generation (RAG)
-- AI-Driven Automation & Internal Tooling
-- Machine Learning Systems (Supervised, Unsupervised, Deep Learning)
-- Data Mining, ML Pipelines, and MLOps
+## Target Capability – Staff / Principal Track
+
+Actively compounding toward:
+
+* Cross-team architectural ownership of ambiguous technical domains
+* Elimination of recurring systemic failure classes (not just incident resolution)
+* Design and evaluation of production AI infrastructure
+* Technical strategy influence beyond immediate reporting line
+* Building reusable internal systems that compound organizational leverage
 
 ---
 
-## Future Direction
-- Developing interest in applied research at the intersection of first-principles-guided methods, AI systems, and large-scale engineering.
-- Ongoing study of robotics fundamentals, including mapping, odometry, and trajectory generation.
-- Exploring long-term doctoral pathways (PhD or Doctor of Engineering) as a potential avenue for deeper applied research, while continuing to build impact in industry.
+## Core Capability Stack
 
+### Systems & Infrastructure
+
+* Distributed systems reasoning
+* Failure-mode and reliability analysis
+* Cloud-native architectures
+* Platform-level debugging and escalation resolution
+
+### AI & ML Systems
+
+* Agentic workflows and orchestration
+* Retrieval-Augmented Generation (RAG) systems
+* ML pipelines and lifecycle management
+* Model evaluation and applied ML experimentation
+
+### Leverage & Enablement
+
+* Automation design to reduce operational toil
+* Translation of production pain into code-level and architectural improvements
+* Internal tooling that scales expert knowledge
 
 ---
 
-## Professional Role (Current)
+## Current Role – Senior Support Engineer, IBM
 
-### Senior Support Engineer - IBM
+IBM
 
-Operating across three parallel responsibilities:
+Operating across three parallel scopes of responsibility:
 
-#### 1) Technical Lead - Support Team
-- Serve as technical lead for a support team, guiding complex case resolution and mentoring engineers on system-level debugging and architectural reasoning.
-- Act as escalation point for high-complexity issues requiring deep product, platform, and infrastructure understanding.
-- Influence support practices toward repeatable solutions, long-term defect reduction, and improved operational maturity.
+### 1) Technical Lead – Complex Escalations
 
-#### 2) SDK Contributor
-- Contribute directly to SDK development, translating real-world customer issues into platform-level improvements.
-- Identify systemic gaps surfaced through support interactions and convert them into actionable code-level changes.
-- Collaborate with engineering teams to improve developer experience, reliability, and maintainability.
+* Serve as escalation owner for high-complexity production issues requiring cross-layer analysis (application, SDK, infrastructure).
+* Guide engineers in system-level debugging, tradeoff analysis, and architectural reasoning.
+* Drive movement from reactive issue resolution toward repeatable diagnostic workflows and long-term defect reduction.
 
-#### 3) AI & Automation Initiatives
-- Work with a Senior Technical Staff Member (STSM) on AI-driven automation and internal tooling initiatives.
-- Contribute to projects leveraging IBM Orchestrate, agentic workflows, and internal automation frameworks.
-- Focus on reducing operational toil, scaling expert knowledge, and embedding AI-assisted decision-making into support and engineering workflows.
+### 2) SDK & Platform Contribution
+
+* Translate real-world production failures into actionable SDK-level improvements.
+* Identify systemic gaps surfaced through support interactions and convert them into code changes, enhancements, or design feedback.
+* Collaborate with engineering teams to improve developer experience, reliability, and maintainability.
+
+### 3) AI & Automation Initiatives
+
+* Partner with a Senior Technical Staff Member (STSM) on AI-driven automation and internal tooling initiatives.
+* Contribute to agentic workflows and AI-assisted operational systems leveraging IBM automation platforms.
+* Focus on reducing manual triage effort, scaling institutional knowledge, and embedding AI-assisted decision support into engineering workflows.
 
 ---
 
 ## Impact
-Professional
-- Helped support engineers resolve technical blockers on complex issues through troubleshooting assistance and peer mentorship.
-- Identified customer-reported bugs and feature requests and reported them to engineering teams.
-- Contributed to internal AI and automation initiatives through hands-on development and workflow support.
 
-Academic & Research
-- Applied data analysis, visualization, and machine learning techniques to explore complex scientific datasets.
-- Built multidimensional visualization tools supporting exploratory analysis in physics and geoscience contexts.
+### Professional
 
+* Reduced escalation friction by designing structured diagnostic approaches for complex production issues.
+* Converted recurring customer-reported defects into platform-level fixes and feedback loops with engineering.
+* Contributed to AI-assisted internal workflows aimed at decreasing operational toil and increasing support-to-engineering signal quality.
+
+### Academic & Research
+
+* Applied data analysis, visualization, and machine learning techniques to complex scientific datasets.
+* Built multidimensional visualization tools for exploratory analysis in physics and geoscience research contexts.
 
 ---
 
 ## Education
 
-### University of Colorado Boulder  
-**Master of Science - Computer Science**  
-**Graduate Certificate - Artificial Intelligence**
+### University of Colorado Boulder
 
-<details>
-<summary>Selected Coursework</summary>
+**M.S., Computer Science**
+Graduate Certificate – Artificial Intelligence
 
-- Algorithms for Searching, Sorting, and Indexing  
-- Dynamic Programming, Greedy & Approximation Algorithms  
-- Advanced Data Structures, RSA & Quantum Algorithms  
-- Supervised & Unsupervised Machine Learning  
-- Regression, Classification, SVMs, Trees, and Resampling  
-- Data Mining Pipelines, Methods, and Capstone Project  
-- Introduction to Deep Learning  
-- Computer Vision & Generative AI  
-- Cloud, Linux, and Network Systems  
-- Robotics: Mapping, Odometry, and Trajectory Generation (coursework)  
-- Ethics in AI and Computing  
-
-</details>
+Coursework emphasis: advanced algorithms, data structures, machine learning, deep learning, data mining pipelines, cloud systems, robotics fundamentals, and AI ethics.
 
 ---
 
-### University of California, Davis  
-**Bachelor of Arts - Physics**
+### University of California, Davis
 
-<details>
-<summary>Core Coursework</summary>
+**B.A., Physics**
 
-- Classical Mechanics  
-- Electrodynamics  
-- Statistical Mechanics  
-- Quantum Mechanics  
-- Atomic & Nuclear Physics  
-- Solid-State Physics  
-- Astrophysics  
-- Advanced Physics Laboratory  
+Foundation in classical mechanics, electromagnetism, statistical mechanics, quantum mechanics, and solid-state physics.
 
-</details>
+Selected experience:
 
-**Selected Projects**
-- **Solid-State Physics (Experimental):**  
-  Member of a semiconductor research team developing synthesis techniques for 14-1-11 single-domain crystalline structures.
-- **Solid-State Physics (Theoretical):**  
-  Developed molecular-dynamics and Monte-Carlo simulations of perturbed lattice systems, including skewed 2D crystalline arrays.
-- **Geophysics & Data Visualization:**  
-  Built data-visualization tools for analyzing first-order reversal curves derived from polar ice-core datasets, enabling multidimensional slicing and contour-based analysis.
+* Molecular dynamics and Monte Carlo simulation of perturbed lattice systems
+* Experimental semiconductor research
+* Multidimensional data visualization for geophysical datasets
 
 ---
 
-### City College of San Francisco  
-**Certificate of Achievement - Computer Programming (Java)**
+### City College of San Francisco
 
-<details>
-<summary>Core Coursework</summary>
+**Certificate – Computer Programming (Java)**
 
-- Data Structures & Algorithms  
-- Advanced Java (Standard Edition)  
-- Python Programming (Introductory & Advanced)  
-- SQL & NoSQL Databases  
-- Unix/Linux Systems  
-- Computer Architecture & Assembly  
-
-</details>
-
-**Academic Project**
-- Led an academic research project under Prof. Aaron Brick.
-- Extended OCR pipelines (Tesseract-OCR) with probabilistic judgments informed by corpus linguistics.
+Academic research project extending OCR pipelines (Tesseract-OCR) with probabilistic judgment informed by corpus linguistics.
 
 ---
 
 ## Research & Advanced Study (Ongoing)
-**Areas of Interest:**  
-Applied AI Systems · Agentic Architectures · ML Infrastructure · Robotics · AI Safety & Ethics · **Physics-informed ML (aspirational)**
 
-- Evaluating PhD programs in Computer Science with an emphasis on applied and industry-relevant research.
-- Exploring Doctor of Engineering (EngD) programs focused on real-world system design, deployment, and research translation.
-- Assessing programs based on curriculum rigor, research flexibility, and alignment with long-term applied AI goals.
+Primary interests:
+
+* Applied AI systems
+* Agentic architectures
+* ML infrastructure
+* Robotics fundamentals
+* AI safety & evaluation
+
+Long-term consideration: doctoral-level applied research aligned with large-scale AI system design and deployment. Industry-first, research-second orientation.
 
 ---
 
 ## Certifications (Selected)
-- Oracle WebLogic Server 11g - System Administration  
-- IBM RAG & Agentic AI Professional Certificate  
 
----
-
-## Continuous Learning
-*(Curated selection - full list available on request)*
-
-- MLOps - Machine Learning Operations  
-- Embedded Sensors and Motors  
-- Robotics Path Planning and Task Execution  
-- Investment Management with Python & Machine Learning  
-- IBM AI Developer Professional Certificate  
+* Oracle WebLogic Server 11g – System Administration
+* IBM RAG & Agentic AI Professional Certificate
 
 ---
 
 ## Projects
-A curated list of academic, research, and applied engineering projects is maintained here:
 
-**GitHub Projects Portfolio**  
-https://github.com/tcwbot/projects/blob/main/README.md
+Curated academic and applied engineering projects:
+
+GitHub Projects Portfolio
+[https://github.com/tcwbot/projects/blob/main/README.md](https://github.com/tcwbot/projects/blob/main/README.md)
