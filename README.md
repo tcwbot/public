@@ -1,7 +1,7 @@
 # Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /></p>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Domain-ML%20%7C%20Agents%20%7C%20Automation-orange?style=for-the-badge" />
 </p>
