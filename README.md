@@ -90,10 +90,9 @@ Automated threat detection and tracking for near-Earth asteroids.
 ## Projects & Contributions
 
 ### AI & Agentic Systems
-- [Simple LLM Agent](https://github.com/tcwbot/simpleagent): Lightweight local AI agent powered by Ollama using a ReAct loop for web and filesystem actions.
 - [AgenticOS](https://github.com/tcwbot/agenticos): Governed Python-first agent framework for safe recursive self-improvement with strict verification gates.
 - [ProbCR](https://github.com/aaronbrick/probcr): OCR enhancement work using corpus linguistics and probabilistic scoring to improve Tesseract output. Academic collaboration under Prof. Aaron Brick.
-
+- [Simple LLM Agent](https://github.com/tcwbot/simpleagent): Lightweight local AI agent powered by Ollama using a ReAct loop for web and filesystem actions.
 <p align="left">
   <img src="https://github.com/tcwbot/simpleagent/blob/main/docs/images/tui-screenshot.png" width="640"/>
 </p>
