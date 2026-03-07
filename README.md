@@ -6,9 +6,8 @@
   <img src="https://img.shields.io/badge/Domain-ML%20%7C%20Agents%20%7C%20Automation-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  Building practical systems across machine learning, agentic frameworks, automation tooling, and data-focused software engineering.
-</p>
+
+### Building practical systems across machine learning, agentic frameworks, automation tooling, and data-focused software engineering.
 
 ---
 
