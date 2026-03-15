@@ -97,13 +97,14 @@ Automated threat detection and tracking for near-Earth asteroids.
 </p>
 
 ### Utilities & Frameworks
-- RetroConvert: JavaFX visualization framework for converting high-bit graphics into editable pixel-grid renders.
 - [logger4py](https://github.com/tcwbot/logger4): Security-conscious Python logging framework inspired by Log4Shell lessons.
 - [create_flask_app](https://github.com/tcwbot/public/tree/main/scripts/create_flask_app): CLI scaffolder for bootstrapping Flask applications with consistent structure.
 - [Scripts & Utilities](https://github.com/tcwbot/public/tree/main/scripts): Practical automation scripts and CLI tools.
 - [Web Scraper](https://github.com/tcwbot/public/tree/main/scripts/python231): Multi-threaded scraper for CCSF certifications.
 - [CIDR Calculator](https://github.com/tcwbot/public/blob/main/scripts/cidr.py): Flask-based subnet calculator.
 - [interrupt_driven](https://github.com/tcwbot/public/tree/main/scripts/interrupt_driven): Kanban-style priority manager inspired by interrupt-driven scheduling.
+- [RetroConvert](https://github.com/tcwbot/public/blob/main/images/pixels.pn): JavaFX visualization framework for converting high-bit graphics into editable pixel-grid renders.
+  <img src="https://github.com/tcwbot/public/blob/main/images/pixels.png" width="200"  alt="RetroConvert: Graphics framework for visualizations. Custom API [Style | Size] pixel interface using javaFX. Enables artists to convert higher bit graphics to lower bit graphics, then artisticly correct or edit final render. Can create an n X m resolution grid with any pixel primative (i.e ovals, stars, or chamfered squares)."> 
 
 ## Machine Learning Experiments
 
