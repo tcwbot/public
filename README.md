@@ -72,9 +72,9 @@ Automated threat detection and tracking for near-Earth asteroids.
     <ul>
       <li><b>Objective:</b> Replace manual expert labeling with adaptive ML recommendations.</li>
       <li><b>Methodology:</b> SVM + K-fold validation + correlation-based weighting.</li>
-      <li><b>Model:</b> MySQL + RabbitMQ (job runner)</li>
-      <li><b>View:</b> Bootstrap</li>
-      <li><b>Controller:</b> Flask</li>
+      <li><b>Model:</b> POPO + MySQL + RabbitMQ (job runner)</li>
+      <li><b>View:</b> Bootstrap + Jinja</li>
+      <li><b>Controller:</b> Flask-Routes</li>
       <li><b>CI/CD:</b> Heroku</li>
     </ul>
   </td>
