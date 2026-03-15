@@ -109,7 +109,7 @@ Automated threat detection and tracking for near-Earth asteroids.
 ## Machine Learning Experiments
 
 ### Generative Adversarial Networks (GANs)
-Exploration of GAN structure and training using PyTorch and NumPy.
+Exploration of GAN structure and training using Tensorflow.
 
 <img src="https://github.com/tcwbot/public/blob/main/images/gan-model.png" width="360"/>
 
