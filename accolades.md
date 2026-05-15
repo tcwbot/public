@@ -2,7 +2,8 @@
 IBM RAG and Agentic AI Professional Certificate </br>
 https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai#courses
 
-
+Rust Programming Specialization <br/>
+https://www.coursera.org/specializations/rust-programming
 
 <details>
 	  <summary> Research Mode </summary>
@@ -201,8 +202,6 @@ https://www.coursera.org/specializations/embedding-sensors-motors
 IBM DevOps and Software Engineering Professional Certificate <br/>
 https://www.coursera.org/professional-certificates/devops-and-software-engineering <br/>
 
-Rust Programming Specialization <br/>
-https://www.coursera.org/specializations/rust-programming
 
 </details>
 
